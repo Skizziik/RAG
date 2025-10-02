@@ -1,0 +1,9 @@
+{
+  "race_id": "tzeentch",
+  "roster_info": {
+    "Units": {
+      "description": "Tzeentch unit roster The Tzeentch army has access to daemonic and mortal units. All units have barrier and magical attacks.",
+      "unit_types": []
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "race_id": "nurgle",
+  "other_information": {
+    "Factions": {
+      "description": "Nurgle factions are normal, non-horde factions who occupy settlements and control provinces.",
+      "details": []
+    },
+    "Minor factions": {
+      "description": "Total War: Warhammer III Factions introduced in The Realm of Chaos campaign: * * * * Factions introduced in the Immortal Empires campaign: *",
+      "details": []
+    },
+    "In-game description": {
+      "description": "Nurgle, also known as the Plague Lord, is the Chaos God of disease, decay, death, and degradation. He is perhaps the oldest of his brother Gods, for the process of decay began with life. Yet Nurgle is also the personification of rebirth. After all, atrophy is simply one part of life's cycle, without which nothing new can grow. And so those who embrace Nurgle, accept their own doom with good humour. Disfigured by disease and mutation, they are keen to spread Grandfather's blessings to the poor souls that wander through life unafflicted. As plagues spread, so to does Nurgle's power and status amongst his brothers - he waxes and wanes, weakest when bellies are full and mortals are healthy, but quickly rising to absolute ascendancy when his followers unleash the most lethal of diseases. * Plagues: Concoct and spread plagues across the world or afflict your own assets. * Cyclical Buildings: Settlements will grow over time and will then wither and die out.",
+      "details": [
+        "Plagues: Concoct and spread plagues across the world or afflict your own assets.",
+        "Cyclical Buildings: Settlements will grow over time and will then wither and die out."
+      ]
+    },
+    "In Battle": {
+      "description": "Getting damage in battle gets favour from Nurgle that can be used on the following army abilities: * Curse of the Slug * Fecundity * Rot, Glorious Rot",
+      "details": [
+        "Curse of the Slug",
+        "Fecundity",
+        "Rot, Glorious Rot"
+      ]
+    },
+    "Nurgle recruitment": {
+      "description": "Nurgle does not recruit units in the standard way. Rather than waiting several turns for a regiment to become ready to fight, groups of daemons are summoned directly to an army, raring to go. Units hired this way do not start at full strength, replenishing over time – another thing that can be buffed by various Nurglish skills and technologies. They can also be recruited in any neutral or friendly territory from a global pool, pulled from the Chaos Realms to help in the fight. There are caps on how many of each unit can be in the global pool, but as you approach the late game you are going to be able to fill and refill armies at an alarming rate. As you can imagine, this completely changes basically everything about how you build armies, make war, plan routes, and your priorities for settlements. You will have a lot more resources to spend, as you don’t need to regularly upgrade buildings, but each new settlement will cost more to get some basic stuff going. Once your unit stockpile is gone, refilling it takes more time, but it can happen extremely quickly once you have a large number of settlements.",
+      "details": []
+    },
+    "[[Plague Cauldron]]": {
+      "description": "See separate article for the mechanics of plagues and the Plague Cauldron.",
+      "details": []
+    },
+    "Unholy Manifestations": {
+      "description": "Unholy Manifestations are special actions unlocked by having a certain level of global corruption for your Chaos God, while Cults are special building slots unlocked in other faction’s settlements by having high corruption there. Nurgle’s Unholy Manifestations are: *Pestilent Growth **Unlocked from the start. ** Gives a 20% replenishment rate boost to an army for two turns, while disabling their campaign movement. *Blessing of Nurgle **Requires 1000 global Nurgle corruption **Increases the chance of plagues spreading in the local province by 30% for three turns, but disables campaign movement. *Exponential Growth **Requires 2000 global Nurgle corruption **Increases growth in the local province by 200 and decreases recruitment costs by 20% for target army for three turns. *Nurgle’s Visitation **Requires 3000 global Nurgle corruption **Instantly heals one army belonging to the player. Note that both growth and replenishment are particularly useful to Nurgle, as their main buildings are the only ones that require upgrades and control how far their other buildings go into their respective loops. Naturally, replenishment helps newly recruited units get up to strength quickly – this could also re-prioritise your lord skill tree choices, for example. Also, all these Manifestations are improved if Nurgle is in Ascendancy in the Great Game. Ascendancy is weighted based on the number of settlements, armies, and amount of favour gathered by all the factions dedicated to that God. It can still switch between any of the four when it changes, but the better you and your Godly allies are doing, the more likely you are to be in Ascendancy.",
+      "details": [
+        "Pestilent Growth",
+        "*Unlocked from the start.",
+        "* Gives a 20% replenishment rate boost to an army for two turns, while disabling their campaign movement.",
+        "Blessing of Nurgle",
+        "*Requires 1000 global Nurgle corruption",
+        "*Increases the chance of plagues spreading in the local province by 30% for three turns, but disables campaign movement.",
+        "Exponential Growth",
+        "*Requires 2000 global Nurgle corruption",
+        "*Increases growth in the local province by 200 and decreases recruitment costs by 20% for target army for three turns.",
+        "Nurgle’s Visitation",
+        "*Requires 3000 global Nurgle corruption",
+        "*Instantly heals one army belonging to the player."
+      ]
+    },
+    "Cults": {
+      "description": "Main Article: Cults For the Plague Cults the following buildings are available: *Shelter **Gives 25 infections per turn. *Refuge **Gives 40 infections per turn if growth in the region is at 200 or more. * Hospice **Gives 40 infections per turn if any Lord is present. *Colony **Gives a random plague to the settlement, but destroys the cult.",
+      "details": [
+        "Shelter",
+        "*Gives 25 infections per turn.",
+        "Refuge",
+        "*Gives 40 infections per turn if growth in the region is at 200 or more.",
+        "Hospice",
+        "*Gives 40 infections per turn if any Lord is present.",
+        "Colony",
+        "*Gives a random plague to the settlement, but destroys the cult."
+      ]
+    },
+    "Nurgle Corruption": {
+      "description": "Spreading corruption is easier and quicker for Nurgle factions over the other Chaos factions. Plagues naturally spread corruption, can be upgraded to spread more, and various characters and buildings have big boosts to spreading as well. This means quicker manifestation unlocks and more cults globally.",
+      "details": []
+    },
+    "Downloadable Content": {
+      "description": "colspan=\"4\" | DLC list colspan=\"4\" |Nurgle can be expanded upon with the following paid and free DLC: Name Base game Paid/free Type Champions of Chaos Total War: Warhammer III Paid Lord Pack Marked Chaos Warriors Total War: Warhammer III Free Unit Pack Thrones of Decay Total War: Warhammer III Paid Lord Pack Epidemius Total War: Warhammer III Free Legendary Lord and faction",
+      "details": []
+    },
+    "Strategy": {
+      "description": "Nurgle serves as the king of attrition warfare. Nurgle's armies focus on stalling the battle by having their large health pools absorb enemy damage while they slowly sap them down. Most of Nurgle's units have the trait Cloud of Flies which gives them more and more melee defense as they hold against the enemy. This allows them to exhaust they enemy until they have no resistance left. With the Lore of Nurgle and Lore of Death in hand, Nurgle can soften up the enemy to allow them to further worsen their slow demise. Nurgle is by far the slowest army in game. Most of his units lack speed and can easily be picked off by missile fire.",
+      "details": []
+    }
+  }
+}

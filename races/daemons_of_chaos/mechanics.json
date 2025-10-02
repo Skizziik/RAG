@@ -1,0 +1,11 @@
+{
+  "race_id": "daemons_of_chaos",
+  "unique_mechanics": {
+    "Unique campaign mechanics": {
+      "description": "Daemonic Glory Daemonic GloryThe Daemon Prince may gain glory with an individual Chaos God or Undivided for powerful rewards such as Daemonic Gifts, units and factionwide bonuses. Daemonic Gifts Daemonic GiftsDaemonic Gifts are the body parts and weapons for the Daemon Prince, they are unlocked as Daemonic Glory is earned. Some Daemonic Gifts will change the appearance of the Daemon Prince. Glory GloryGlory is a unique resource that allows the progression of Daemonic Glory. It is earned by dedicating victories in battle to the Chaos Gods, by constructing certain buildings, and through mission rewards. Bloodletting BloodlettingBloodletting is a fillable bar that provides bonuses when winning battles, these bonuses are increased when achieving higher levels of Bloodletting. However, the army must constantly win battles in order to maintain it otherwise it will decay and in the process lose the bonuses. Bloodletting requires Khorne's Offering III in Daemonic Glory to be unlocked. Switchable Plagues Switchable PlaguesSwitchable Plagues are set of unique plagues that can be imbued on all armies. Switchable Plagues requires Nurgle's Gifts III in Daemonic Glory to be unlocked. Seduce Units Seduce UnitsSeduce Units allows to spend favour to seduce enemy units prior to battle. Seduced units will switch sides and fight for the Daemons of Chaos in the upcoming engagement. Seduce Units requires Slaanesh's Delights III in Daemonic Glory to be unlocked. Teleport Stance Teleport StanceTeleport Stance allows an army to teleport to a short distance in the campaign map in exchange for Winds of Magic. Armies cannot be intercepted by nearby armies when teleporting unlike with the Underway, Worldroots or Beast-Paths and can launch attacks when teleporting. Teleport Stance requires Tzeentch's Boons III in Daemonic Glory to be unlocked.",
+      "features": []
+    }
+  },
+  "general_mechanics": {},
+  "magic": {}
+}

@@ -1,0 +1,37 @@
+{
+  "id": "ogre_kingdoms",
+  "name": "Ogre Kingdoms",
+  "type": "race",
+  "description": "In ancient times, the Ogres were forced to abandon their homelands in the Far East, after a comet impact created the Great Maw and turned their home into a corrupted desert. After a Great Migration we...",
+  "faction_type": "neutral",
+  "playstyle": [
+    "monstrous",
+    "mercenary"
+  ],
+  "difficulty": "easy",
+  "strengths": [
+    "Large units",
+    "Charge bonus",
+    "Camps anywhere"
+  ],
+  "weaknesses": [
+    "No flying",
+    "Expensive units"
+  ],
+  "keywords": [
+    "ogres",
+    "monstrous",
+    "camps",
+    "meat",
+    "mercenary",
+    "big",
+    "hungry"
+  ],
+  "tags": [
+    "ogre_kingdoms",
+    "neutral",
+    "base_game",
+    "monstrous",
+    "mercenary"
+  ]
+}

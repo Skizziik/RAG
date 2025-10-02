@@ -1,0 +1,9 @@
+{
+  "race_id": "kislev",
+  "roster_info": {
+    "Units": {
+      "description": "Kislev unit roster The Kislev roster are generally typical of human factions, with a solid core of infantry, a variety of good cavalry, but no fliers. Uniquely, many Kislev units are hybrid units, proficient both at range and in melee. For instance the Streltsi carry handguns with a large axe blade replacing the buttstock. Additionally, all units (except the Snow Leopard and Elemental Bear) have the By Our Blood ability, making them temporarily unbreakable when their leadership is wavering for the first time.",
+      "unit_types": []
+    }
+  }
+}

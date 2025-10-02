@@ -1,0 +1,11 @@
+{
+  "race_id": "khorne",
+  "unique_mechanics": {},
+  "general_mechanics": {
+    "Building": {
+      "description": "Khorne buildings|l1=Khorne Buildings",
+      "details": []
+    }
+  },
+  "magic": {}
+}

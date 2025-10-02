@@ -1,0 +1,129 @@
+{
+  "race_id": "ogre_kingdoms",
+  "name": "Ogre Kingdoms",
+  "infobox": {
+    "climates": "Suitable:",
+    "corruption": "Untainted"
+  },
+  "sections": {
+    "How They Play": {
+      "content": "* Camps - special settlements which Ogres can create anywhere on the campaign map. Camps act as the major settlements, providing most of their best buildings. * Big Names - Ogre Lords complete missions to unlock names which provide bonuses and can be swapped after 10 turns. * Bounties - receive missions from other factions you are not at war with, for rewards. * Meat - a unique resource gained from battles, it is spent on army upkeep or sacrificed to the Great Maw for faction-wide buffs. * Units - Most units are monstrous infantry and large monsters, along with a few small Gnoblar units. No flying units.",
+      "list_items": [
+        "Camps - special settlements which Ogres can create anywhere on the campaign map. Camps act as the major settlements, providing most of their best buildings.",
+        "Big Names - Ogre Lords complete missions to unlock names which provide bonuses and can be swapped after 10 turns.",
+        "Bounties - receive missions from other factions you are not at war with, for rewards.",
+        "Meat - a unique resource gained from battles, it is spent on army upkeep or sacrificed to the Great Maw for faction-wide buffs.",
+        "Units - Most units are monstrous infantry and large monsters, along with a few small Gnoblar units. No flying units."
+      ]
+    },
+    "Background": {
+      "content": "In ancient times, the Ogres were forced to abandon their homelands in the Far East, after a comet impact created the Great Maw and turned their home into a corrupted desert. After a Great Migration westwards, they destroyed the civilisation of the Sky-Titans, scattering the survivors who went on to become the Giants of today. The Ogres eventually settled in the Mountains of Mourn, establishing the Ogre Kingdoms. The Kingdoms are inhabited mostly by the namesake Ogres, a race of large humanoids, and Gnoblars, a small type of Greenskin. Ogres are tall and broad, easily the size of a , and much larger than a man or elf. They are violent, tough, always hungry, and typically more intelligent than Greenskins (though not by much). Gnoblars are small and cowardly, being even more pathetic than their Goblin cousins, but vicious and large in number. They serve the Ogres as slaves, and often snacks. Ogre culture revolves mostly around eating and violence, and cannibalism is common and accepted. Their primary god, The Great Maw, is a cruel deity of unending hunger and is worshipped with great bloody feasts overseen by Slaughtermasters - Ogres who are part cook, part wizard, and part priest. A secondary god is the Fire Mouth, a volcano worshipped by the Firebellies. Each Ogre Kingdom is ruled by a Tyrant, whose domain extends as far as he can see in the valleys of the Mountains of Mourn. The current Overtyrant of the Ogre Kingdoms is Greasus Goldtooth, a particularly canny and obese Ogre who has managed to convince most other Ogres that gold is as valuable as food. Greasus extracts tribute from trade caravans on the Ivory Road, and has become incredibly wealthy as a result. Ogres also have a great wanderlust, and Ogre mercenaries, known as Maneaters, can be found in camps across the world. Ogres are pragmatic and unscrupulous, they will work for anyone who can pay in gold, or, preferably, in food. Should payments stop they will immediately depart or, in some cases, eat their former employers. The Ogre Kingdoms are unique in that most units in their army are monstrous infantry (such as the Ogres themselves, and Yhetees), though they are also accompanied by various beasts of the mountains such as Rhinoxen and Sabretusks, and of course Gnoblars.",
+      "list_items": null
+    },
+    "Factions": {
+      "content": "Ogre Kingdoms factions are normal, non-horde factions who occupy settlements and control provinces.",
+      "list_items": null
+    },
+    "Playable factions": {
+      "content": "In campaign there are three playable Ogre Kingdoms racial factions, each with its own starting position, and led by separate Legendary Lord. See individual pages for faction-specific info. *, led by Greasus Goldtooth. *, led by Skrag the Slaughterer. *The Maneaters, led by Golgfag Maneater.",
+      "list_items": [
+        ", led by Greasus Goldtooth.",
+        ", led by Skrag the Slaughterer.",
+        "The Maneaters, led by Golgfag Maneater."
+      ]
+    },
+    "Minor factions": {
+      "content": "Total War: Warhammer III Factions introduced in The Realm of Chaos campaign: * * * * * * * * * * * * * * * * Factions introduced in the Immortal Empires campaign: * * * *The Famished",
+      "list_items": [
+        "The Famished"
+      ]
+    },
+    "In Battle": {
+      "content": "",
+      "list_items": null
+    },
+    "Units": {
+      "content": "Ogre Kingdoms unit roster The majority of units in the Ogre Kingdoms unit roster are monstrous infantry, monstrous cavalry or monsters, which sets them apart from other races. All units designated as monstrous infantry (except Gorgers) get access to Ogre Charge.",
+      "list_items": null
+    },
+    "Magic": {
+      "content": "Ogre Kingdoms have access to 5 lores of magic: * Lore of Beasts * Lore of Fire * Lore of the Great Maw * Lore of Heavens * Lore of Death",
+      "list_items": [
+        "Lore of Beasts",
+        "Lore of Fire",
+        "Lore of the Great Maw",
+        "Lore of Heavens",
+        "Lore of Death"
+      ]
+    },
+    "In the Campaign": {
+      "content": "",
+      "list_items": null
+    },
+    "Buildings": {
+      "content": "Main article: Ogre Kingdoms buildings",
+      "list_items": null
+    },
+    "Technology": {
+      "content": "Main article: Ogre Kingdoms tech tree",
+      "list_items": null
+    },
+    "Camps": {
+      "content": "Ogre Camps are special settlements that can be created anywhere by an Ogre Kingdoms army. These can level up to settlement level 5, and can contain the full range of Ogre Kingdoms buildings. In a similar manner to hordes, Camp buildings require population surplus to construct/upgrade. In a similar manner to Black Arks, Camps can hold units which can be exchanged with an Ogre Kingdoms army. Ogre Kingdoms factions can also colonise and take regular settlements on the campaign map as well, however these will only ever be minor Ogre settlements, which can only be upgraded to level 3 and have only 4 building slots - even if it's the province capital. Settlements with resources buildings provide even more bonuses such as buffing all units on a factionwide scale or increasing camp capacity. Should another faction be near an ogre camp, and not be at war with the owner, they may recruit Ogre units as mercenaries depends on how developed the said camp is.",
+      "list_items": null
+    },
+    "Bounties": {
+      "content": "See also: Bounties",
+      "list_items": null
+    },
+    "Meat": {
+      "content": "See also: Meat",
+      "list_items": null
+    },
+    "Big Names": {
+      "content": "See also: Big Names",
+      "list_items": null
+    },
+    "Names": {
+      "content": "See also: Ogre Kingdoms names",
+      "list_items": null
+    },
+    "Downloadable content": {
+      "content": "colspan=\"4\" | DLC list colspan=\"4\" |The Ogre Kingdoms can be expanded upon with the following paid and free DLC: Name Base game Paid/free Type Ogre Kingdoms Total War: Warhammer III Paid Race Pack Omens of Destruction Total War: Warhammer III Paid Lord Pack",
+      "list_items": null
+    },
+    "Trivia": {
+      "content": "*Before TWW3, the Ogre Kingdoms were sparsely referenced, such as with the Ogre Blade. *There were however special recruitable Ogre units in the form of Ogre Mercenaries. These include the Ogre Bulls, Ogre Bulls (Dual Weapons), Maneaters (Ogre Pistols), Maneaters (Great Weapons), and Mournfang Cavalry. This lead to correct guessing that the Ogres would be in TWW3.",
+      "list_items": [
+        "Before TWW3, the Ogre Kingdoms were sparsely referenced, such as with the Ogre Blade.",
+        "There were however special recruitable Ogre units in the form of Ogre Mercenaries. These include the Ogre Bulls, Ogre Bulls (Dual Weapons), Maneaters (Ogre Pistols), Maneaters (Great Weapons), and Mournfang Cavalry. This lead to correct guessing that the Ogres would be in TWW3."
+      ]
+    },
+    "Gallery": {
+      "content": "",
+      "list_items": null
+    },
+    "Concept art": {
+      "content": "File:Skrag-ca.jpg File:Greasus-kart-ca.jpg File:Tyrant-ca.jpg File:Hunter-ca.jpg File:Firebelly-ca.jpg File:Butcher-ca.jpg File:Bulls-ca.jpg File:Irongut-ca.jpg File:Maneater-ca.jpg File:Leadbelcher-ca.jpg File:Gnoblar-ca.jpg File:Trappers-ca.jpg File:Gorger-ca.jpg File:Giant-ca.jpg File:Sabretusk-ca.jpg File:Crusher-ca.jpg File:Mournfang-ca.jpg File:Stonehorn-ca.jpg",
+      "list_items": null
+    },
+    "Screenshots": {
+      "content": "File:Warhammer-3-ogre-kingdoms-legendary-lords.jpg File:Total-war-warhammer-3-release-date-ogre-kingdoms-reveal-3.jpg File:Total-war-warhammer-3-release-date-ogre-kingdoms-reveal-1.jpg File:Total-war-warhammer-3-release-date-ogre-kingdoms-reveal-2.jpg",
+      "list_items": null
+    },
+    "Videos": {
+      "content": "",
+      "list_items": null
+    },
+    "Trailer": {
+      "content": "",
+      "list_items": null
+    },
+    "References": {
+      "content": "* (Total War Blog) es:Reinos Ogros Category:Ogre Kingdoms Category:Total War: Warhammer III Category:Total War: Warhammer III factions Category:Races",
+      "list_items": [
+        "(Total War Blog)"
+      ]
+    }
+  }
+}

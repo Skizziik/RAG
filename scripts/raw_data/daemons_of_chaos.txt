@@ -1,0 +1,396 @@
+{{Infobox faction
+|image      =campaign_daemons1.png
+|type       =[[Race]]
+|money =[[File:Icon income chaos.png]] [[Favour]]
+|special money =[[File:Icon dae undivided points.png]] [[Glory]]
+|campaigns  =[[The Realm of Chaos]]<br>[[Immortal Empires]]<br>[[Something Rotten in Kislev]] <small>(minor factions only)</small>
+|subfactions ={{Legion of Chaos faction}}
+|legendary lords =[[The Daemon Prince]]
+|climates   =Suitable: <br>[[File:Frozen.png]] [[File:Wasteland.png]] [[File:Chaotic_wasteland.png]] [[File:Temperate.png]] [[File:Temperate_island.png]] [[File:Savannah.png]]<br>Unpleasant: <br>[[File:Magical_forest.png]] [[File:Mountain.png]] [[File:Jungle.png]]<br>
+Uninhabitable:<br> [[File:Ocean.png]] [[File:Desert.png]]
+|corruption=[[File:Icon corruption chs.png|20px]] [[Total_War:_Warhammer_III_corruption#Chaos_Undivided_Corruption|Chaos Undivided Corruption]]<br>[[File:Icon corruption kho.png|20px]] [[Total_War:_Warhammer_III_corruption#Khorne_Corruption|Khorne Corruption]]<br>[[File:Icon corruption nur.png|20px]] [[Total_War:_Warhammer_III_corruption#Nurgle_Corruption|Nurgle Corruption]]<br>[[File:Icon corruption sla.png|20px]] [[Total_War:_Warhammer_III_corruption#Slaanesh_Corruption|Slaanesh Corruption]]<br>[[File:Icon corruption tze.png|20px]] [[Total_War:_Warhammer_III_corruption#Tzeentch_Corruption|Tzeentch Corruption]]
+|provinces  =[[The Forest of Decay]] <small>(Immortal Empires)</small>
+|DLC = [[Champions of Chaos]]<br>[[Shadows of Change]]<br>[[Thrones of Decay]]
+|feature 1 title =[[Daemonic Gifts]]
+|feature 1 icon =[[File:Bullet dae daemonic gifts.png]]
+|feature 1 description =Equip body parts and weapons granted by the Chaos Gods to customise the Daemon Prince.
+|feature 2 title =[[Daemonic Glory]]
+|feature 2 icon =[[File:Bullet dae daemonic progression.png]]
+|feature 2 description =Ascribe glory to the four Chaos Gods to be granted boons in the form of Daemonic Gifts and units.
+}}
+
+'''{{PAGENAME}}''' is a playable [[race]] introduced in ''[[Total War: Warhammer III]]''.
+
+== How to play ==
+*'''[[Daemonic Glory]]''': Ascribe glory to the four Chaos Gods to be granted boons in the form of Daemonic Gifts and units.
+*'''[[Daemonic Gifts]]''': Equip body parts and weapons granted by the Chaos Gods to customise the Daemon Prince.
+*'''Unit roster''': Daemons of Chaos allow you to mix the forces of all the Chaos Gods. This makes the race versatile and unpredictable. Causing damage with your Lord generates glory, which rewards you with random army abilities in battles from the Reign of Chaos. 
+
+== Background ==
+Manipulated into a horrifying act by [[Be'lakor|another]], the [[Prince Yuri|Ungol Prince]] has given himself up entirely in exchange for the Ruinous blessings of all the Chaos Gods and ascendancy to Daemonhood. The newly arisen Daemon Prince shrugs off his mortal form to take on an ever-changing aspect more pleasing to his new patrons, who continue to war for his ravaged soul.
+
+Now, it is the destiny of the Daemon Prince to command the [[Daemons|legions of Chaos Undivided]] in waging eternal war against entire nations and immortal rivals, as he seeks a terrible vengeance on sovereigns and even gods. Will he claim the Mark of one master or forge a path that will bring him to utter domination, which even the Dark Powers will struggle to harness?
+
+== Factions ==
+Daemons of Chaos factions are normal, non-[[horde]] factions who occupy settlements and control [[provinces]].
+
+=== Playable factions ===
+*'''{{Legion of Chaos faction}}''', led by [[The Daemon Prince]].
+
+=== Minor factions ===
+Factions introduced in [[The Realm of Chaos]] campaign:
+*{{Shadow Legion DoC faction}}
+
+== In Battle ==
+=== Units ===
+{{Main|Daemons of Chaos unit roster}}
+
+With access to a big roster of units, consisting of units of all four Chaos Gods, they have access to a very versatile army that can cover most roles, or be build around a certain specialisation. Notable is that the Daemons of Chaos don't have any units unique to them, aside from the undivided version of the [[Chaos Furies]].
+
+=== [[File:Bullet icon empire magic colleges.png]] Magic ===
+Daemons of Chaos have access to six lores of magic:
+
+*[[File:Icon wh main lore death.png|38px]][[Lore of Death]]
+*[[File:Icon wh main lore metal.png|38px]][[Lore of Metal]]
+*[[File:Icon wh main lore nurgle.png|38px]][[Lore of Nurgle]]
+*[[File:Icon wh main lore shadow.png|38px]][[Lore of Shadows]]
+*[[File:Icon wh main lore slaanesh.png|38px]][[Lore of Slaanesh]]
+*[[File:Icon wh main lore tzeentch.png|38px]][[Lore of Tzeentch]]
+
+== In the Campaign ==
+=== Unique campaign mechanics ===
+{| class="article-table width=100% mw-collapsible mw-collapsed" data-collapsetext="&#9650;" data-expandtext="&#9660;" style="width:100%"
+![[File:Icon daemonic progression.png|36px]]<span style="font-size:20px;"> Daemonic Glory</span>
+|-
+|{{Main|Daemonic Glory}}The Daemon Prince may gain glory with an individual Chaos God or Undivided for powerful rewards such as Daemonic Gifts, units and factionwide bonuses.
+|}
+{| class="article-table width=100% mw-collapsible mw-collapsed" data-collapsetext="&#9650;" data-expandtext="&#9660;" style="width:100%"
+![[File:Bullet dae daemonic gifts.png]]<span style="font-size:20px;"> Daemonic Gifts</span>
+|-
+|{{Main|Daemonic Gifts}}Daemonic Gifts are the body parts and weapons for the Daemon Prince, they are unlocked as Daemonic Glory is earned. Some Daemonic Gifts will change the appearance of the Daemon Prince.
+|}
+{| class="article-table width=100% mw-collapsible mw-collapsed" data-collapsetext="&#9650;" data-expandtext="&#9660;" style="width:100%"
+![[File:Bullet dae daemonic progression.png]]<span style="font-size:20px;"> Glory</span>
+|-
+|{{Main|Glory}}Glory is a unique resource that allows the progression of Daemonic Glory. It is earned by dedicating victories in battle to the Chaos Gods, by constructing certain buildings, and through mission rewards.
+|}
+{| class="article-table width=100% mw-collapsible mw-collapsed" data-collapsetext="&#9650;" data-expandtext="&#9660;" style="width:100%"
+![[File:God power khorne.png|56px|link=Bloodletting]] <span style="font-size:20px;">Bloodletting</span>
+|-
+|{{Main|Bloodletting}}Bloodletting is a fillable bar that provides bonuses when winning battles, these bonuses are increased when achieving higher levels of Bloodletting. However, the army must constantly win battles in order to maintain it otherwise it will decay and in the process lose the bonuses. Bloodletting requires Khorne's Offering III in Daemonic Glory to be unlocked.
+|}
+{| class="article-table width=100% mw-collapsible mw-collapsed" data-collapsetext="&#9650;" data-expandtext="&#9660;" style="width:100%"
+![[File:God power nurgle.png|56px|link=Switchable_Plagues]]<span style="font-size:20px;"> Switchable Plagues</span>
+|-
+|{{Main|Switchable Plagues}}Switchable Plagues are set of unique plagues that can be imbued on all armies. Switchable Plagues requires Nurgle's Gifts III in Daemonic Glory to be unlocked.
+|}
+{| class="article-table width=100% mw-collapsible mw-collapsed" data-collapsetext="&#9650;" data-expandtext="&#9660;" style="width:100%"
+![[File:God power slaanesh.png|56px]] <span style="font-size:20px;">Seduce Units</span>
+|-
+|{{Main|Seduce Units}}Seduce Units allows to spend favour to seduce enemy units prior to battle. Seduced units will switch sides and fight for the Daemons of Chaos in the upcoming engagement.  Seduce Units requires Slaanesh's Delights III in Daemonic Glory to be unlocked.
+|}
+{| class="article-table width=100% mw-collapsible mw-collapsed" data-collapsetext="&#9650;" data-expandtext="&#9660;" style="width:100%"
+![[File:God power tzeentch.png|56px]]<span style="font-size:20px;"> Teleport Stance</span>
+|-
+|{{Main|Teleport Stance}}Teleport Stance allows an army to teleport to a short distance in the campaign map in exchange for Winds of Magic. Armies cannot be intercepted by nearby armies when teleporting unlike with the [[Underway]], [[Worldroots]] or [[Beast-Paths]] and can launch attacks when teleporting. Teleport Stance requires Tzeentch's Boons III in Daemonic Glory to be unlocked.
+|}
+
+=== General mechanics ===
+{| class="article-table width=100% mw-collapsible mw-collapsed" data-collapsetext="&#9650;" data-expandtext="&#9660;" style="width:100%"
+![[File:Event great game neutral.png|36px|link=Total_War:_Warhammer_III_corruption]] <span style="font-size:20px;">Corruption</span>
+|-
+|Daemons of Chaos spreads all 5 types of Chaos corruption:
+*[[File:Icon corruption chs.png]] [[Total_War:_Warhammer_III_corruption#Chaos_Undivided_Corruption|Chaos Undivided Corruption]]
+*[[File:Icon corruption kho.png]] [[Total_War:_Warhammer_III_corruption#Khorne_Corruption|Khorne Corruption]] 
+*[[File:Icon corruption nur.png]] [[Total_War:_Warhammer_III_corruption#Nurgle_Corruption|Nurgle Corruption]]
+*[[File:Icon corruption sla.png]] [[Total_War:_Warhammer_III_corruption#Slaanesh_Corruption|Slaanesh Corruption]]
+*[[File:Icon corruption tze.png]] [[Total_War:_Warhammer_III_corruption#Tzeentch_Corruption|Tzeentch Corruption]]
+|}
+{| class="article-table width=100% mw-collapsible mw-collapsed" data-collapsetext="&#9650;" data-expandtext="&#9660;" style="width:100%"
+!<span style="font-size:20px;">[[File:Event Buildings Neutral.png|36px|link=Daemons of Chaos buildings]]  Buildings</span>
+|-
+|{{Main|Daemons of Chaos buildings}}The Daemons of Chaos dedicate each settlement they claim to one of the four Chaos Gods, giving access to buildings that grant buffs and recruitment of units related to that Chaos God.
+|}
+{| class="article-table width=100% mw-collapsible mw-collapsed" data-collapsetext="&#9650;" data-expandtext="&#9660;" style="width:100%"
+!<span style="font-size:20px;">[[File:Event Technology Neutral.png|36px|link=]]  Technology</span>
+|-
+|Daemons of Chaos do not have a traditional tech tree like other races; instead Daemonic Glory serves as their technology tree.
+
+|}
+{| class="article-table width=100% mw-collapsible mw-collapsed" data-collapsetext="&#9650;" data-expandtext="&#9660;" style="width:100%"
+! colspan="3" |<span style="font-size:20px;">[[File:Event Character Activity Neutral.png|36px|link=]]  Stances</span>
+|-
+!Stance
+!Description
+!Effects
+|-
+![[File:Default Stance None.png]]
+'''None'''
+|''Traverses the world as normal.''
+|None
+|-
+![[File:Military force active stance type teleport.png]]
+'''Teleport'''<br><small>(requires [[Daemonic_Glory#Tzeentch_Glory|Tzeentch's Boons III]])</small>
+|''Teleport throughout the world, bypassing impassable terrain with the opportunity to attack unsuspecting enemy armies.''
+|
+*[[File:Magic campaign.png]] <span style="color:#ffb900">Winds of Magic power reserve to move: 40</span>
+*[[File:Campaign movement.png]] <span style="color:#a0ff37">Teleport past terrain that would normally be impassable</span>
+*[[File:Campaign movement.png]] <span style="color:#ffb900">Minimum requirement to assume: Not moved this turn</span>
+*[[File:Attrition.png]] <span style="color:#a0ff37">Immune to most attrition</span>
+|-
+![[File:Stance March.png]]
+'''March'''
+|''Increases this army's campaign map marching range.''
+|
+*[[File:Campaign movement.png]] <span style="color:#a0ff37">Campaign movement: +50%</span>
+*[[File:Military.png]] <span style="color:#ff2d2d">Recruitment: Disabled</span>
+*[[File:Vigour.png]] <span style="color:#ff2d2d">Vigour in battle: Tired</span>
+*[[File:Icon effects ambush.png]] <span style="color:#ff2d2d">Ambush defence chance: -25%</span>
+*[[File:Melee.png]] <span style="color:#ff2d2d">Should the army be attacked, retreat will be impossible; if it loses the battle it will be wiped out</span>
+*[[File:Melee.png]] <span style="color:#ff2d2d">Battle initiation: Disabled</span>
+|-
+![[File:Icon ambush stance.png]]
+'''Ambush'''
+|''Conceals this army, allowing surprise attacks against passing enemies.''
+|
+*[[File:Campaign movement.png]] <span style="color:#ffb900">Campaign movement range penalty: 25%</span>
+*[[File:Subterfuge.png]] <span style="color:#a0ff37">Hidden until discovered or battle initiated</span>
+|-
+![[File:Raiding.png]]
+'''Raiding'''
+|''Raids wealth from the local region.''
+|
+*[[File:Campaign movement.png]] <span style="color:#ffb900">Campaign movement range penalty: 50%</span>
+*[[File:Campaign movement.png]] <span style="color:#ff2d2d">Campaign movement: -25%</span>
+*[[File:Icon income plus favour.png]] <span style="color:#a0ff37">Income generated from raiding: 25</span>
+*[[File:Public order.png]] <span style="color:#a0ff37">Control: -3 in the raided province</span>
+*[[File:Growth.png]] <span style="color:#a0ff37">Growth: -5 in the raided province</span>
+*[[File:Attrition.png]] <span style="color:#a0ff37">Immune to most attrition</span>
+*[[File:Vigour.png]] <span style="color:#ff2d2d">Vigour in battle: Winded</span>
+*[[File:Diplomacy.png]] <span style="color:#ff2d2d">Diplomacy: Penalties with raided factions</span>
+*[[File:Income trait favour.png]] <span style="color:#ff2d2d">Income from all buildings: -100% (when raiding own region)</span>
+|-
+![[File:Military force active stance type set camp.png]]
+'''Encamp'''
+|''Sets up a defensive camp, allowing for recruitment and replenishment, regardless of territory.''
+|
+*[[File:Campaign movement.png]] <span style="color:#ffb900">Campaign movement range penalty: 50%</span>
+*[[File:Replenishment.png]] <span style="color:#a0ff37">Enables replenishment and access to the Global recruitment pool</span>
+*[[File:Attrition.png]] <span style="color:#a0ff37">Immune to most attrition</span>
+*[[File:Campaign movement.png]] <span style="color:#ff2d2d">Campaign movement disabled when recruitment</span>
+*[[File:Icon effects ambush.png]] <span style="color:#a0ff37">Ambush defence chance: +75%</span>
+*[[File:Morale.png]] <span style="color:#a0ff37">Leadership: +5</span>
+*[[File:Defence.png]] <span style="color:#a0ff37">Melee defence: +5</span>
+|-
+![[File:Military force active stance type channeling.png]]
+'''Channelling'''
+|''Increases the favourability of the Winds of Magic when fighting battles.''
+|
+*[[File:Magic campaign.png]] <span style="color:#a0ff37">Winds of Magic power reserve: +15 per turn</span>
+*[[File:Campaign movement.png]] <span style="color:#ffb900">Campaign movement range penalty: 10%</span>
+|}
+
+{| class="article-table width=100% mw-collapsible mw-collapsed" data-expandtext="&#9660;" data-collapsetext="&#9650;" style="width:100%"
+! colspan="3" |[[File:Event Military Neutral.png|36px|link=Post-battle_options]]<span style="font-size:20px;">  Post-battle options</span>
+|-
+!Option
+!Description
+!Effects
+|-
+![[File:Wh3 main dae kill undivided.png]]
+'''Offer to the Chaos Gods'''
+|''Sacrifice the captives in the name of all Chaos Gods and the Chaos Gods will grant you their gifts!''
+|
+*[[File:Icon dae undivided points.png]] <span style="color:#a0ff37">Undivided Glory increased</span>
+|-
+![[File:Wh3 main dae kill kho.png]]
+'''Offer to Khorne'''
+|''Sacrifice the captives in the name of Khorne and He will grant you His gifts!''
+|
+*[[File:Icon dae khorne points.png]] <span style="color:#a0ff37">Khorne Glory increased</span>
+*Your army will gain the following effect:<br>[[File:Experience.png]] Slaughtered Captives (Turns: 1)<br>''The Chaos Gods look upon this army favourably.''<br>[[File:Experience.png]] <span style="color:#a0ff37">Unit experience: +100</span>
+|-
+![[File:Wh3 main dae kill nur.png]]
+'''Offer to Nurgle'''
+|''Sacrifice the captives in the name of Nurgle and He will grant you His gifts!''
+|
+*[[File:Icon Replenish.png]] <span style="color:#a0ff37">Army replenished</span>
+*[[File:Icon dae nurgle points.png]] <span style="color:#a0ff37">Nurgle Glory increased</span>
+|-
+![[File:Wh3 main dae kill sla.png]]
+'''Offer to Slaanesh'''
+|''Sacrifice the captives in the name of Slaanesh and He will grant you His gifts!''
+|
+*[[File:Icon dae slaanesh points.png]] <span style="color:#a0ff37">Slaanesh Glory increased</span>
+*[[File:Icon treasury favour.png]] <span style="color:#a0ff37">Total Favour increased</span>
+|-
+![[File:Wh3 main dae kill tze.png]]
+'''Offer to Tzeentch'''
+|''Sacrifice the captives in the name of Tzeentch and He will grant you His gifts!''
+|
+*[[File:Icon dae tzeentch points.png]] <span style="color:#a0ff37">Tzeentch Glory increased</span>
+*[[File:Icon magic pool.png]] <span style="color:#a0ff37">Winds of Magic Power Reserve increased</span>
+|}
+
+{| class="article-table width=100% mw-collapsible mw-collapsed" data-collapsetext="&#9650;" data-expandtext="&#9660;" style="width:100%"
+! colspan="6" |<span style="font-size:20px;">[[File:Event City Neutral.png|36px|link=Settlement options]]  Settlement options</span>
+|-
+!Occupy (Khorne)
+!Occupy (Nurgle)
+!Occupy (Slaanesh)
+!Occupy (Tzeentch)
+!Sack
+!Raze
+|-
+![[File:Wh3 occupy khorne.png]]
+![[File:Wh3 occupy nurgle.png]]
+![[File:Wh3 occupy slaanesh.png]]
+![[File:Wh3 occupy tzeentch.png]]
+![[File:Wh3 main dae daemons sack.png]]
+![[File:Raze Settlement.png]]
+|-
+|For the glory of Khorne! You occupy the settlement.
+
+
+Dedicating settlements in a province to various Ruinous Powers allows you to recruit a greater variety of Daemons, while focusing your dedication will accelerate your Daemonic Glory to that God.
+|For the glory of Nurgle! You occupy the settlement.
+
+
+Dedicating settlements in a province to various Ruinous Powers allows you to recruit a greater variety of Daemons, while focusing your dedication will accelerate your Daemonic Glory to that God.
+|For the glory of Slaanesh! You occupy the settlement.
+
+
+Dedicating settlements in a province to various Ruinous Powers allows you to recruit a greater variety of Daemons, while focusing your dedication will accelerate your Daemonic Glory to that God.
+|For the glory of Tzeentch! You occupy the settlement.
+
+
+Dedicating settlements in a province to various Ruinous Powers allows you to recruit a greater variety of Daemons, while focusing your dedication will accelerate your Daemonic Glory to that God.
+|You do not capture the settlement but instead steal wealth and damage buildings. All captives are enslaved, [[File:Icon public order.png|link=]]control is reduced, and the previous owner will like you a lot less.
+|All buildings are destroyed and the settlement is torched. The previous owner will like you at lot less.
+|-
+|
+*[[File:Icon dae undivided points.png]] Undivided Glory
+*[[File:Icon dae khorne points.png]] Khorne Glory
+|
+*[[File:Icon dae undivided points.png]] Undivided Glory
+*[[File:Icon dae nurgle points.png]] Khorne Glory
+|
+*[[File:Icon dae undivided points.png]] Undivided Glory
+*[[File:Icon dae slaanesh points.png]] Slaanesh Glory
+|
+*[[File:Icon dae undivided points.png]] Undivided Glory
+*[[File:Icon dae tzeentch points.png]] Tzeentch Glory
+|
+*[[File:Icon province instability.png]] Province instability: -10
+*[[File:Icon treasury favour.png]] Treasury
+|
+*[[File:Icon treasury favour.png]] Treasury
+|}
+{| class="article-table width=100% mw-collapsible mw-collapsed" data-collapsetext="&#9650;" data-expandtext="&#9660;" style="width:100%"
+! colspan="2" |<span style="font-size:20px;">[[File:Event Province Region Neutral.png|36px|link=Commandments]]  Commandments</span>
+|-
+!Commandment
+!Effects
+|-
+![[File:Wh3 main edict dae foster cults.png]]
+'''Foster Cults'''
+|
+*[[File:Corruption chaos.png]] <span style="color:#a0ff37">Chaos Undivided corruption in adjacent provinces: +1</span>
+*[[File:Corruption chaos.png]] <span style="color:#a0ff37">Chaos Undivided corruption: +3</span>
+|-
+![[File:Wh3 main edict kho foster cults.png]]
+'''Praise Khorne'''
+|
+*[[File:Khorne points.png]]<span style="color:#a0ff37"> Khorne glory generated: +3</span>
+*[[File:Treasury Chaos.png]] <span style="color:#a0ff37">Recruitment cost: -5%</span>
+*[[File:Army.png]] <span style="color:#a0ff37">Local recruitment capacity: +1</span>
+|-
+![[File:Wh3 main edict nur foster cults.png]]
+'''Revere Nurgle'''
+|
+*[[File:Nurgle points.png]] <span style="color:#a0ff37">Nurgle glory generated: +3</span>
+*[[File:Campaign movement.png]] <span style="color:#a0ff37">Campaign movement range: -20% for enemy armies starting their turn in this region (enemy armies in region)</span>
+*[[File:Growth.png]]<span style="color:#a0ff37"> Growth: +15</span>
+|-
+![[File:Wh3 main edict sla foster cults.png]]
+'''Extol Slaanesh'''
+|
+*[[File:Slaanesh points.png]] <span style="color:#a0ff37">Slaanesh glory generated: +3</span>
+*[[File:Public order.png]] <span style="color:#a0ff37">Control: +4</span>
+|-
+![[File:Wh3 main edict tze foster cults.png]]
+'''Favour Tzeentch'''
+|
+*[[File:Tzeentch points.png]] <span style="color:#a0ff37">Tzeentch glory generated: +3</span>
+*[[File:Plague.png]] <span style="color:#a0ff37">Chance of a plague spreading: -40% (armies in province)</span>
+*[[File:Income trait favour.png]] <span style="color:#a0ff37">Income from all buildings: +5%</span>
+|}
+{| class="article-table width=100% mw-collapsible mw-collapsed" data-expandtext="&#9660;" data-collapsetext="&#9650;" style="width:100%"
+!<span style="font-size:20px;">[[File:Event Commander Activity Neutral.png|36px|link=]] Inventory</span>
+|-
+|
+*[[:Category:Daemons of Chaos abilities|Daemons of Chaos abilities]]
+*[[:Category:Daemons of Chaos items|Daemons of Chaos items]]
+*[[Daemons of Chaos followers]]
+*[[Daemons of Chaos banners]]
+*[[Chaos Gods army names#Daemons of Chaos|Daemons of Chaos names]]
+|}
+
+== Downloadable content ==
+{| class="article-table width=100% mw-collapsible mw-collapsed" data-collapsetext="&#9650;" data-expandtext="&#9660;" style="width:100%"
+! colspan="4" |[[File:Event Diplomacy Neutral.png|36px]]<span style="font-size:20px;">  DLC list</span>
+|-
+| colspan="4" |Daemons of Chaos can be expanded upon with the following paid and free [[DLC]]:
+|-
+|Name
+|Base game
+|Paid/free
+|Type
+|-
+|[[Champions of Chaos]]
+|Total War: Warhammer III
+|Paid
+|Lord Pack
+|-
+|[[Marked Chaos Warriors]]
+|Total War: Warhammer III
+|Free
+|Unit Pack
+|-
+|[[Aekold Helbrass]]
+|Total War: Warhammer III
+|Free
+|Legendary Hero
+|-
+|[[Shadows of Change]]
+|Total War: Warhammer III
+|Paid
+|Lord Pack
+|-
+|[[Thrones of Decay]]
+|Total War: Warhammer III
+|Paid
+|Lord Pack
+|-
+|[[Omens of Destruction]]
+|Total War: Warhammer III
+|Paid
+|Lord Pack
+|}
+
+== Gallery ==
+=== Art ===
+<gallery>
+Campaign daemons1.png
+</gallery>
+
+=== Screenshots ===
+<gallery>
+Daemonprince screenshot final.png
+</gallery>
+
+[[es:Demonios del Caos]]
+[[Category:Daemons of Chaos]]
+[[Category:Total War: Warhammer III]]
+[[Category:Total War: Warhammer III factions]]
+[[Category:Races]]

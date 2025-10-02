@@ -1,0 +1,700 @@
+[
+  {
+    "id": "daemons_of_chaos_background",
+    "text": "Background:\n\nManipulated into a horrifying act by another, the Ungol Prince has given himself up entirely in exchange for the Ruinous blessings of all the Chaos Gods and ascendancy to Daemonhood. The newly arisen Daemon Prince shrugs off his mortal form to take on an ever-changing aspect more pleasing to his new patrons, who continue to war for his ravaged soul. Now, it is the destiny of the Daemon Prince to command the legions of Chaos Undivided in waging eternal war against entire nations and immortal rivals, as he seeks a terrible vengeance on sovereigns and even gods. Will he claim the Mark of one master or forge a path that will bring him to utter domination, which even the Dark Powers will struggle to harness?",
+    "metadata": {
+      "race": "daemons_of_chaos",
+      "race_name": "Daemons Of Chaos",
+      "faction_type": "chaos",
+      "difficulty": "hard",
+      "playstyle": "versatile,adaptive",
+      "keywords": "undivided,versatile,daemon prince,all gods,chaos,mixed",
+      "category": "background"
+    }
+  },
+  {
+    "id": "daemons_of_chaos_gameplay",
+    "text": "How to Play:\n\n*Daemonic Glory: Ascribe glory to the four Chaos Gods to be granted boons in the form of Daemonic Gifts and units. *Daemonic Gifts: Equip body parts and weapons granted by the Chaos Gods to customise the Daemon Prince. *Unit roster: Daemons of Chaos allow you to mix the forces of all the Chaos Gods. This makes the race versatile and unpredictable. Causing damage with your Lord generates glory, which rewards you with random army abilities in battles from the Reign of Chaos.\n\nKey Features:\n- Daemonic Glory: Ascribe glory to the four Chaos Gods to be granted boons in the form of Daemonic Gifts and units.\n- Daemonic Gifts: Equip body parts and weapons granted by the Chaos Gods to customise the Daemon Prince.\n- Unit roster: Daemons of Chaos allow you to mix the forces of all the Chaos Gods. This makes the race versatile and unpredictable. Causing damage with your Lord generates glory, which rewards you with random army abilities in battles from the Reign of Chaos.",
+    "metadata": {
+      "race": "daemons_of_chaos",
+      "race_name": "Daemons Of Chaos",
+      "faction_type": "chaos",
+      "difficulty": "hard",
+      "playstyle": "versatile,adaptive",
+      "keywords": "undivided,versatile,daemon prince,all gods,chaos,mixed",
+      "category": "gameplay"
+    }
+  },
+  {
+    "id": "daemons_of_chaos_mechanic_2",
+    "text": "Unique Mechanic: Unique campaign mechanics\n\nDaemonic Glory Daemonic GloryThe Daemon Prince may gain glory with an individual Chaos God or Undivided for powerful rewards such as Daemonic Gifts, units and factionwide bonuses. Daemonic Gifts Daemonic GiftsDaemonic Gifts are the body parts and weapons for the Daemon Prince, they are unlocked as Daemonic Glory is earned. Some Daemonic Gifts will change the appearance of the Daemon Prince. Glory GloryGlory is a unique resource that allows the progression of Daemonic Glory. It is earned by dedicating victories in battle to the Chaos Gods, by constructing certain buildings, and through mission rewards. Bloodletting BloodlettingBloodletting is a fillable bar that provides bonuses when winning battles, these bonuses are increased when achieving higher levels of Bloodletting. However, the army must constantly win battles in order to maintain it otherwise it will decay and in the process lose the bonuses. Bloodletting requires Khorne's Offering III in Daemonic Glory to be unlocked. Switchable Plagues Switchable PlaguesSwitchable Plagues are set of unique plagues that can be imbued on all armies. Switchable Plagues requires Nurgle's Gifts III in Daemonic Glory to be unlocked. Seduce Units Seduce UnitsSeduce Units allows to spend favour to seduce enemy units prior to battle. Seduced units will switch sides and fight for the Daemons of Chaos in the upcoming engagement. Seduce Units requires Slaanesh's Delights III in Daemonic Glory to be unlocked. Teleport Stance Teleport StanceTeleport Stance allows an army to teleport to a short distance in the campaign map in exchange for Winds of Magic. Armies cannot be intercepted by nearby armies when teleporting unlike with the Underway, Worldroots or Beast-Paths and can launch attacks when teleporting. Teleport Stance requires Tzeentch's Boons III in Daemonic Glory to be unlocked.",
+    "metadata": {
+      "race": "daemons_of_chaos",
+      "race_name": "Daemons Of Chaos",
+      "faction_type": "chaos",
+      "difficulty": "hard",
+      "playstyle": "versatile,adaptive",
+      "keywords": "undivided,versatile,daemon prince,all gods,chaos,mixed",
+      "category": "mechanics",
+      "subcategory": "unique"
+    }
+  },
+  {
+    "id": "daemons_of_chaos_units_3",
+    "text": "Unit Roster: Units\n\nDaemons of Chaos unit roster With access to a big roster of units, consisting of units of all four Chaos Gods, they have access to a very versatile army that can cover most roles, or be build around a certain specialisation. Notable is that the Daemons of Chaos don't have any units unique to them, aside from the undivided version of the Chaos Furies.",
+    "metadata": {
+      "race": "daemons_of_chaos",
+      "race_name": "Daemons Of Chaos",
+      "faction_type": "chaos",
+      "difficulty": "hard",
+      "playstyle": "versatile,adaptive",
+      "keywords": "undivided,versatile,daemon prince,all gods,chaos,mixed",
+      "category": "units"
+    }
+  },
+  {
+    "id": "daemons_of_chaos_factions",
+    "text": "Playable Factions for Daemons Of Chaos:\n\n- , led by The Daemon Prince.",
+    "metadata": {
+      "race": "daemons_of_chaos",
+      "race_name": "Daemons Of Chaos",
+      "faction_type": "chaos",
+      "difficulty": "hard",
+      "playstyle": "versatile,adaptive",
+      "keywords": "undivided,versatile,daemon prince,all gods,chaos,mixed",
+      "category": "factions"
+    }
+  },
+  {
+    "id": "grand_cathay_background_part1",
+    "text": "Background - Part 1:\n\nGrand Cathay is the largest empire in the Warhammer Fantasy setting. Located in the Far East, Grand Cathay is bordered to the west by the Mountains of Mourn, to the east by the Far Sea, to the south by Khuresh and to the north by the Eastern Steppes and Chaos Wastes. Southwest, across the Mountains of Heaven, lies the land of Ind. Grand Cathay itself is a huge and diverse country, with desert in the west, mighty rivers and farmland in the center, great coastal cities in the east, and forested mountain foothills in the south. Grand Cathay is a powerful nation of order that stands against Chaos. However, they are also located far from other order-aligned nations, and tend to be somewhat isolationist. Contact and trade with the High Elves and human nations of the Old World has increased in recent times, but travel between east and west is still dangerous. Because of this isolation, Grand Cathay long ago constructed the Great Bastion, a huge fortification along their northern border which guards against incursions by Hobgoblins as well as marauding bands of Hung, Kurgan and other forces of Chaos. The rulers of Cathay are a family of immortal dragons who are powerful spellcasters, and can shapeshift into human form. In principle, Grand Cathay is ruled by the Celestial Dragon Emperor and Moon Empress, who are revered by the populace. In practice, these two spend most of their time in the Imperial Court, and leave governing of the empire to their sons and daughters. The common people of Cathay are humans, with smaller populations of Monkey-Warriors. In some Cathay's trading cities, there is populations of foreigners from Tilea, Estalia, The Empire and even High Elves and Dwarfs.",
+    "metadata": {
+      "race": "grand_cathay",
+      "race_name": "Grand Cathay",
+      "faction_type": "order",
+      "difficulty": "medium",
+      "playstyle": "defensive,balanced,ranged",
+      "keywords": "dragons,harmony,yin,yang,cathay,empire,defensive",
+      "category": "background"
+    }
+  },
+  {
+    "id": "grand_cathay_background_part2",
+    "text": "Background - Part 2:\n\nThe strongest of the sons and daughters of the Emperor and Empress is Miao Ying, the Storm Dragon, ruler of the Northern Provinces, who is charged with defending the Great Bastion and the city of Nan-Gau. There is also Zhao Ming, the Iron Dragon, ruler of the Western Provinces. He guards the city of Shang-Yang which is located in the Warpstone Desert, and the dangerous Ivory Road, which trade caravans travel west to reach the Old World. Their brother Yuan Bo, the Jade Dragon, rules the Central Provinces from the city of Shang Wu, and serves his father's empire as its chief bureaucrat and Administrator of the Realm. There are also Yin-Yin the Sea Dragon who rules the Eastern Provinces, and Li Dao the Fire Dragon who rules the Southern Provinces. While the Dragon Emperor and Moon Empress command their subjects to live and work in harmony for the good of all, it is not always so. For in addition to external assaults by the Ogre Kingdoms, Greenskins, coastal Dark Elf raiders and forces of Chaos, Grand Cathay is also sometimes riven by internal rebellions, Chaos Cults and jealous competition between the dragon siblings. During one period where the Dragon Emperor and Moon Empress were mysteriously absent, the so-called \"Monkey King\" was for a time able to march on the capital and usurp the throne, before eventually being ousted and disappearing into the south. Despite these threats, the proud armies of Grand Cathay fight on. At their core are untold legions of soldiers, from Peasant Long Spearmen to highly-trained Celestial Dragon Guard. These are supported by Jade Warrior Crossbows, Crane Gunners, Grand Cannons shaped like great bronze dragons and flying Sky-junks. Perhaps the most feared are the Terracotta Sentinels - constructs that lie motionless for centuries as huge statues until, in times of great need, they are magically animated to fight in the defense of the Celestial Empire. In battle, these varying units work in harmony with one another, becoming a much more effective fighting force together than they would be individually.",
+    "metadata": {
+      "race": "grand_cathay",
+      "race_name": "Grand Cathay",
+      "faction_type": "order",
+      "difficulty": "medium",
+      "playstyle": "defensive,balanced,ranged",
+      "keywords": "dragons,harmony,yin,yang,cathay,empire,defensive",
+      "category": "background"
+    }
+  },
+  {
+    "id": "grand_cathay_gameplay",
+    "text": "How to Play:\n\n*The Ivory Road: Cathayan factions can send trade caravans west along the Ivory Road to the Old World, to gain income. Caravans will also face dilemmas that might enhance their rewards or destroy them. *Wu-Xing Compass: Use the magical Wu-Xing Compass to direct the Winds of Magic across the land, providing faction-wide benefits. *Harmony: Each action taken pushes the Harmony meter towards either Yin or Yang. The greatest benefits are gained from keeping the meter balanced in the center. *The Great Bastion: This mighty fortification will come under attack, but building it up will confer great benefits. *Battle Harmony: In battle, each unit is aligned with either Yin or Yang, and gain buffs when near an opposite-aligned unit. *Grand Cathay unit roster: Legions of weaker, cheaper human troops backed up by a diverse roster of stronger elite troops, flying cavalry, monsters, and war machines/artillery. A defensive, less mobile army vulnerable to flanking.\n\nKey Features:\n- The Ivory Road: Cathayan factions can send trade caravans west along the Ivory Road to the Old World, to gain income. Caravans will also face dilemmas that might enhance their rewards or destroy them.\n- Wu-Xing Compass: Use the magical Wu-Xing Compass to direct the Winds of Magic across the land, providing faction-wide benefits.\n- Harmony: Each action taken pushes the Harmony meter towards either Yin or Yang. The greatest benefits are gained from keeping the meter balanced in the center.\n- The Great Bastion: This mighty fortification will come under attack, but building it up will confer great benefits.\n- Battle Harmony: In battle, each unit is aligned with either Yin or Yang, and gain buffs when near an opposite-aligned unit.\n- Grand Cathay unit roster: Legions of weaker, cheaper human troops backed up by a diverse roster of stronger elite troops, flying cavalry, monsters, and war machines/artillery. A defensive, less mobile army vulnerable to flanking.",
+    "metadata": {
+      "race": "grand_cathay",
+      "race_name": "Grand Cathay",
+      "faction_type": "order",
+      "difficulty": "medium",
+      "playstyle": "defensive,balanced,ranged",
+      "keywords": "dragons,harmony,yin,yang,cathay,empire,defensive",
+      "category": "gameplay"
+    }
+  },
+  {
+    "id": "grand_cathay_mechanic_3",
+    "text": "Unique Mechanic: Unique campaign mechanics\n\n*The Ivory Road *Great Bastion *Wu-Xing Compass *Harmony\n\nFeatures:\n- The Ivory Road\n- Great Bastion\n- Wu-Xing Compass\n- Harmony",
+    "metadata": {
+      "race": "grand_cathay",
+      "race_name": "Grand Cathay",
+      "faction_type": "order",
+      "difficulty": "medium",
+      "playstyle": "defensive,balanced,ranged",
+      "keywords": "dragons,harmony,yin,yang,cathay,empire,defensive",
+      "category": "mechanics",
+      "subcategory": "unique"
+    }
+  },
+  {
+    "id": "grand_cathay_magic_4",
+    "text": "Magic: Magic\n\nGrand Cathay has access to 6 Lores of Magic: *Lore of Heavens *Lore of Life *Lore of Light *Lore of Metal *Lore of Yang *Lore of Yin\n\nLores of Magic:\n- Lore of Heavens\n- Lore of Life\n- Lore of Light\n- Lore of Metal\n- Lore of Yang\n- Lore of Yin",
+    "metadata": {
+      "race": "grand_cathay",
+      "race_name": "Grand Cathay",
+      "faction_type": "order",
+      "difficulty": "medium",
+      "playstyle": "defensive,balanced,ranged",
+      "keywords": "dragons,harmony,yin,yang,cathay,empire,defensive",
+      "category": "magic"
+    }
+  },
+  {
+    "id": "grand_cathay_battle_5",
+    "text": "Battle Info: Harmony\n\nHarmony Cathay's troops are divided into two categories, Yin and Yang. Yin units are typically ranged units while Yang are Melee focused. When a Yin and Yang unit are in close proximity the Yin units will get a reload buff and Yang units will get a Melee defense buff. As a result Cathay armies function best with a diverse and well supported formations that can make use of these buffs.",
+    "metadata": {
+      "race": "grand_cathay",
+      "race_name": "Grand Cathay",
+      "faction_type": "order",
+      "difficulty": "medium",
+      "playstyle": "defensive,balanced,ranged",
+      "keywords": "dragons,harmony,yin,yang,cathay,empire,defensive",
+      "category": "battle"
+    }
+  },
+  {
+    "id": "grand_cathay_units_6",
+    "text": "Unit Roster: Units\n\nGrand Cathay unit roster",
+    "metadata": {
+      "race": "grand_cathay",
+      "race_name": "Grand Cathay",
+      "faction_type": "order",
+      "difficulty": "medium",
+      "playstyle": "defensive,balanced,ranged",
+      "keywords": "dragons,harmony,yin,yang,cathay,empire,defensive",
+      "category": "units"
+    }
+  },
+  {
+    "id": "grand_cathay_factions",
+    "text": "Playable Factions for Grand Cathay:\n\n- The Northern Provinces, led by Miao Ying, the Storm Dragon.\n- The Western Provinces, led by Zhao Ming, the Iron Dragon.",
+    "metadata": {
+      "race": "grand_cathay",
+      "race_name": "Grand Cathay",
+      "faction_type": "order",
+      "difficulty": "medium",
+      "playstyle": "defensive,balanced,ranged",
+      "keywords": "dragons,harmony,yin,yang,cathay,empire,defensive",
+      "category": "factions"
+    }
+  },
+  {
+    "id": "khorne_background",
+    "text": "Background:\n\nKhorne, the Blood God, rages upon his brass throne, resting atop a mountain of skulls, built from the countless heads of the great champions his followers have slain over an immeasurable number of aeons. He cares not from where blood flows so long as it is done in his name. It is not uncommon to see the warriors of Khorne fighting amongst themselves, battling to prove their skill in combat and rise higher in the eyes of their wrathful master. To follow Khorne is to embrace violence and destruction, and to pledge utter subservience to his cause. Khorne's most favoured servants are gifted with immense powers. Some may even ascend to Daemonhood, and it is these chosen few who are tasked with bringing his wrath down upon the world. Blood for the Blood God!",
+    "metadata": {
+      "race": "khorne",
+      "race_name": "Khorne",
+      "faction_type": "chaos",
+      "difficulty": "easy",
+      "playstyle": "aggressive,melee",
+      "keywords": "blood,melee,skulls,aggressive,khorne,chaos,blood god",
+      "category": "background"
+    }
+  },
+  {
+    "id": "khorne_gameplay",
+    "text": "How to Play:\n\nKhorne factions gain a unique resource, Skulls, through campaign events and fighting other armies in battle, regardless or victory or defeat. Skulls can be used on the Skull Throne to gain various buffs. Skulls are also spent to acquire tech and occupy settlements. Although Khorne's factions must spend skulls to occupy a settlement, any ruined region in a province where Khorne has an established settlement will eventually be automatically colonized at no cost, slowly increasing the chance after every turns. Khorne has two options when razing a settlement: Skulls for the Skull Throne and Blood for the Blood God. Skulls for the Skull Throne provides Skulls. Blood for the Blood God replenishes the army and spawns a Blood Host army in the region. Blood Host armies cannot recruit or replenish (except from devoured captives), but are otherwise normal armies for the faction. After several turns, they begin to experience attrition and will eventually die, though winning battles with them will prolong this. They have no upkeep and do not count toward the faction's supply lines penalty. Each Khorne army has Bloodletting, a gauge the increases as the armies win battles and decreases when they are idle. Bloodletting provides faction wide growth bonuses and replenishment bonuses, local corruption bonuses, and reduces the army's global recruitment and upkeep. Some of Khorne's technologies within the tech tree debuffs diplomatic relations, since the Blood God is not interested in peace treaties and more interested in craniums. Like all daemonic factions, Khorne has Unholy Manifestations and Cults.",
+    "metadata": {
+      "race": "khorne",
+      "race_name": "Khorne",
+      "faction_type": "chaos",
+      "difficulty": "easy",
+      "playstyle": "aggressive,melee",
+      "keywords": "blood,melee,skulls,aggressive,khorne,chaos,blood god",
+      "category": "gameplay"
+    }
+  },
+  {
+    "id": "khorne_mechanic_2",
+    "text": "General Mechanic: Building\n\nKhorne buildings|l1=Khorne Buildings",
+    "metadata": {
+      "race": "khorne",
+      "race_name": "Khorne",
+      "faction_type": "chaos",
+      "difficulty": "easy",
+      "playstyle": "aggressive,melee",
+      "keywords": "blood,melee,skulls,aggressive,khorne,chaos,blood god",
+      "category": "mechanics",
+      "subcategory": "general"
+    }
+  },
+  {
+    "id": "khorne_units_3",
+    "text": "Unit Roster: Units\n\nKhorne unit roster In the Khorne army, there is access to both daemonic and mortal units. Khorne units are melee focused with high damage, with all mortal units (plus the Chaos Furies and Daemon Prince) having Frenzy, but reduced Melee Defense (not counting Chaos Furies). They have only three ranged units, the Soul Grinder, Marauder Horsemen, and Skullcannon. All units (except The Bloodbrute Behemoth and Chaos Warhounds) have Spell Resistance. Some Khorne units (such as Skarbrand) have passive abilities that are activated based on the number of kills the unit gets.",
+    "metadata": {
+      "race": "khorne",
+      "race_name": "Khorne",
+      "faction_type": "chaos",
+      "difficulty": "easy",
+      "playstyle": "aggressive,melee",
+      "keywords": "blood,melee,skulls,aggressive,khorne,chaos,blood god",
+      "category": "units"
+    }
+  },
+  {
+    "id": "khorne_factions",
+    "text": "Playable Factions for Khorne:\n\n- , led by Skarbrand the Exiled.\n- , led by Skulltaker.\n- , led by Arbaal the Undefeated.",
+    "metadata": {
+      "race": "khorne",
+      "race_name": "Khorne",
+      "faction_type": "chaos",
+      "difficulty": "easy",
+      "playstyle": "aggressive,melee",
+      "keywords": "blood,melee,skulls,aggressive,khorne,chaos,blood god",
+      "category": "factions"
+    }
+  },
+  {
+    "id": "kislev_background_part1",
+    "text": "Background - Part 1:\n\n\"You look down on us and think we are little better than barbarians, but you should be glad we are, for without us here, the northern tribes would be dining on the flesh of your children in your burning homes. But for the courage that flows in our veins would your lands be theirs. Look down on us? You should get on your knees and thank us every day!\" : —Vitalia Kovash, Kislevite Winged Lancerhttps://warhammerfantasy.fandom.com/wiki/Kislev The Kingdom of Kislev, sometimes known as the Realm of the Ice Queen, is the most northerly Human civilization within the Old World, a powerful and war-driven nation that is known far and wide for having some of the greatest horsemen to ever roam the plains of the southern realms. From the Worlds Edge Mountains to the East and the Sea of Claws in the West, Kislev stands at the very frontiers of Human civilization. Lonely villages stand isolated in the empty wilderness, while 3 mighty cities (Kislev, Erengrad, and Praag) rise from the landscape like great islands of stone. Kislev is a land covered in wide-open steppes, deep taiga forest, and thundering icy rivers. In the south, the climate is somewhat milder, allowing wide-scale farming, although winters are still bitterly cold. Heading north, Kislev becomes increasingly cold and barren, before ending somewhere in the marshy tundra of Troll Country. Overall, the climate is harsh and unforgiving, winters are long and dark. Only the strongest, most determined people can survive here. The inhabitants of Kislev are these very same people, a race of wolf-tough and self-reliant warriors, valiant and determined in the defense of their homeland against the hated marauders of the uppermost North.",
+    "metadata": {
+      "race": "kislev",
+      "race_name": "Kislev",
+      "faction_type": "order",
+      "difficulty": "medium",
+      "playstyle": "hybrid,cavalry,magic",
+      "keywords": "bears,ice,cavalry,hybrid,russia,cold,ursun",
+      "category": "background"
+    }
+  },
+  {
+    "id": "kislev_background_part2",
+    "text": "Background - Part 2:\n\nRuled by a mighty Tzar, Kislev is a nation born from the saddle, the ancestry of the the country's two main ethnic groups (Gospodars, who are more common in the south and in cities, and Ungols who are more common on the frontiers) can both be traced to the mighty horse-warriors of the Eastern Steppes many millennia ago. Since the founding of this mighty kingdom, Kislev has been under siege by the murderous Hordes of Chaos. It is a kingdom that sits forever at the brink of total annihilation. Countless generations of Kislevites have fought, bled, and died in the snowy tundra of those harsh northern lands, and it is thanks to these brave Kislevite warriors that the Kingdoms of Men have managed to flourish in the south, huddled together in their warm and safe homes, whilst the Sons of Kislev fight till they draw their last dying breath. The land of Kislev bears a unique magic not found anywhere else in the world: Ice Magic, also known as the Lore of Ice. This incredibly dangerous and deadly magic flows throughout the entire region, and its power is at its strongest inside its borders and in cold weather. The Kislevites are a superstitious and deeply religious folk. Above all, they revere the bear-god Ursun (lord of winter, courage and strength, guardian of Kislev) and seem to have a special affinity with bears. Other important gods include Dazh (god of the sun, fire, summer, family and hospitality), Salyak (goddess of healing and comfort), and Tor (warrior-god of storms and vengeance). They also respect Ulric (god of wolves, winter and battle, primarily worshipped in the Empire) as kin to Ursun. Kislevites generally view southerners (eg: people of the Empire, Bretonnians) as soft and lazy, while southerners in turn view Kislevites as uncivilised and stern. Despite this, Kislev retains friendly relations with The Empire and Dwarfs: allies in the eternal fight against Chaos.",
+    "metadata": {
+      "race": "kislev",
+      "race_name": "Kislev",
+      "faction_type": "order",
+      "difficulty": "medium",
+      "playstyle": "hybrid,cavalry,magic",
+      "keywords": "bears,ice,cavalry,hybrid,russia,cold,ursun",
+      "category": "background"
+    }
+  },
+  {
+    "id": "kislev_gameplay",
+    "text": "How to Play:\n\n* Devotion, a unique resource to Kislevite factions, is gained by winning battles against Chaos armies and constructing certain buildings. If Devotion gets too low, such as by attacking other Kislevite factions, Chaos armies will be more likely to attack you. Devotion is primarily spent on performing one of four rituals to the Motherland, which provide powerful bonuses and invoke the four main Kislev dieties: Salyak, Dazh, Ursun and Tor. Devotion is also spent to construct some higher tier buildings. * The Ice Court and the Great Orthodoxy compete for Supporters, a second unique resource for Kislevite factions. The more Supporters your faction gains, the more likely will minor Kislevite factions want to confederate with you. Gold and Devotion can also be spent to limit the rival Kislevite faction's Supporters. For the Ursun Revivalists, Supporters can earn closer relations with the other two big factions, along with bonuses, and they add Supporters to the Ice Court. * Atamans are unique lords who do not earn XP, but gain traits through dilemmas that enhance the current region and/or army they are located in. Only one Ataman can be recruited for every two provinces under your control, and he can be recruited for free to lead your armies into battle. If the Ataman is killed, a new Ataman will have to be recruited. * The Ice Court (mechanic) means that Ice Witches and Frost Maidens take a long time to train, but are then recruited for a discounted price, at a higher level, and already with abilities/traits. * Most Kislev units are hybrid units, proficient in both ranged and melee combat. Most human Kislev units have the By Our Blood ability which makes them temporarily unbreakable when their leadership is low, allowing them to fight longer.\n\nKey Features:\n- Devotion, a unique resource to Kislevite factions, is gained by winning battles against Chaos armies and constructing certain buildings. If Devotion gets too low, such as by attacking other Kislevite factions, Chaos armies will be more likely to attack you. Devotion is primarily spent on performing one of four rituals to the Motherland, which provide powerful bonuses and invoke the four main Kislev dieties: Salyak, Dazh, Ursun and Tor. Devotion is also spent to construct some higher tier buildings.\n- The Ice Court and the Great Orthodoxy compete for Supporters, a second unique resource for Kislevite factions. The more Supporters your faction gains, the more likely will minor Kislevite factions want to confederate with you. Gold and Devotion can also be spent to limit the rival Kislevite faction's Supporters. For the Ursun Revivalists, Supporters can earn closer relations with the other two big factions, along with bonuses, and they add Supporters to the Ice Court.\n- Atamans are unique lords who do not earn XP, but gain traits through dilemmas that enhance the current region and/or army they are located in. Only one Ataman can be recruited for every two provinces under your control, and he can be recruited for free to lead your armies into battle. If the Ataman is killed, a new Ataman will have to be recruited.\n- The Ice Court (mechanic) means that Ice Witches and Frost Maidens take a long time to train, but are then recruited for a discounted price, at a higher level, and already with abilities/traits.\n- Most Kislev units are hybrid units, proficient in both ranged and melee combat. Most human Kislev units have the By Our Blood ability which makes them temporarily unbreakable when their leadership is low, allowing them to fight longer.",
+    "metadata": {
+      "race": "kislev",
+      "race_name": "Kislev",
+      "faction_type": "order",
+      "difficulty": "medium",
+      "playstyle": "hybrid,cavalry,magic",
+      "keywords": "bears,ice,cavalry,hybrid,russia,cold,ursun",
+      "category": "gameplay"
+    }
+  },
+  {
+    "id": "kislev_mechanic_3",
+    "text": "Unique Mechanic: Unique campaign mechanics\n\n* The Motherland *Atamans *The Ice Court\n\nFeatures:\n- The Motherland\n- Atamans\n- The Ice Court",
+    "metadata": {
+      "race": "kislev",
+      "race_name": "Kislev",
+      "faction_type": "order",
+      "difficulty": "medium",
+      "playstyle": "hybrid,cavalry,magic",
+      "keywords": "bears,ice,cavalry,hybrid,russia,cold,ursun",
+      "category": "mechanics",
+      "subcategory": "unique"
+    }
+  },
+  {
+    "id": "kislev_magic_4",
+    "text": "Magic: Magic\n\nKislev spellcasters have access to 6 lores of magic: *Lore of Beasts *Lore of Death *Lore of Ice *Lore of Shadows *Lore of Tempest *Lore of the Hag\n\nLores of Magic:\n- Lore of Beasts\n- Lore of Death\n- Lore of Ice\n- Lore of Shadows\n- Lore of Tempest\n- Lore of the Hag",
+    "metadata": {
+      "race": "kislev",
+      "race_name": "Kislev",
+      "faction_type": "order",
+      "difficulty": "medium",
+      "playstyle": "hybrid,cavalry,magic",
+      "keywords": "bears,ice,cavalry,hybrid,russia,cold,ursun",
+      "category": "magic"
+    }
+  },
+  {
+    "id": "kislev_units_5",
+    "text": "Unit Roster: Units\n\nKislev unit roster The Kislev roster are generally typical of human factions, with a solid core of infantry, a variety of good cavalry, but no fliers. Uniquely, many Kislev units are hybrid units, proficient both at range and in melee. For instance the Streltsi carry handguns with a large axe blade replacing the buttstock. Additionally, all units (except the Snow Leopard and Elemental Bear) have the By Our Blood ability, making them temporarily unbreakable when their leadership is wavering for the first time.",
+    "metadata": {
+      "race": "kislev",
+      "race_name": "Kislev",
+      "faction_type": "order",
+      "difficulty": "medium",
+      "playstyle": "hybrid,cavalry,magic",
+      "keywords": "bears,ice,cavalry,hybrid,russia,cold,ursun",
+      "category": "units"
+    }
+  },
+  {
+    "id": "kislev_factions",
+    "text": "Playable Factions for Kislev:\n\n- The Ice Court, led by Tzarina Katarin.\n- The Great Orthodoxy, led by Kostaltyn.\n- , led by Boris Ursus.\n- , led by Yuri Barkov (The Lost God campaign only).",
+    "metadata": {
+      "race": "kislev",
+      "race_name": "Kislev",
+      "faction_type": "order",
+      "difficulty": "medium",
+      "playstyle": "hybrid,cavalry,magic",
+      "keywords": "bears,ice,cavalry,hybrid,russia,cold,ursun",
+      "category": "factions"
+    }
+  },
+  {
+    "id": "nurgle_background",
+    "text": "Background:\n\nThe Lord of Decay, Grandfather Nurgle, The Crow Nurgle represents despair, resilience, resignation and acceptance ... in the face of inevitable disease, decay, death and entropy. Among mortals, Nurgle appeals to the downtrodden and hopeless. Nurgle appears to be the only Chaos God that has any sort of genuine care for his followers, offering them respite from pain and suffering caused by disease and death. His followers are often cheery and unconcerned even while visibly rotting, bloated or infested by maggots. They delight in spreading Nurgle's gifts (horrifying diseases which cause immense suffering) to others. Nurgle despises the undead, who resist the inevitable end of life. Nurgle is associated with the colours green and brown, flies, maggots, slugs, snails, toads and carrion-eaters. Among the Norscans, he is known as the Crow.",
+    "metadata": {
+      "race": "nurgle",
+      "race_name": "Nurgle",
+      "faction_type": "chaos",
+      "difficulty": "medium",
+      "playstyle": "defensive,attrition",
+      "keywords": "plague,slow,durable,attrition,nurgle,chaos,decay",
+      "category": "background"
+    }
+  },
+  {
+    "id": "nurgle_mechanic_1",
+    "text": "General Mechanic: Nurgle buildings\n\nNurgle does not spread akin to a normal faction. There are no labourers building great monuments to their gods, no scribes researching their latest magical obsession, not even the gruesome fighting pits of a Khornate bloodbath disguising itself as a town or city. Grandfather’s people need not gather to worship nor prove themselves with acts of devotion – he runs through their blood, after all. No, settlements infected by Nurgle are closer to growths that blight the landscape than real towns. Fields of rotting flowers, mushrooms and creeping vines – and at the center of it all, a great tree pulsing with life, death, and infection. In this manner, Nurgle buildings are not upgraded, they grow, flourish, die, and are reborn. Each building will evolve to its next phase over a number of turns, eventually withering and starting again from a base state. At each point its effects will be different, and each new evolution will add units to the recruitment pool – which we’ll come on to in a second. Say you choose a building slot to house a Rancid Aloe. After a few turns of building, it will complete and add a Forsaken of Nurgle unit to your pool, the secretions from the plant having been used to fuse metal and flesh in a manner pleasing to Grandfather. It will then begin to pollinate, and four turns later enter the germination phase. This increases the income the building generates and adds another unit of Forsaken to your pool. Another four turns, another boost in income, and this time a Spawn of Nurgle. This is true of all Nurgle buildings, be they for infrastructure or provide units. Indeed, many do both, spewing Nurglings as a byproduct even as their primary purpose is to support the region by infecting the Earth itself, increasing Control. In addition, various buildings, technologies, plagues, and so on can decrease the time between each phase, making the production of units quicker.",
+    "metadata": {
+      "race": "nurgle",
+      "race_name": "Nurgle",
+      "faction_type": "chaos",
+      "difficulty": "medium",
+      "playstyle": "defensive,attrition",
+      "keywords": "plague,slow,durable,attrition,nurgle,chaos,decay",
+      "category": "mechanics",
+      "subcategory": "general"
+    }
+  },
+  {
+    "id": "nurgle_mechanic_2",
+    "text": "General Mechanic: Nurgle technology tree\n\nNurgle’s tech tree has similarities with Khorne, brothers in destruction as they are, with several pods of seven technologies each, requiring four to be researched to move on to the next. This gives you a lot of options on how you want to progress and what to unlock first, as well as how important moving on to the next pod is versus picking up a particularly useful tech. As well as the normal unit upgrades, diplomacy, and such forth, several Nurgle techs improve plagues in various ways, including unlocking new symptoms. Ironically similar to his major rival, Tzeentch, there are also several techs that add spells to Great Unclean Ones, making them powerful casters as well as oozing piles of rot. On the note of spells and magical abilities, Nurgle has access to various army abilities. These are unlocked through technology and are charged in-battle based on how much damage your units are taking. Each also has the Chain property, meaning that it will target a specific unit then spread to nearby units, rather than targeting an area. This can be powerful or a drawback, depending on how you use it, but certainly fits the theme of contagions spreading through both armies in real time. Also of note is the big variation between research times depending on the strength of various techs. Moving between each pod could take a significantly different amount of time depending on which techs you go for. Experiment! Such is the joy of Nurgle.",
+    "metadata": {
+      "race": "nurgle",
+      "race_name": "Nurgle",
+      "faction_type": "chaos",
+      "difficulty": "medium",
+      "playstyle": "defensive,attrition",
+      "keywords": "plague,slow,durable,attrition,nurgle,chaos,decay",
+      "category": "mechanics",
+      "subcategory": "general"
+    }
+  },
+  {
+    "id": "nurgle_magic_3",
+    "text": "Magic: Magic\n\nNurgle has access to two lores of magic: * Lore of Death * Lore of Nurgle In addition, The Maggot Host has access to two more lores of magic: * Lore of Shadows * Lore of the Wild\n\nLores of Magic:\n- Lore of Death\n- Lore of Nurgle\n- Lore of Shadows\n- Lore of the Wild",
+    "metadata": {
+      "race": "nurgle",
+      "race_name": "Nurgle",
+      "faction_type": "chaos",
+      "difficulty": "medium",
+      "playstyle": "defensive,attrition",
+      "keywords": "plague,slow,durable,attrition,nurgle,chaos,decay",
+      "category": "magic"
+    }
+  },
+  {
+    "id": "nurgle_battle_4",
+    "text": "Battle Info: In Battle\n\nGetting damage in battle gets favour from Nurgle that can be used on the following army abilities: * Curse of the Slug * Fecundity * Rot, Glorious Rot\n\nDetails:\n- Curse of the Slug\n- Fecundity\n- Rot, Glorious Rot",
+    "metadata": {
+      "race": "nurgle",
+      "race_name": "Nurgle",
+      "faction_type": "chaos",
+      "difficulty": "medium",
+      "playstyle": "defensive,attrition",
+      "keywords": "plague,slow,durable,attrition,nurgle,chaos,decay",
+      "category": "battle"
+    }
+  },
+  {
+    "id": "nurgle_units_5",
+    "text": "Unit Roster: Units\n\nNurgle unit roster The Nurgle army has access to units both daemonic and mortal units. Nurgle units have high Health and Melee Defense at the cost of lower Speed and Melee Attack (discounting Chaos Furies and Chaos Warhounds). All units (except the Cultist of Nurgle) inflict Poison!. All daemonic units (along with the Chaos Sorcerer Lord of Nurgle, Exalted Hero of Nurgle, Cultist of Nurgle, and Spawn of Nurgle) have Cloud of Flies.",
+    "metadata": {
+      "race": "nurgle",
+      "race_name": "Nurgle",
+      "faction_type": "chaos",
+      "difficulty": "medium",
+      "playstyle": "defensive,attrition",
+      "keywords": "plague,slow,durable,attrition,nurgle,chaos,decay",
+      "category": "units"
+    }
+  },
+  {
+    "id": "nurgle_factions",
+    "text": "Playable Factions for Nurgle:\n\n- , led by Ku'gath Plaguefather.\n- The Maggot Host, led by Tamurkhan the Maggot Lord.\n- , led by Epidemius.",
+    "metadata": {
+      "race": "nurgle",
+      "race_name": "Nurgle",
+      "faction_type": "chaos",
+      "difficulty": "medium",
+      "playstyle": "defensive,attrition",
+      "keywords": "plague,slow,durable,attrition,nurgle,chaos,decay",
+      "category": "factions"
+    }
+  },
+  {
+    "id": "ogre_kingdoms_background",
+    "text": "Background:\n\nIn ancient times, the Ogres were forced to abandon their homelands in the Far East, after a comet impact created the Great Maw and turned their home into a corrupted desert. After a Great Migration westwards, they destroyed the civilisation of the Sky-Titans, scattering the survivors who went on to become the Giants of today. The Ogres eventually settled in the Mountains of Mourn, establishing the Ogre Kingdoms. The Kingdoms are inhabited mostly by the namesake Ogres, a race of large humanoids, and Gnoblars, a small type of Greenskin. Ogres are tall and broad, easily the size of a , and much larger than a man or elf. They are violent, tough, always hungry, and typically more intelligent than Greenskins (though not by much). Gnoblars are small and cowardly, being even more pathetic than their Goblin cousins, but vicious and large in number. They serve the Ogres as slaves, and often snacks. Ogre culture revolves mostly around eating and violence, and cannibalism is common and accepted. Their primary god, The Great Maw, is a cruel deity of unending hunger and is worshipped with great bloody feasts overseen by Slaughtermasters - Ogres who are part cook, part wizard, and part priest. A secondary god is the Fire Mouth, a volcano worshipped by the Firebellies. Each Ogre Kingdom is ruled by a Tyrant, whose domain extends as far as he can see in the valleys of the Mountains of Mourn. The current Overtyrant of the Ogre Kingdoms is Greasus Goldtooth, a particularly canny and obese Ogre who has managed to convince most other Ogres that gold is as valuable as food. Greasus extracts tribute from trade caravans on the Ivory Road, and has become incredibly wealthy as a result. Ogres also have a great wanderlust, and Ogre mercenaries, known as Maneaters, can be found in camps across the world. Ogres are pragmatic and unscrupulous, they will work for anyone who can pay in gold, or, preferably, in food. Should payments stop they will immediately depart or, in some cases, eat their former employers. The Ogre Kingdoms are unique in that most units in their army are monstrous infantry (such as the Ogres themselves, and Yhetees), though they are also accompanied by various beasts of the mountains such as Rhinoxen and Sabretusks, and of course Gnoblars.",
+    "metadata": {
+      "race": "ogre_kingdoms",
+      "race_name": "Ogre Kingdoms",
+      "faction_type": "neutral",
+      "difficulty": "easy",
+      "playstyle": "monstrous,mercenary",
+      "keywords": "ogres,monstrous,camps,meat,mercenary,big,hungry",
+      "category": "background"
+    }
+  },
+  {
+    "id": "ogre_kingdoms_gameplay",
+    "text": "How to Play:\n\n* Camps - special settlements which Ogres can create anywhere on the campaign map. Camps act as the major settlements, providing most of their best buildings. * Big Names - Ogre Lords complete missions to unlock names which provide bonuses and can be swapped after 10 turns. * Bounties - receive missions from other factions you are not at war with, for rewards. * Meat - a unique resource gained from battles, it is spent on army upkeep or sacrificed to the Great Maw for faction-wide buffs. * Units - Most units are monstrous infantry and large monsters, along with a few small Gnoblar units. No flying units.\n\nKey Features:\n- Camps - special settlements which Ogres can create anywhere on the campaign map. Camps act as the major settlements, providing most of their best buildings.\n- Big Names - Ogre Lords complete missions to unlock names which provide bonuses and can be swapped after 10 turns.\n- Bounties - receive missions from other factions you are not at war with, for rewards.\n- Meat - a unique resource gained from battles, it is spent on army upkeep or sacrificed to the Great Maw for faction-wide buffs.\n- Units - Most units are monstrous infantry and large monsters, along with a few small Gnoblar units. No flying units.",
+    "metadata": {
+      "race": "ogre_kingdoms",
+      "race_name": "Ogre Kingdoms",
+      "faction_type": "neutral",
+      "difficulty": "easy",
+      "playstyle": "monstrous,mercenary",
+      "keywords": "ogres,monstrous,camps,meat,mercenary,big,hungry",
+      "category": "gameplay"
+    }
+  },
+  {
+    "id": "ogre_kingdoms_mechanic_2",
+    "text": "General Mechanic: Buildings\n\nMain article: Ogre Kingdoms buildings",
+    "metadata": {
+      "race": "ogre_kingdoms",
+      "race_name": "Ogre Kingdoms",
+      "faction_type": "neutral",
+      "difficulty": "easy",
+      "playstyle": "monstrous,mercenary",
+      "keywords": "ogres,monstrous,camps,meat,mercenary,big,hungry",
+      "category": "mechanics",
+      "subcategory": "general"
+    }
+  },
+  {
+    "id": "ogre_kingdoms_mechanic_3",
+    "text": "General Mechanic: Technology\n\nMain article: Ogre Kingdoms tech tree",
+    "metadata": {
+      "race": "ogre_kingdoms",
+      "race_name": "Ogre Kingdoms",
+      "faction_type": "neutral",
+      "difficulty": "easy",
+      "playstyle": "monstrous,mercenary",
+      "keywords": "ogres,monstrous,camps,meat,mercenary,big,hungry",
+      "category": "mechanics",
+      "subcategory": "general"
+    }
+  },
+  {
+    "id": "ogre_kingdoms_magic_4",
+    "text": "Magic: Magic\n\nOgre Kingdoms have access to 5 lores of magic: * Lore of Beasts * Lore of Fire * Lore of the Great Maw * Lore of Heavens * Lore of Death\n\nLores of Magic:\n- Lore of Beasts\n- Lore of Fire\n- Lore of the Great Maw\n- Lore of Heavens\n- Lore of Death",
+    "metadata": {
+      "race": "ogre_kingdoms",
+      "race_name": "Ogre Kingdoms",
+      "faction_type": "neutral",
+      "difficulty": "easy",
+      "playstyle": "monstrous,mercenary",
+      "keywords": "ogres,monstrous,camps,meat,mercenary,big,hungry",
+      "category": "magic"
+    }
+  },
+  {
+    "id": "ogre_kingdoms_units_5",
+    "text": "Unit Roster: Units\n\nOgre Kingdoms unit roster The majority of units in the Ogre Kingdoms unit roster are monstrous infantry, monstrous cavalry or monsters, which sets them apart from other races. All units designated as monstrous infantry (except Gorgers) get access to Ogre Charge.",
+    "metadata": {
+      "race": "ogre_kingdoms",
+      "race_name": "Ogre Kingdoms",
+      "faction_type": "neutral",
+      "difficulty": "easy",
+      "playstyle": "monstrous,mercenary",
+      "keywords": "ogres,monstrous,camps,meat,mercenary,big,hungry",
+      "category": "units"
+    }
+  },
+  {
+    "id": "ogre_kingdoms_factions",
+    "text": "Playable Factions for Ogre Kingdoms:\n\n- , led by Greasus Goldtooth.\n- , led by Skrag the Slaughterer.\n- The Maneaters, led by Golgfag Maneater.",
+    "metadata": {
+      "race": "ogre_kingdoms",
+      "race_name": "Ogre Kingdoms",
+      "faction_type": "neutral",
+      "difficulty": "easy",
+      "playstyle": "monstrous,mercenary",
+      "keywords": "ogres,monstrous,camps,meat,mercenary,big,hungry",
+      "category": "factions"
+    }
+  },
+  {
+    "id": "slaanesh_background",
+    "text": "Background:\n\nThe Dark Prince, the Prince of Excess/Pleasure, She-Who-Thirsts, The Serpent Slaanesh is the youngest of the Chaos Gods, and generally considered the weakest. He represents desire, pleasure, pain and excess and is associated with the colours pink, purple, gold, pale white and black. Slaanesh breaks minds and inflicts untold incredible suffering but also instills joy, creativity and extreme pleasure. Among mortals, Slaanesh appeals to the egotistical, the obsessive, addicts, artists, hedonists and other sensation-seekers. His followers are graceful, beautiful, cruel, sometimes with both masculine and feminine features. Slaanesh is said to desire Elven souls above all others, and devours them hungrily.",
+    "metadata": {
+      "race": "slaanesh",
+      "race_name": "Slaanesh",
+      "faction_type": "chaos",
+      "difficulty": "medium",
+      "playstyle": "fast,aggressive,melee",
+      "keywords": "fast,seduction,pleasure,speed,slaanesh,chaos,excess",
+      "category": "background"
+    }
+  },
+  {
+    "id": "slaanesh_gameplay",
+    "text": "How to Play:\n\n* The fastest, the deadliest - the most naked. Slaanesh is the fastest army in the game and does stunning amounts of damage in close quarters, to make up for the fact they have almost no ranged units and very little armor. *Slaanesh is the only Chaos daemonic faction that does not have a major diplomatic aversion penalty with other non-Chaos races. *Use Seductive Influence to turn non-Chaos races into your submissive vassals. *Draw Devotees to you with your hedonistic exploits and then commit them to spreading cults or Pleasurable Acts. *Spread Slaanesh Corruption. Summon disciple armies to fight for you in areas high in it. *Spend Divine Favour to seduce enemy units to fight for you instead.\n\nKey Features:\n- The fastest, the deadliest - the most naked. Slaanesh is the fastest army in the game and does stunning amounts of damage in close quarters, to make up for the fact they have almost no ranged units and very little armor.\n- Slaanesh is the only Chaos daemonic faction that does not have a major diplomatic aversion penalty with other non-Chaos races.\n- Use Seductive Influence to turn non-Chaos races into your submissive vassals.\n- Draw Devotees to you with your hedonistic exploits and then commit them to spreading cults or Pleasurable Acts.\n- Spread Slaanesh Corruption. Summon disciple armies to fight for you in areas high in it.\n- Spend Divine Favour to seduce enemy units to fight for you instead.",
+    "metadata": {
+      "race": "slaanesh",
+      "race_name": "Slaanesh",
+      "faction_type": "chaos",
+      "difficulty": "medium",
+      "playstyle": "fast,aggressive,melee",
+      "keywords": "fast,seduction,pleasure,speed,slaanesh,chaos,excess",
+      "category": "gameplay"
+    }
+  },
+  {
+    "id": "slaanesh_magic_2",
+    "text": "Magic: Magic\n\nSlaanesh has access to 2 lores of magic: *Lore of Shadows *Lore of Slaanesh\n\nLores of Magic:\n- Lore of Shadows\n- Lore of Slaanesh",
+    "metadata": {
+      "race": "slaanesh",
+      "race_name": "Slaanesh",
+      "faction_type": "chaos",
+      "difficulty": "medium",
+      "playstyle": "fast,aggressive,melee",
+      "keywords": "fast,seduction,pleasure,speed,slaanesh,chaos,excess",
+      "category": "magic"
+    }
+  },
+  {
+    "id": "slaanesh_battle_3",
+    "text": "Battle Info: Battle mechanics\n\nKilling enemies in negative morale states provides the Slaanesh army with battle currency, which can be spent on the following Army Abilities: # Fascination: Direct Damage, damage per second 63-125, causes Rampage. Range: infinite, Duration: 23 seconds, Cooldown: 90 seconds. # Narcissism: Hex, target cannot move. Range: infinite, Duration: 13 seconds, Cooldown: 60 seconds. # Sweet Sorrow: Augment (Area), Speed +25%, Vigor -3%. Range and Effect Range: Infinite, Duration: 20 seconds, Cooldown: 120 seconds.",
+    "metadata": {
+      "race": "slaanesh",
+      "race_name": "Slaanesh",
+      "faction_type": "chaos",
+      "difficulty": "medium",
+      "playstyle": "fast,aggressive,melee",
+      "keywords": "fast,seduction,pleasure,speed,slaanesh,chaos,excess",
+      "category": "battle"
+    }
+  },
+  {
+    "id": "slaanesh_battle_4",
+    "text": "Battle Info: Post-Battle Options\n\nSlaaneshi factions have a unique post-battle option, Create Vassal. Due to the importance of vassals for Slaaneshi factions, as well as the limitations of their Seductive Influence (see below), this would ordinarily make it quite difficult to continue making vassals after the midgame, as all the minor factions have already been gobbled up by majors. However, Create Vassal allows you to recreate a defeated minor faction as a Vassal when capturing a settlement that was previously their capital. It appears that this will also work on minor Chaos factions as well as Human and Elven factions, it is currently unknown whether it will work on other races (Ogres, Skaven, Dwarves, Lizardmen). Otherwise this ability yields the same rewards as the Subjugate post battle option, which is used to forcibly vassalize when defeating the last remaining settlement of a faction - notably, for Slaaneshi factions this provides a +500 Devotee boost as well as a small amount of replenishment.",
+    "metadata": {
+      "race": "slaanesh",
+      "race_name": "Slaanesh",
+      "faction_type": "chaos",
+      "difficulty": "medium",
+      "playstyle": "fast,aggressive,melee",
+      "keywords": "fast,seduction,pleasure,speed,slaanesh,chaos,excess",
+      "category": "battle"
+    }
+  },
+  {
+    "id": "slaanesh_units_5",
+    "text": "Unit Roster: Units\n\nSlaanesh unit roster The Slaanesh army has access to units both daemonic and mortal units. All units have Physical Resistance, high Speed, and are Immune to Psychology. All mortal units (along with the Exalted Keeper of Secrets, Daemon Prince, Azazel, N'Kari, Soul Grinder, and Keeper of Secrets) have access Strider. All daemonic units (along with the Cultist of Slaanesh, Forsaken and Spawn of Slaanesh), cavalry (with exception to Hellstriders of Slaanesh), and chariots have Devastating Flanker.",
+    "metadata": {
+      "race": "slaanesh",
+      "race_name": "Slaanesh",
+      "faction_type": "chaos",
+      "difficulty": "medium",
+      "playstyle": "fast,aggressive,melee",
+      "keywords": "fast,seduction,pleasure,speed,slaanesh,chaos,excess",
+      "category": "units"
+    }
+  },
+  {
+    "id": "slaanesh_units_6",
+    "text": "Unit Roster: Seduce Unit(s)\n\nPrior to battle, Slaanesh armies can pay Divine Favor to attempt to bring one or more enemy units over to their side with their Seduce Units ability. If successful, the unit will join the Slaaneshi side for the duration of the combat and then, if not defeated in battle, disband. There does not appear to be a limitation on what kinds of units are vulnerable to Seduce Unit (unlike their campaign-based Seductive Influence ability which only works on certain races), but the cost varies by unit (in a manner analogous to their multiplayer cost) and the Slaanesh player will have both a maximum Seduce Units Budget they can spend and a maximum number of units they can affect. These numbers will improve over the course of the game with technology upgrades, character skills, and buildings, as well as a particular Unholy Manifestation.",
+    "metadata": {
+      "race": "slaanesh",
+      "race_name": "Slaanesh",
+      "faction_type": "chaos",
+      "difficulty": "medium",
+      "playstyle": "fast,aggressive,melee",
+      "keywords": "fast,seduction,pleasure,speed,slaanesh,chaos,excess",
+      "category": "units"
+    }
+  },
+  {
+    "id": "slaanesh_factions",
+    "text": "Playable Factions for Slaanesh:\n\n- , led by N'Kari.\n- TBA faction, led by TBA.",
+    "metadata": {
+      "race": "slaanesh",
+      "race_name": "Slaanesh",
+      "faction_type": "chaos",
+      "difficulty": "medium",
+      "playstyle": "fast,aggressive,melee",
+      "keywords": "fast,seduction,pleasure,speed,slaanesh,chaos,excess",
+      "category": "factions"
+    }
+  },
+  {
+    "id": "tzeentch_background",
+    "text": "Background:\n\nTzeentch – the Changer of the Ways – is the Chaos God of magic, evolution, manipulation and trickery. He is flux incarnate – the God who truly embodies the endless, broiling change that is Chaos. It is Tzeentch above all who holds the terrible knowledge of fate and destiny in his talons. His worshippers are desperate to share in such lore but are merely pawns in the Great Game; another piece to move on the board and outplay the other Chaos Gods. To serve Tzeentch is to invite insanity. His servants weave their own complex webs of influence and manipulation, founding cults in high society as well as armed legions of puppet-followers. They pay no mind to the fact that their master views such plots as mere petty distractions, for the Architect of Fate's own design is aeons in the making.",
+    "metadata": {
+      "race": "tzeentch",
+      "race_name": "Tzeentch",
+      "faction_type": "chaos",
+      "difficulty": "hard",
+      "playstyle": "magic,ranged,mobile",
+      "keywords": "magic,scheming,barriers,flying,tzeentch,chaos,change",
+      "category": "background"
+    }
+  },
+  {
+    "id": "tzeentch_gameplay",
+    "text": "How to Play:\n\n*Grimoires *Changing of the Ways *Tzeentch Corruption, Unholy Manifestations and the Great Game *Cults of Tzeentch *Winds of Magic Manipulation *Teleportation Stance *Unit roster: Tzeentch is a race that excels at spellcasting, missile firepower and flying units. Its units are protected by a magical barrier that absorbs damage and is replenished when not taking damage.\n\nKey Features:\n- Grimoires\n- Changing of the Ways\n- Tzeentch Corruption, Unholy Manifestations and the Great Game\n- Cults of Tzeentch\n- Winds of Magic Manipulation\n- Teleportation Stance\n- Unit roster: Tzeentch is a race that excels at spellcasting, missile firepower and flying units. Its units are protected by a magical barrier that absorbs damage and is replenished when not taking damage.",
+    "metadata": {
+      "race": "tzeentch",
+      "race_name": "Tzeentch",
+      "faction_type": "chaos",
+      "difficulty": "hard",
+      "playstyle": "magic,ranged,mobile",
+      "keywords": "magic,scheming,barriers,flying,tzeentch,chaos,change",
+      "category": "gameplay"
+    }
+  },
+  {
+    "id": "tzeentch_mechanic_2",
+    "text": "Unique Mechanic: Unique Campaign Mechanics\n\nChanging of the Ways Changing of the WaysChanging of the Ways is a series of actions unique to Tzeentchian factions that allows to change or observe things on the campaign map against enemy factions. All actions have a cost of Grimoires.",
+    "metadata": {
+      "race": "tzeentch",
+      "race_name": "Tzeentch",
+      "faction_type": "chaos",
+      "difficulty": "hard",
+      "playstyle": "magic,ranged,mobile",
+      "keywords": "magic,scheming,barriers,flying,tzeentch,chaos,change",
+      "category": "mechanics",
+      "subcategory": "unique"
+    }
+  },
+  {
+    "id": "tzeentch_magic_3",
+    "text": "Magic: Winds of magic manipulation\n\nAnother ability unique to Tzeentch is his specific control of the winds of magic. Indeed, so tied are his machinations to them that many buildings have unique effects when the winds of magic are particularly strong, increasing their capabilities. To this end, Tzeentch can reduce the winds of magic in one province where he has a settlement to increase it in another, at will. As well as providing the aforementioned buffs to his buildings, this allows for armies with multiple spellcasters – that’s going to be quite a lot of your Tzeentch armies, believe it or not – to benefit heavily in terms of the power reserves available to them. It’s also worth noting that there have been some large changes made to the nature of the Winds of Magic and power reserves in battle, which we will detail soon. The upshot is that this ability should never be discounted to ensure victory.",
+    "metadata": {
+      "race": "tzeentch",
+      "race_name": "Tzeentch",
+      "faction_type": "chaos",
+      "difficulty": "hard",
+      "playstyle": "magic,ranged,mobile",
+      "keywords": "magic,scheming,barriers,flying,tzeentch,chaos,change",
+      "category": "magic"
+    }
+  },
+  {
+    "id": "tzeentch_units_4",
+    "text": "Unit Roster: Units\n\nTzeentch unit roster The Tzeentch army has access to daemonic and mortal units. All units have barrier and magical attacks.",
+    "metadata": {
+      "race": "tzeentch",
+      "race_name": "Tzeentch",
+      "faction_type": "chaos",
+      "difficulty": "hard",
+      "playstyle": "magic,ranged,mobile",
+      "keywords": "magic,scheming,barriers,flying,tzeentch,chaos,change",
+      "category": "units"
+    }
+  },
+  {
+    "id": "tzeentch_factions",
+    "text": "Playable Factions for Tzeentch:\n\n- , led by Kairos Fateweaver.",
+    "metadata": {
+      "race": "tzeentch",
+      "race_name": "Tzeentch",
+      "faction_type": "chaos",
+      "difficulty": "hard",
+      "playstyle": "magic,ranged,mobile",
+      "keywords": "magic,scheming,barriers,flying,tzeentch,chaos,change",
+      "category": "factions"
+    }
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "id": "khorne",
+  "name": "Khorne",
+  "type": "race",
+  "description": "Khorne, the Blood God, rages upon his brass throne, resting atop a mountain of skulls, built from the countless heads of the great champions his followers have slain over an immeasurable number of aeo...",
+  "faction_type": "chaos",
+  "playstyle": [
+    "aggressive",
+    "melee"
+  ],
+  "difficulty": "easy",
+  "strengths": [
+    "Melee damage",
+    "Aggression",
+    "No magic weakness"
+  ],
+  "weaknesses": [
+    "No ranged",
+    "No magic",
+    "Poor diplomacy"
+  ],
+  "keywords": [
+    "blood",
+    "melee",
+    "skulls",
+    "aggressive",
+    "khorne",
+    "chaos",
+    "blood god"
+  ],
+  "tags": [
+    "khorne",
+    "chaos",
+    "base_game",
+    "aggressive",
+    "melee"
+  ]
+}

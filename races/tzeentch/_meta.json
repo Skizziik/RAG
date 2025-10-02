@@ -1,0 +1,40 @@
+{
+  "id": "tzeentch",
+  "name": "Tzeentch",
+  "type": "race",
+  "description": "Tzeentch – the Changer of the Ways – is the Chaos God of magic, evolution, manipulation and trickery. He is flux incarnate – the God who truly embodies the endless, broiling change that is Chaos. It i...",
+  "faction_type": "chaos",
+  "playstyle": [
+    "magic",
+    "ranged",
+    "mobile"
+  ],
+  "difficulty": "hard",
+  "strengths": [
+    "Magic",
+    "Ranged",
+    "Flying units",
+    "Teleportation"
+  ],
+  "weaknesses": [
+    "Weak melee",
+    "Complex mechanics"
+  ],
+  "keywords": [
+    "magic",
+    "scheming",
+    "barriers",
+    "flying",
+    "tzeentch",
+    "chaos",
+    "change"
+  ],
+  "tags": [
+    "tzeentch",
+    "chaos",
+    "base_game",
+    "magic",
+    "ranged",
+    "mobile"
+  ]
+}

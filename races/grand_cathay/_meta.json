@@ -1,0 +1,40 @@
+{
+  "id": "grand_cathay",
+  "name": "Grand Cathay",
+  "type": "race",
+  "description": "Grand Cathay is the largest empire in the Warhammer Fantasy setting. Located in the Far East, Grand Cathay is bordered to the west by the Mountains of Mourn, to the east by the Far Sea, to the south b...",
+  "faction_type": "order",
+  "playstyle": [
+    "defensive",
+    "balanced",
+    "ranged"
+  ],
+  "difficulty": "medium",
+  "strengths": [
+    "Magic",
+    "Ranged units",
+    "Defensive",
+    "Harmony bonuses"
+  ],
+  "weaknesses": [
+    "Mobility",
+    "Dependent on balance"
+  ],
+  "keywords": [
+    "dragons",
+    "harmony",
+    "yin",
+    "yang",
+    "cathay",
+    "empire",
+    "defensive"
+  ],
+  "tags": [
+    "grand_cathay",
+    "order",
+    "base_game",
+    "defensive",
+    "balanced",
+    "ranged"
+  ]
+}

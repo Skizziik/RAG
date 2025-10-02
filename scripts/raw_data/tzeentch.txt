@@ -1,0 +1,355 @@
+{{expand}}
+{{Infobox faction
+|image      = Tzeentch-loading-screen.jpg 
+|type       = [[Race]]
+|category   = Tzeentch
+|campaigns  = [[The Realm of Chaos]]<br>[[Immortal Empires]]<br>[[Darkness & Disharmony]]<br>[[The Lost God]] <small>(minor factions only)</small><br>[[Something Rotten in Kislev]] <small>(minor factions only)</small>
+|subfactions = {{Oracles of Tzeentch faction}}<br>{{The Deceivers faction}}
+|legendary lords= [[Kairos Fateweaver]]<br>[[The Changeling]]
+|money =[[File:Icon income chaos.png]] [[Favour]]
+|special money =[[File:Grimoires.png]] [[Grimoires]]
+|climates =Suitable: <br> [[File:Frozen.png]] [[File:Magical_forest.png]] [[File:Wasteland.png]] [[File:Chaotic_wasteland.png]] [[File:Temperate.png]] [[File:Temperate_island.png]] [[File:Savannah.png]] [[File:Desert.png]] [[File:Jungle.png]] <br>
+Unpleasant: <br> [[File:Mountain.png]] <br>
+Uninhabitable:<br> [[File:Ocean.png]] <br>
+|corruption =[[File:Icon corruption tze.png|20px]] [[Total_War: Warhammer III corruption#Tzeentch Corruption|Tzeentch Corruption]]
+|feature 1 title=[[Changing of the Ways]]
+|feature 1 icon=[[File:bullet_tze_changing_of_the_ways.png]]
+|feature 1 description=Hatch treacherous plots to manipulate the destiny of all beings.
+|feature 2 title=Winds of Magic manipulation
+|feature 2 icon=[[File:bullet_tze_grimoires.png]]
+|feature 2 description=Push and pull the strenghts of the Winds of Magic across your territory.
+|DLC=[[Champions of Chaos]]<br>[[Shadows of Change]]
+}}
+
+'''{{PAGENAME}}''' is a playable [[race]] introduced in [[Total War: Warhammer III]]. Tzeentch is the [[Chaos]] God of ambition, schemes, lies, magic and change. 
+
+== How They Play==
+*Grimoires
+*Changing of the Ways
+*Tzeentch Corruption, Unholy Manifestations and the Great Game
+*Cults of Tzeentch
+*Winds of Magic Manipulation
+*Teleportation Stance
+*'''Unit roster''': Tzeentch is a race that excels at spellcasting, missile firepower and flying units. Its units are protected by a magical barrier that absorbs damage and is replenished when not taking damage.
+
+== Background ==
+Tzeentch – the Changer of the Ways – is the Chaos God of magic, evolution, manipulation and trickery. He is flux incarnate – the God who truly embodies the endless, broiling change that is Chaos. It is Tzeentch above all who holds the terrible knowledge of fate and destiny in his talons. His worshippers are desperate to share in such lore but are merely pawns in the Great Game; another piece to move on the board and outplay the other Chaos Gods.
+
+To serve Tzeentch is to invite insanity. His servants weave their own complex webs of influence and manipulation, founding cults in high society as well as armed legions of puppet-followers. They pay no mind to the fact that their master views such plots as mere petty distractions, for the Architect of Fate's own design is aeons in the making.
+
+== Factions ==
+Tzeentch factions are normal, non-[[horde]] factions who occupy settlements and control [[provinces]].
+
+=== Playable factions ===
+At the moment there are two playable Tzeentch factions, each led by a Legendary Lord. See individual pages for faction-specific info:
+*'''{{Oracles of Tzeentch faction}}''', led by [[Kairos Fateweaver]].
+*'''{{The Deceivers faction}}''', led by [[The Changeling]].
+
+=== Minor factions===
+<u>Total War: Warhammer III</u>
+
+Factions introduced in [[The Lost God]] campaign:
+*{{Apostles of Change faction}}
+*{{Sarthorael's Watchers faction}}, led by [[Sarthorael the Everwatcher]].
+*{{The Sightless faction}}
+
+Factions introduced in [[The Realm of Chaos]] campaign:
+*{{All-Seeing Eye faction}}
+*{{Broken Wheel faction}}
+*{{Flaming Scribes faction}}
+*{{Tzeentch Rebels faction}}
+
+Factions introduced in the [[Immortal Empires]] campaign:
+*{{Tzeentchian Cult faction}} <small>(only appear in a Wood Elves campaign)</small>
+
+== In Battle ==
+=== General ===
+Casting spells generates favour from Tzeentch that can be used on the following army abilities:
+
+*[[File:Wh3 main army abilities arcane surge.png|38px]] [[Arcane Surge]]
+*[[File:Wh3 main army abilities bolt of change.png|38px]] [[Bolt of Change]]
+*[[File:Wh3 main army abilities storm of fire.png|38px]] [[Storm of Fire]]
+
+=== Units ===
+{{Main|Tzeentch unit roster}}
+
+The Tzeentch army has access to daemonic and mortal units. All units have barrier and [[magical attacks]].
+
+=== [[File:Bullet icon empire magic colleges.png]] Magic ===
+Tzeentch spellcasters have access to 3 lores of magic:
+
+*[[File:Icon wh main lore fire.png|38px]][[Lore of Fire]]
+*[[File:Icon wh main lore metal.png|38px]][[Lore of Metal]]
+*[[File:Icon wh main lore tzeentch.png|38px]][[Lore of Tzeentch]]
+
+When equipped with specific items, [[Kairos Fateweaver]] has access to spells from another six lores of magic:
+
+*[[File:Icon wh main lore beasts.png|38px]][[Lore of Beasts]]
+*[[File:Icon wh main lore death.png|38px]][[Lore of Death]]
+*[[File:Icon wh main lore heavens.png|38px]][[Lore of Heavens]]
+*[[File:Icon wh main lore life.png|38px]][[Lore of Life]]
+*[[File:Icon wh main lore light.png|38px]][[Lore of Light]]
+*[[File:Icon wh main lore shadow.png|38px]][[Lore of Shadows]]
+
+In addition, both [[The Changeling]] and [[The Blue Scribes]] have special abilities/mechanics that allows them to use spells from lores of magic not available to Tzeentch. This makes Tzeentch one of the few races that can use all lores of magic in the game.
+
+== In the Campaign ==
+=== Unique Campaign Mechanics ===
+{| class="article-table width=100% mw-collapsible mw-collapsed" data-collapsetext="&#9650;" data-expandtext="&#9660;" style="width:100%"
+!<span style="font-size:20px;">[[File:Icon tzeentch cotw.png|link=Changing of the Ways]] Changing of the Ways</span>
+|-
+|{{Main|Changing of the Ways}}Changing of the Ways is a series of actions unique to Tzeentchian factions that allows to change or observe things on the campaign map against enemy factions. All actions have a cost of [[File:Grimoires.png|20px]][[Grimoires]].
+|}
+=== General Mechanics ===
+{| class="article-table width=100% mw-collapsible mw-collapsed" data-collapsetext="&#9650;" data-expandtext="&#9660;" style="width:100%"
+![[File:Event great game neutral.png|36px|link=Total_War:_Warhammer_III_corruption]] <span style="font-size:20px;">Corruption</span>
+|-
+|Tzeentch spreads 1 type of Chaos corruption:
+*[[File:Icon corruption tze.png]] [[Total_War:_Warhammer_III_corruption#Tzeentch_Corruption|Tzeentch Corruption]]
+|}
+{| class="article-table width=100% mw-collapsible mw-collapsed" data-collapsetext="&#9650;" data-expandtext="&#9660;" style="width:100%"
+!<span style="font-size:20px;">[[File:Event Buildings Neutral.png|36px|link=Tzeentch buildings]]  Buildings</span>
+|-
+|{{Main|Tzeentch buildings}}
+|}
+{| class="article-table width=100% mw-collapsible mw-collapsed" data-collapsetext="&#9650;" data-expandtext="&#9660;" style="width:100%"
+!<span style="font-size:20px;">[[File:Event Technology Neutral.png|36px|link=Tzeentch tech tree]]  Technology</span>
+|-
+|{{Main|Tzeentch tech tree}}Tzeentch's tech tree is divided by 5 tiers of technology with 9 techs each. To unlock a new tier, the player must research a specific technology from the previous tier of technology. Some of the techs have specific requirements, such as having built a certain building, researching a technology or both and some have a cost of [[File:Grimoires.png|20px]]Grimoires.
+
+Additionally, {{The Deceivers faction}} faction receives their own unique tech tree: [[The Deceivers tech tree]].
+|}
+{| class="article-table width=100% mw-collapsible mw-collapsed" data-collapsetext="&#9650;" data-expandtext="&#9660;" style="width:100%"
+! colspan="3" |<span style="font-size:20px;">[[File:Event Character Activity Neutral.png|36px|link=]]  Stances</span>
+|-
+!Stance
+!Description
+!Effects
+|-
+![[File:Default Stance None.png]]
+'''None'''
+|''Traverses the world as normal.''
+|None
+|-
+![[File:Stance March.png]]
+'''March'''
+|''Increases this army's campaign map marching range.''
+|
+*[[File:Campaign movement.png]] <span style="color:#a0ff37">Campaign movement: +50%</span>
+*[[File:Military.png]] <span style="color:#ff2d2d">Recruitment: Disabled</span>
+*[[File:Vigour.png]] <span style="color:#ff2d2d">Vigour in battle: Tired</span>
+*[[File:Icon effects ambush.png]] <span style="color:#ff2d2d">Ambush defence chance: -25%</span>
+*[[File:Melee.png]] <span style="color:#ff2d2d">Should the army be attacked, retreat will be impossible; if it loses the battle it will be wiped out</span>
+*[[File:Melee.png]] <span style="color:#ff2d2d">Battle initiation: Disabled</span>
+|-
+![[File:Icon ambush stance.png]]
+'''Ambush'''
+|''Conceals this army, allowing surprise attacks against passing enemies.''
+|
+*[[File:Campaign movement.png]] <span style="color:#ffb900">Campaign movement range penalty: 25%</span>
+*[[File:Subterfuge.png]] <span style="color:#a0ff37">Hidden until discovered or battle initiated</span>
+|-
+![[File:Raiding.png]]
+'''Raiding'''
+|''Raids wealth from the local region.''
+|
+*[[File:Campaign movement.png]] <span style="color:#ffb900">Campaign movement range penalty: 50%</span>
+*[[File:Campaign movement.png]] <span style="color:#ff2d2d">Campaign movement: -25%</span>
+*[[File:Icon income plus favour.png]] <span style="color:#a0ff37">Income generated from raiding: 25</span>
+*[[File:Public order.png]] <span style="color:#a0ff37">Control: -3 in the raided province</span>
+*[[File:Growth.png]] <span style="color:#a0ff37">Growth: -5 in the raided province</span>
+*[[File:Attrition.png]] <span style="color:#a0ff37">Immune to most attrition</span>
+*[[File:Vigour.png]] <span style="color:#ff2d2d">Vigour in battle: Winded</span>
+*[[File:Diplomacy.png]] <span style="color:#ff2d2d">Diplomacy: Penalties with raided factions</span>
+*[[File:Income trait favour.png]] <span style="color:#ff2d2d">Income from all buildings: -100% (when raiding own region)</span>
+|-
+![[File:Military force active stance type set camp.png]]
+'''Encamp'''
+|''Sets up a defensive camp, allowing for recruitment and replenishment, regardless of territory.''
+|
+*[[File:Campaign movement.png]] <span style="color:#ffb900">Campaign movement range penalty: 50%</span>
+*[[File:Replenishment.png]] <span style="color:#a0ff37">Enables replenishment and access to the Global recruitment pool</span>
+*[[File:Attrition.png]] <span style="color:#a0ff37">Immune to most attrition</span>
+*[[File:Campaign movement.png]] <span style="color:#ff2d2d">Campaign movement disabled when recruitment</span>
+*[[File:Icon effects ambush.png]] <span style="color:#a0ff37">Ambush defence chance: +75%</span>
+*[[File:Morale.png]] <span style="color:#a0ff37">Leadership: +5</span>
+*[[File:Defence.png]] <span style="color:#a0ff37">Melee defence: +5</span>
+|-
+![[File:Military force active stance type channeling.png]]
+'''Channelling'''
+|''Increases the favourability of the Winds of Magic when fighting battles.''
+|
+*[[File:Magic campaign.png]] <span style="color:#a0ff37">Winds of Magic power reserve: +15 per turn</span>
+*[[File:Campaign movement.png]] <span style="color:#ffb900">Campaign movement range penalty: 10%</span>
+|-
+![[File:Military force active stance type teleport.png]]
+'''Teleport'''
+|''Teleport throughout the world, bypassing impassable terrain with the opportunity to attack unsuspecting enemy armies.''
+|
+*[[File:Magic campaign.png]] <span style="color:#ffb900">Winds of Magic power reserve to move: 40</span>
+*[[File:Campaign movement.png]] <span style="color:#a0ff37">Teleport past terrain that would normally be impassable</span>
+*[[File:Campaign movement.png]] <span style="color:#ffb900">Minimum requirement to assume: Not moved this turn</span>
+*[[File:Attrition.png]] <span style="color:#a0ff37">Immune to most attrition</span>
+|}
+
+{| class="article-table width=100% mw-collapsible mw-collapsed" data-collapsetext="&#9650;" data-expandtext="&#9660;" style="width:100%"
+! colspan="6" |<span style="font-size:20px;">[[File:Event City Neutral.png|36px|link=Settlement options]]  Settlement options</span>
+|-
+!Occupy
+!Loot & Occupy
+!Symbiotic Trickster Cult<br>{{The Deceivers faction}} only
+!Parasitic Trickster Cult<br>{{The Deceivers faction}} only
+!Sack
+!Raze
+|-
+![[File:Wh3 main tze tzeentch occupy.png]]
+![[File:Wh3 main tze tzeentch loot.png]]
+![[File:Wh3 main tze tzeentch colonise.png]]
+![[File:Wh3 main tze tzeentch search ruins.png]]
+![[File:Wh3 main tze tzeentch sack.png]]
+![[File:Raze Settlement.png]]
+|-
+|You occupy the settlement.
+|You gain wealth from looting, but buildings in the settlement are damaged. All captives are enslaved, [[File:icon_public_order.png|20px]]control is greatly reduced, and your diplomatic relations with the previous owner also suffer greatly.
+|You sack the settlement and establish a [[File:trickster_cult.png|20px]]Trickster Cult with a symbiotic building to strengthen the owner. You also steal wealth and damage buildings. [[File:icon_public_order.png|20px]]Control is reduced, and the previous owners will like you a lot less.
+|You sack the settlement and establish a [[File:trickster_cult.png|20px]]Trickster Cult with a parasitic building to leech from the owner. You also steal wealth and damage buildings. [[File:icon_public_order.png|20px]]Control is reduced, and the previous owners will like you a lot less.
+|You do not capture the settlement but instead steal wealth and damage buildings. All captives are enslaved, [[File:icon_public_order.png|20px]]control is reduced, and the previous owner will like you a lot less.
+|All buildings are destroyed and the settlement is torched. The previous owner will like you at lot less.
+|-
+|
+*[[File:icon_public_order_negative.png]] Control: -10
+*[[File:icon_province_instability.png]] Province instability: -5
+|
+*[[File:icon_public_order_negative.png]] Control: -30
+*[[File:icon_province_instability.png]] Province instability: -10
+*[[File:icon_treasury_favour.png]] Treasury
+*[[File:icon_grimoires.png]] Grimoires
+|
+*[[File:icon_province_instability.png]] Province instability: -10
+*[[File:icon_treasury_favour.png]] Treasury
+*[[File:icon_grimoires.png]] Grimoires
+|
+*[[File:icon_province_instability.png]] Province instability: -10
+*[[File:icon_treasury_favour.png]] Treasury
+*[[File:icon_grimoires.png]] Grimoires
+|
+*[[File:icon_province_instability.png]] Province instability: -10
+*[[File:icon_treasury_favour.png]] Treasury
+*[[File:icon_grimoires.png]] Grimoires
+|
+*[[File:icon_treasury_favour.png]] Treasury
+*[[File:icon_grimoires.png]] Grimoires
+|}
+
+=== Winds of magic manipulation ===
+Another ability unique to Tzeentch is his specific control of the winds of magic. Indeed, so tied are his machinations to them that many buildings have unique effects when the winds of magic are particularly strong, increasing their capabilities. To this end, Tzeentch can reduce the winds of magic in one province where he has a settlement to increase it in another, at will. 
+
+As well as providing the aforementioned buffs to his buildings, this allows for armies with multiple spellcasters – that’s going to be quite a lot of your Tzeentch armies, believe it or not – to benefit heavily in terms of the power reserves available to them. It’s also worth noting that there have been some large changes made to the nature of the Winds of Magic and power reserves in battle, which we will detail soon. The upshot is that this ability should never be discounted to ensure victory. 
+
+=== Unholy Manifestations ===
+[[Unholy Manifestations]] unlock as more corruption for your god is spread across the land.  The upgraded versions have heavier effects – generating more of a resource or dealing more damage to an army, for example. Here’s the Unholy Manifestations for Tzeentch: 
+
+*Scriveners of Insanity 
+**Unlocked from the start.
+**Allows a friendly army to generate a big batch of grimoires over the course of several turns. The army cannot move during this time, and must be in enemy territory.
+*Mutagenic Energies 
+**Requires 1500 global Tzeentch corruption.
+**Causes a target army to suffer attrition for a turn, regardless of situation or immunities.
+*Magic Flare 
+**Requires 3000 global Tzeentch corruption.
+**Increases the Range and Barrier hit points of all units in an army. Barrier is a special shield all Tzeentch units have – we’ll detail this further in the upcoming roster reveal.
+*Night of Madness 
+**Requires 6000 global Tzeentch corruption.
+**Target friendly army generates Tzeentch corruption and control (renamed from public order) loss in a province, as well as increasing the army’s Winds of Magic power reserve. It cannot move during these turns.
+
+=== Cults ===
+Cults can form once a god is particularly dominant in a region. This cult becomes a foreign building slot, owned by you, that can construct unique buildings based on your dedicated god. Tzeentch’s options are: 
+
+*Sanctuary 
+** Generates grimoires per turn.
+*Repository 
+**Generates more grimoires per turn but requires high winds of magic level.
+*Sanctum 
+**Generates a decent amount of income but also requires high winds of magic level.
+* Campus 
+**Destroys the cult but increases winds of magic here and in all adjacent to Tempestuous.
+
+=== Teleportation ===
+Unique to Tzeentch and unlocked through the tech tree, his armies can go into the Teleport stance. This costs Winds of Magic reserve power to adopt but is exceptionally powerful. Not only does it allow crossing of impassable terrain – say, mountain ranges, rivers, patrolled areas – but instantly triggers an ambush battle should you target an enemy army. It’s a one-shot move, so you must re-adopt the stance if you wish to go again on the next turn but getting to ambush armies as you like can really swing a war your way. This level of power is why it is locked in the later game for Tzeentch, requiring various techs to unlock.
+
+== Downloadable content ==
+{| class="article-table width=100% mw-collapsible mw-collapsed" data-collapsetext="&#9650;" data-expandtext="&#9660;" style="width:100%"
+! colspan="4" |[[File:Event Diplomacy Neutral.png|36px]]<span style="font-size:20px;">  DLC list</span>
+|-
+| colspan="4" |Tzeentch can be expanded upon with the following paid and free [[DLC]]:
+|-
+|Name
+|Base game
+|Paid/free
+|Type
+|-
+|[[Champions of Chaos]]
+|Total War: Warhammer III
+|Paid
+|Lord Pack
+|-
+|[[Marked Chaos Warriors]]
+|Total War: Warhammer III
+|Free
+|Unit Pack
+|-
+|[[Aekold Helbrass]]
+|Total War: Warhammer III
+|Free
+|Legendary Hero
+|-
+|[[Shadows of Change]]
+|Total War: Warhammer III
+|Paid
+|Lord Pack
+|}
+
+== Trivia ==
+*[[The Advisor]], the mysterious old man who guides the player, is an agent of Tzeentch.
+
+== Strategy ==
+Ranged attacks and Magic spells are the mainstays of Tzeentch's armies.  Melee units are not effective at dealing damage, and so mainly serve as chaff to hold enemy units in place while projectiles and spells output damage.  The Winds of Magic capacity and channeling rate for Tzeentch armies are higher than any other faction.  Army abilities charge up the more Winds of Magic is expended in casting spells during the course of the battle.   
+
+All Tzeentch units have barriers that absorb damage from attacks before health points start to be depleted, and they will regenerate after not taking damage for a certain amount of time.  The more mobile units can take advantage of this by repeatedly  retreating to allow their barriers to regenerate before entering the fray again, thus prolonging their survivability.  The barriers are not affected by damage reduction, and thus will always take full damage from all sources.  In campaign, barriers are balanced by a lower than average health replenishment rate.
+
+If you're not playing as Tzeentch, unless you want to do something, it's better to not to establish "contact" with any Tzeentch factions since they can just swap one of your settlements to another faction.
+
+== Gallery ==
+=== Concept Art ===
+<gallery>
+Tzeentch-concept-art-cultist-of-tzeentch.jpg|Cultist of Tzeentch
+Wh3 herald of tzeentch.jpg|Herald of Tzeentch
+Tzeentch-concept-art-pink-horror.jpg|Pink Horror
+Tzeentch-concept-art-iridescent-horror.jpg|Iridescent Horror
+Tzeentch-concept-art-pink-horror-exalted.jpg|Exalted Pink Horror
+Tzeentch-concept-art-blue-horror.jpg|Blue Horror
+Tzeentch-concept-art-flamer.jpg|Flamer
+Tzeentch-concept-art-flamer-exalted.jpg|Exalted Flamer
+Tzeentch-concept-art-burning-chariot.jpg|Burning Chariot
+Wh3 soulgrinder of tzeentch.jpg|Soulgrinder of Tzeentch
+Tzeentch-concept-art-exalted-lord-v4.jpg|Exalted Lord
+</gallery>
+
+=== Screenshots ===
+<gallery>
+Tzeentch screenshots asset 03 01 FINAL.jpg|Realm of Tzeentch
+Tzeentch screenshots asset 01 FINAL.jpg|Kairos Fateweaver
+Tw1(1).jpg|Tzeentch army
+Twwh3 soc design Screenshot Changeling 16x9 copy 2.png|The Changeling
+Twwh3 soc design Screenshot tzeentch 16x9_.png
+</gallery>
+
+== Videos ==
+{{#ev:youtube|https://www.youtube.com/watch?v=52zuk_GcGUI}}
+
+[[Category:Tzeentch]]
+[[Category:Total War: Warhammer III]]
+[[Category:Total War: Warhammer III factions]]
+
+[[es:Tzeentch]]
+[[Category:Races]]

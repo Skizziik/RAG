@@ -1,0 +1,26 @@
+{
+  "race_id": "ogre_kingdoms",
+  "unique_mechanics": {},
+  "general_mechanics": {
+    "Buildings": {
+      "description": "Main article: Ogre Kingdoms buildings",
+      "details": []
+    },
+    "Technology": {
+      "description": "Main article: Ogre Kingdoms tech tree",
+      "details": []
+    }
+  },
+  "magic": {
+    "Magic": {
+      "description": "Ogre Kingdoms have access to 5 lores of magic: * Lore of Beasts * Lore of Fire * Lore of the Great Maw * Lore of Heavens * Lore of Death",
+      "lores": [
+        "Lore of Beasts",
+        "Lore of Fire",
+        "Lore of the Great Maw",
+        "Lore of Heavens",
+        "Lore of Death"
+      ]
+    }
+  }
+}

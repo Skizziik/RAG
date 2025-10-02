@@ -1,0 +1,36 @@
+{
+  "id": "daemons_of_chaos",
+  "name": "Daemons Of Chaos",
+  "type": "race",
+  "description": "Manipulated into a horrifying act by another, the Ungol Prince has given himself up entirely in exchange for the Ruinous blessings of all the Chaos Gods and ascendancy to Daemonhood. The newly arisen...",
+  "faction_type": "chaos",
+  "playstyle": [
+    "versatile",
+    "adaptive"
+  ],
+  "difficulty": "hard",
+  "strengths": [
+    "Versatile roster",
+    "All god units",
+    "Customizable"
+  ],
+  "weaknesses": [
+    "Complex",
+    "Jack of all trades"
+  ],
+  "keywords": [
+    "undivided",
+    "versatile",
+    "daemon prince",
+    "all gods",
+    "chaos",
+    "mixed"
+  ],
+  "tags": [
+    "daemons_of_chaos",
+    "chaos",
+    "base_game",
+    "versatile",
+    "adaptive"
+  ]
+}

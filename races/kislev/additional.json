@@ -1,0 +1,52 @@
+{
+  "race_id": "kislev",
+  "other_information": {
+    "How they play": {
+      "description": "* Devotion, a unique resource to Kislevite factions, is gained by winning battles against Chaos armies and constructing certain buildings. If Devotion gets too low, such as by attacking other Kislevite factions, Chaos armies will be more likely to attack you. Devotion is primarily spent on performing one of four rituals to the Motherland, which provide powerful bonuses and invoke the four main Kislev dieties: Salyak, Dazh, Ursun and Tor. Devotion is also spent to construct some higher tier buildings. * The Ice Court and the Great Orthodoxy compete for Supporters, a second unique resource for Kislevite factions. The more Supporters your faction gains, the more likely will minor Kislevite factions want to confederate with you. Gold and Devotion can also be spent to limit the rival Kislevite faction's Supporters. For the Ursun Revivalists, Supporters can earn closer relations with the other two big factions, along with bonuses, and they add Supporters to the Ice Court. * Atamans are unique lords who do not earn XP, but gain traits through dilemmas that enhance the current region and/or army they are located in. Only one Ataman can be recruited for every two provinces under your control, and he can be recruited for free to lead your armies into battle. If the Ataman is killed, a new Ataman will have to be recruited. * The Ice Court (mechanic) means that Ice Witches and Frost Maidens take a long time to train, but are then recruited for a discounted price, at a higher level, and already with abilities/traits. * Most Kislev units are hybrid units, proficient in both ranged and melee combat. Most human Kislev units have the By Our Blood ability which makes them temporarily unbreakable when their leadership is low, allowing them to fight longer.",
+      "details": [
+        "Devotion, a unique resource to Kislevite factions, is gained by winning battles against Chaos armies and constructing certain buildings. If Devotion gets too low, such as by attacking other Kislevite factions, Chaos armies will be more likely to attack you. Devotion is primarily spent on performing one of four rituals to the Motherland, which provide powerful bonuses and invoke the four main Kislev dieties: Salyak, Dazh, Ursun and Tor. Devotion is also spent to construct some higher tier buildings.",
+        "The Ice Court and the Great Orthodoxy compete for Supporters, a second unique resource for Kislevite factions. The more Supporters your faction gains, the more likely will minor Kislevite factions want to confederate with you. Gold and Devotion can also be spent to limit the rival Kislevite faction's Supporters. For the Ursun Revivalists, Supporters can earn closer relations with the other two big factions, along with bonuses, and they add Supporters to the Ice Court.",
+        "Atamans are unique lords who do not earn XP, but gain traits through dilemmas that enhance the current region and/or army they are located in. Only one Ataman can be recruited for every two provinces under your control, and he can be recruited for free to lead your armies into battle. If the Ataman is killed, a new Ataman will have to be recruited.",
+        "The Ice Court (mechanic) means that Ice Witches and Frost Maidens take a long time to train, but are then recruited for a discounted price, at a higher level, and already with abilities/traits.",
+        "Most Kislev units are hybrid units, proficient in both ranged and melee combat. Most human Kislev units have the By Our Blood ability which makes them temporarily unbreakable when their leadership is low, allowing them to fight longer."
+      ]
+    },
+    "Minor factions": {
+      "description": "Total War: Warhammer III Factions exclusive to The Lost God campaign: * Factions introduced in The Realm of Chaos campaign: * * * * * Total War: Warhammer & Total War: Warhammer II *",
+      "details": []
+    },
+    "In the Campaign": {
+      "description": "See also: Kislev (region)",
+      "details": []
+    },
+    "General mechanics": {
+      "description": "*Kislev tech tree *Kislev buildings *Kislev commandments * Kislev post-battle options *Kislev settlement options *:Category:Kislev random events *:Category:Kislev dilemmas",
+      "details": [
+        "Kislev tech tree",
+        "Kislev buildings",
+        "Kislev commandments",
+        "Kislev post-battle options",
+        "Kislev settlement options",
+        ":Category:Kislev random events",
+        ":Category:Kislev dilemmas"
+      ]
+    },
+    "Inventory": {
+      "description": "*:Category:Kislev items * Kislev followers *:Category:Kislev mounts *:Kislevite names",
+      "details": [
+        ":Category:Kislev items",
+        "Kislev followers",
+        ":Category:Kislev mounts",
+        ":Kislevite names"
+      ]
+    },
+    "Strategy": {
+      "description": "Kislev are renown as having potent mid-range firepower on flexible infantry capable of exceeding expectation in melee. Their gameplan revolves around using Ice and Tempest Magic to slow and punish enemies while their monstrous bear cavalry forcibly control the enemy's placement, allowing arrows, guns and charging units to execute. Kislev have excellent mid-tier infantry, the Tzar Guard with shields being an excellent defense for your ranged unit and anvil for your cavalry. Streltsi are expensive, are a staple against armoured enemies but will see less return against unarmoured factions, so consider your matchups before over-investing here. Power War Bear Cavalry cover most of the faction's weaknesses, can plow through infantry and tear apart enemy monsters with anti-large AP attacks. Patriachs are exellent for leading units of War Bears thanks to Ursun's Roar and Salyak's Lullaby to heal their high HP models. The Little Grom is effective, but Kislev may come against enemies with superior artillery and will have to close the range. The Kislev army has great synergy and can use it's robust infantry, plentiful firepower, frost magic and bear cavalry as components that support each other and increase their potential.",
+      "details": []
+    },
+    "Downloadable content": {
+      "description": "colspan=\"4\" | DLC list colspan=\"4\" |Kislev can be expanded upon with the following paid and free DLC: Name Base game Paid/free Type Ulrika Magdova Total War: Warhammer III Free Legendary Hero Shadows of Change Total War: Warhammer III Paid Lord Pack",
+      "details": []
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "slaanesh",
+  "name": "Slaanesh",
+  "type": "race",
+  "description": "The Dark Prince, the Prince of Excess/Pleasure, She-Who-Thirsts, The Serpent Slaanesh is the youngest of the Chaos Gods, and generally considered the weakest. He represents desire, pleasure, pain and...",
+  "faction_type": "chaos",
+  "playstyle": [
+    "fast",
+    "aggressive",
+    "melee"
+  ],
+  "difficulty": "medium",
+  "strengths": [
+    "Speed",
+    "Close combat",
+    "Seduction",
+    "Diplomacy"
+  ],
+  "weaknesses": [
+    "Low armor",
+    "No ranged",
+    "Fragile"
+  ],
+  "keywords": [
+    "fast",
+    "seduction",
+    "pleasure",
+    "speed",
+    "slaanesh",
+    "chaos",
+    "excess"
+  ],
+  "tags": [
+    "slaanesh",
+    "chaos",
+    "base_game",
+    "fast",
+    "aggressive",
+    "melee"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "nurgle",
+  "name": "Nurgle",
+  "type": "race",
+  "description": "The Lord of Decay, Grandfather Nurgle, The Crow Nurgle represents despair, resilience, resignation and acceptance ... in the face of inevitable disease, decay, death and entropy. Among mortals, Nurgle...",
+  "faction_type": "chaos",
+  "playstyle": [
+    "defensive",
+    "attrition"
+  ],
+  "difficulty": "medium",
+  "strengths": [
+    "Durability",
+    "Attrition",
+    "Plagues",
+    "Corruption"
+  ],
+  "weaknesses": [
+    "Slow",
+    "Low mobility"
+  ],
+  "keywords": [
+    "plague",
+    "slow",
+    "durable",
+    "attrition",
+    "nurgle",
+    "chaos",
+    "decay"
+  ],
+  "tags": [
+    "nurgle",
+    "chaos",
+    "base_game",
+    "defensive",
+    "attrition"
+  ]
+}

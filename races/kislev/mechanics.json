@@ -1,0 +1,27 @@
+{
+  "race_id": "kislev",
+  "unique_mechanics": {
+    "Unique campaign mechanics": {
+      "description": "* The Motherland *Atamans *The Ice Court",
+      "features": [
+        "The Motherland",
+        "Atamans",
+        "The Ice Court"
+      ]
+    }
+  },
+  "general_mechanics": {},
+  "magic": {
+    "Magic": {
+      "description": "Kislev spellcasters have access to 6 lores of magic: *Lore of Beasts *Lore of Death *Lore of Ice *Lore of Shadows *Lore of Tempest *Lore of the Hag",
+      "lores": [
+        "Lore of Beasts",
+        "Lore of Death",
+        "Lore of Ice",
+        "Lore of Shadows",
+        "Lore of Tempest",
+        "Lore of the Hag"
+      ]
+    }
+  }
+}

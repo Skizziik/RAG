@@ -1,0 +1,9 @@
+{
+  "race_id": "khorne",
+  "roster_info": {
+    "Units": {
+      "description": "Khorne unit roster In the Khorne army, there is access to both daemonic and mortal units. Khorne units are melee focused with high damage, with all mortal units (plus the Chaos Furies and Daemon Prince) having Frenzy, but reduced Melee Defense (not counting Chaos Furies). They have only three ranged units, the Soul Grinder, Marauder Horsemen, and Skullcannon. All units (except The Bloodbrute Behemoth and Chaos Warhounds) have Spell Resistance. Some Khorne units (such as Skarbrand) have passive abilities that are activated based on the number of kills the unit gets.",
+      "unit_types": []
+    }
+  }
+}

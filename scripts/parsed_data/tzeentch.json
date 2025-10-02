@@ -1,0 +1,207 @@
+{
+  "race_id": "tzeentch",
+  "name": "Tzeentch",
+  "infobox": {
+    "subfactions": "The Deceivers",
+    "money": "Favour",
+    "climates": "Suitable:",
+    "corruption": "Tzeentch Corruption",
+    "DLC": "Champions of Chaos Shadows of Change"
+  },
+  "sections": {
+    "How They Play": {
+      "content": "*Grimoires *Changing of the Ways *Tzeentch Corruption, Unholy Manifestations and the Great Game *Cults of Tzeentch *Winds of Magic Manipulation *Teleportation Stance *Unit roster: Tzeentch is a race that excels at spellcasting, missile firepower and flying units. Its units are protected by a magical barrier that absorbs damage and is replenished when not taking damage.",
+      "list_items": [
+        "Grimoires",
+        "Changing of the Ways",
+        "Tzeentch Corruption, Unholy Manifestations and the Great Game",
+        "Cults of Tzeentch",
+        "Winds of Magic Manipulation",
+        "Teleportation Stance",
+        "Unit roster: Tzeentch is a race that excels at spellcasting, missile firepower and flying units. Its units are protected by a magical barrier that absorbs damage and is replenished when not taking damage."
+      ]
+    },
+    "Background": {
+      "content": "Tzeentch – the Changer of the Ways – is the Chaos God of magic, evolution, manipulation and trickery. He is flux incarnate – the God who truly embodies the endless, broiling change that is Chaos. It is Tzeentch above all who holds the terrible knowledge of fate and destiny in his talons. His worshippers are desperate to share in such lore but are merely pawns in the Great Game; another piece to move on the board and outplay the other Chaos Gods. To serve Tzeentch is to invite insanity. His servants weave their own complex webs of influence and manipulation, founding cults in high society as well as armed legions of puppet-followers. They pay no mind to the fact that their master views such plots as mere petty distractions, for the Architect of Fate's own design is aeons in the making.",
+      "list_items": null
+    },
+    "Factions": {
+      "content": "Tzeentch factions are normal, non-horde factions who occupy settlements and control provinces.",
+      "list_items": null
+    },
+    "Playable factions": {
+      "content": "At the moment there are two playable Tzeentch factions, each led by a Legendary Lord. See individual pages for faction-specific info: *, led by Kairos Fateweaver. *The Deceivers, led by The Changeling.",
+      "list_items": [
+        ", led by Kairos Fateweaver.",
+        "The Deceivers, led by The Changeling."
+      ]
+    },
+    "Minor factions": {
+      "content": "Total War: Warhammer III Factions introduced in The Lost God campaign: * *, led by Sarthorael the Everwatcher. *The Sightless Factions introduced in The Realm of Chaos campaign: * * * * Factions introduced in the Immortal Empires campaign: * (only appear in a Wood Elves campaign)",
+      "list_items": [
+        ", led by Sarthorael the Everwatcher.",
+        "The Sightless",
+        "(only appear in a Wood Elves campaign)"
+      ]
+    },
+    "In Battle": {
+      "content": "",
+      "list_items": null
+    },
+    "General": {
+      "content": "Casting spells generates favour from Tzeentch that can be used on the following army abilities: * Arcane Surge * Bolt of Change * Storm of Fire",
+      "list_items": [
+        "Arcane Surge",
+        "Bolt of Change",
+        "Storm of Fire"
+      ]
+    },
+    "Units": {
+      "content": "Tzeentch unit roster The Tzeentch army has access to daemonic and mortal units. All units have barrier and magical attacks.",
+      "list_items": null
+    },
+    "[[File:Bullet icon empire magic colleges.png]] Magic": {
+      "content": "Tzeentch spellcasters have access to 3 lores of magic: *Lore of Fire *Lore of Metal *Lore of Tzeentch When equipped with specific items, Kairos Fateweaver has access to spells from another six lores of magic: *Lore of Beasts *Lore of Death *Lore of Heavens *Lore of Life *Lore of Light *Lore of Shadows In addition, both The Changeling and The Blue Scribes have special abilities/mechanics that allows them to use spells from lores of magic not available to Tzeentch. This makes Tzeentch one of the few races that can use all lores of magic in the game.",
+      "list_items": [
+        "Lore of Fire",
+        "Lore of Metal",
+        "Lore of Tzeentch",
+        "Lore of Beasts",
+        "Lore of Death",
+        "Lore of Heavens",
+        "Lore of Life",
+        "Lore of Light",
+        "Lore of Shadows"
+      ]
+    },
+    "In the Campaign": {
+      "content": "",
+      "list_items": null
+    },
+    "Unique Campaign Mechanics": {
+      "content": "Changing of the Ways Changing of the WaysChanging of the Ways is a series of actions unique to Tzeentchian factions that allows to change or observe things on the campaign map against enemy factions. All actions have a cost of Grimoires.",
+      "list_items": null
+    },
+    "General Mechanics": {
+      "content": "Corruption Tzeentch spreads 1 type of Chaos corruption: * Tzeentch Corruption Buildings Tzeentch buildings Technology Tzeentch tech treeTzeentch's tech tree is divided by 5 tiers of technology with 9 techs each. To unlock a new tier, the player must research a specific technology from the previous tier of technology. Some of the techs have specific requirements, such as having built a certain building, researching a technology or both and some have a cost of Grimoires. Additionally, The Deceivers faction receives their own unique tech tree: The Deceivers tech tree. colspan=\"3\" | Stances Stance Description Effects None Traverses the world as normal. None March Increases this army's campaign map marching range. * Campaign movement: +50% * Recruitment: Disabled * Vigour in battle: Tired * Ambush defence chance: -25% * Should the army be attacked, retreat will be impossible; if it loses the battle it will be wiped out * Battle initiation: Disabled Ambush Conceals this army, allowing surprise attacks against passing enemies. * Campaign movement range penalty: 25% * Hidden until discovered or battle initiated Raiding Raids wealth from the local region. * Campaign movement range penalty: 50% * Campaign movement: -25% * Income generated from raiding: 25 * Control: -3 in the raided province * Growth: -5 in the raided province * Immune to most attrition * Vigour in battle: Winded * Diplomacy: Penalties with raided factions * Income from all buildings: -100% (when raiding own region) Encamp Sets up a defensive camp, allowing for recruitment and replenishment, regardless of territory. * Campaign movement range penalty: 50% * Enables replenishment and access to the Global recruitment pool * Immune to most attrition * Campaign movement disabled when recruitment * Ambush defence chance: +75% * Leadership: +5 * Melee defence: +5 Channelling Increases the favourability of the Winds of Magic when fighting battles. * Winds of Magic power reserve: +15 per turn * Campaign movement range penalty: 10% Teleport Teleport throughout the world, bypassing impassable terrain with the opportunity to attack unsuspecting enemy armies. * Winds of Magic power reserve to move: 40 * Teleport past terrain that would normally be impassable * Minimum requirement to assume: Not moved this turn * Immune to most attrition colspan=\"6\" | Settlement options Occupy Loot & Occupy Symbiotic Trickster Cult The Deceivers only Parasitic Trickster Cult The Deceivers only Sack Raze You occupy the settlement. You gain wealth from looting, but buildings in the settlement are damaged. All captives are enslaved, control is greatly reduced, and your diplomatic relations with the previous owner also suffer greatly. You sack the settlement and establish a Trickster Cult with a symbiotic building to strengthen the owner. You also steal wealth and damage buildings. Control is reduced, and the previous owners will like you a lot less. You sack the settlement and establish a Trickster Cult with a parasitic building to leech from the owner. You also steal wealth and damage buildings. Control is reduced, and the previous owners will like you a lot less. You do not capture the settlement but instead steal wealth and damage buildings. All captives are enslaved, control is reduced, and the previous owner will like you a lot less. All buildings are destroyed and the settlement is torched. The previous owner will like you at lot less. * Control: -10 * Province instability: -5 * Control: -30 * Province instability: -10 * Treasury * Grimoires * Province instability: -10 * Treasury * Grimoires * Province instability: -10 * Treasury * Grimoires * Province instability: -10 * Treasury * Grimoires * Treasury * Grimoires",
+      "list_items": [
+        "Tzeentch Corruption",
+        "Campaign movement: +50%",
+        "Recruitment: Disabled",
+        "Vigour in battle: Tired",
+        "Ambush defence chance: -25%",
+        "Should the army be attacked, retreat will be impossible; if it loses the battle it will be wiped out",
+        "Battle initiation: Disabled",
+        "Campaign movement range penalty: 25%",
+        "Hidden until discovered or battle initiated",
+        "Campaign movement range penalty: 50%",
+        "Campaign movement: -25%",
+        "Income generated from raiding: 25",
+        "Control: -3 in the raided province",
+        "Growth: -5 in the raided province",
+        "Immune to most attrition",
+        "Vigour in battle: Winded",
+        "Diplomacy: Penalties with raided factions",
+        "Income from all buildings: -100% (when raiding own region)",
+        "Campaign movement range penalty: 50%",
+        "Enables replenishment and access to the Global recruitment pool",
+        "Immune to most attrition",
+        "Campaign movement disabled when recruitment",
+        "Ambush defence chance: +75%",
+        "Leadership: +5",
+        "Melee defence: +5",
+        "Winds of Magic power reserve: +15 per turn",
+        "Campaign movement range penalty: 10%",
+        "Winds of Magic power reserve to move: 40",
+        "Teleport past terrain that would normally be impassable",
+        "Minimum requirement to assume: Not moved this turn",
+        "Immune to most attrition",
+        "Control: -10",
+        "Province instability: -5",
+        "Control: -30",
+        "Province instability: -10",
+        "Treasury",
+        "Grimoires",
+        "Province instability: -10",
+        "Treasury",
+        "Grimoires",
+        "Province instability: -10",
+        "Treasury",
+        "Grimoires",
+        "Province instability: -10",
+        "Treasury",
+        "Grimoires",
+        "Treasury",
+        "Grimoires"
+      ]
+    },
+    "Winds of magic manipulation": {
+      "content": "Another ability unique to Tzeentch is his specific control of the winds of magic. Indeed, so tied are his machinations to them that many buildings have unique effects when the winds of magic are particularly strong, increasing their capabilities. To this end, Tzeentch can reduce the winds of magic in one province where he has a settlement to increase it in another, at will. As well as providing the aforementioned buffs to his buildings, this allows for armies with multiple spellcasters – that’s going to be quite a lot of your Tzeentch armies, believe it or not – to benefit heavily in terms of the power reserves available to them. It’s also worth noting that there have been some large changes made to the nature of the Winds of Magic and power reserves in battle, which we will detail soon. The upshot is that this ability should never be discounted to ensure victory.",
+      "list_items": null
+    },
+    "Unholy Manifestations": {
+      "content": "Unholy Manifestations unlock as more corruption for your god is spread across the land. The upgraded versions have heavier effects – generating more of a resource or dealing more damage to an army, for example. Here’s the Unholy Manifestations for Tzeentch: *Scriveners of Insanity **Unlocked from the start. **Allows a friendly army to generate a big batch of grimoires over the course of several turns. The army cannot move during this time, and must be in enemy territory. *Mutagenic Energies **Requires 1500 global Tzeentch corruption. **Causes a target army to suffer attrition for a turn, regardless of situation or immunities. *Magic Flare **Requires 3000 global Tzeentch corruption. **Increases the Range and Barrier hit points of all units in an army. Barrier is a special shield all Tzeentch units have – we’ll detail this further in the upcoming roster reveal. *Night of Madness **Requires 6000 global Tzeentch corruption. **Target friendly army generates Tzeentch corruption and control (renamed from public order) loss in a province, as well as increasing the army’s Winds of Magic power reserve. It cannot move during these turns.",
+      "list_items": [
+        "Scriveners of Insanity",
+        "*Unlocked from the start.",
+        "*Allows a friendly army to generate a big batch of grimoires over the course of several turns. The army cannot move during this time, and must be in enemy territory.",
+        "Mutagenic Energies",
+        "*Requires 1500 global Tzeentch corruption.",
+        "*Causes a target army to suffer attrition for a turn, regardless of situation or immunities.",
+        "Magic Flare",
+        "*Requires 3000 global Tzeentch corruption.",
+        "*Increases the Range and Barrier hit points of all units in an army. Barrier is a special shield all Tzeentch units have – we’ll detail this further in the upcoming roster reveal.",
+        "Night of Madness",
+        "*Requires 6000 global Tzeentch corruption.",
+        "*Target friendly army generates Tzeentch corruption and control (renamed from public order) loss in a province, as well as increasing the army’s Winds of Magic power reserve. It cannot move during these turns."
+      ]
+    },
+    "Cults": {
+      "content": "Cults can form once a god is particularly dominant in a region. This cult becomes a foreign building slot, owned by you, that can construct unique buildings based on your dedicated god. Tzeentch’s options are: *Sanctuary ** Generates grimoires per turn. *Repository **Generates more grimoires per turn but requires high winds of magic level. *Sanctum **Generates a decent amount of income but also requires high winds of magic level. * Campus **Destroys the cult but increases winds of magic here and in all adjacent to Tempestuous.",
+      "list_items": [
+        "Sanctuary",
+        "* Generates grimoires per turn.",
+        "Repository",
+        "*Generates more grimoires per turn but requires high winds of magic level.",
+        "Sanctum",
+        "*Generates a decent amount of income but also requires high winds of magic level.",
+        "Campus",
+        "*Destroys the cult but increases winds of magic here and in all adjacent to Tempestuous."
+      ]
+    },
+    "Teleportation": {
+      "content": "Unique to Tzeentch and unlocked through the tech tree, his armies can go into the Teleport stance. This costs Winds of Magic reserve power to adopt but is exceptionally powerful. Not only does it allow crossing of impassable terrain – say, mountain ranges, rivers, patrolled areas – but instantly triggers an ambush battle should you target an enemy army. It’s a one-shot move, so you must re-adopt the stance if you wish to go again on the next turn but getting to ambush armies as you like can really swing a war your way. This level of power is why it is locked in the later game for Tzeentch, requiring various techs to unlock.",
+      "list_items": null
+    },
+    "Downloadable content": {
+      "content": "colspan=\"4\" | DLC list colspan=\"4\" |Tzeentch can be expanded upon with the following paid and free DLC: Name Base game Paid/free Type Champions of Chaos Total War: Warhammer III Paid Lord Pack Marked Chaos Warriors Total War: Warhammer III Free Unit Pack Aekold Helbrass Total War: Warhammer III Free Legendary Hero Shadows of Change Total War: Warhammer III Paid Lord Pack",
+      "list_items": null
+    },
+    "Trivia": {
+      "content": "*The Advisor, the mysterious old man who guides the player, is an agent of Tzeentch.",
+      "list_items": [
+        "The Advisor, the mysterious old man who guides the player, is an agent of Tzeentch."
+      ]
+    },
+    "Strategy": {
+      "content": "Ranged attacks and Magic spells are the mainstays of Tzeentch's armies. Melee units are not effective at dealing damage, and so mainly serve as chaff to hold enemy units in place while projectiles and spells output damage. The Winds of Magic capacity and channeling rate for Tzeentch armies are higher than any other faction. Army abilities charge up the more Winds of Magic is expended in casting spells during the course of the battle. All Tzeentch units have barriers that absorb damage from attacks before health points start to be depleted, and they will regenerate after not taking damage for a certain amount of time. The more mobile units can take advantage of this by repeatedly retreating to allow their barriers to regenerate before entering the fray again, thus prolonging their survivability. The barriers are not affected by damage reduction, and thus will always take full damage from all sources. In campaign, barriers are balanced by a lower than average health replenishment rate. If you're not playing as Tzeentch, unless you want to do something, it's better to not to establish \"contact\" with any Tzeentch factions since they can just swap one of your settlements to another faction.",
+      "list_items": null
+    },
+    "Gallery": {
+      "content": "",
+      "list_items": null
+    },
+    "Concept Art": {
+      "content": "Tzeentch-concept-art-cultist-of-tzeentch.jpg|Cultist of Tzeentch Wh3 herald of tzeentch.jpg|Herald of Tzeentch Tzeentch-concept-art-pink-horror.jpg|Pink Horror Tzeentch-concept-art-iridescent-horror.jpg|Iridescent Horror Tzeentch-concept-art-pink-horror-exalted.jpg|Exalted Pink Horror Tzeentch-concept-art-blue-horror.jpg|Blue Horror Tzeentch-concept-art-flamer.jpg|Flamer Tzeentch-concept-art-flamer-exalted.jpg|Exalted Flamer Tzeentch-concept-art-burning-chariot.jpg|Burning Chariot Wh3 soulgrinder of tzeentch.jpg|Soulgrinder of Tzeentch Tzeentch-concept-art-exalted-lord-v4.jpg|Exalted Lord",
+      "list_items": null
+    },
+    "Screenshots": {
+      "content": "Tzeentch screenshots asset 03 01 FINAL.jpg|Realm of Tzeentch Tzeentch screenshots asset 01 FINAL.jpg|Kairos Fateweaver Tw1(1).jpg|Tzeentch army Twwh3 soc design Screenshot Changeling 16x9 copy 2.png|The Changeling Twwh3 soc design Screenshot tzeentch 16x9_.png",
+      "list_items": null
+    },
+    "Videos": {
+      "content": "Category:Tzeentch Category:Total War: Warhammer III Category:Total War: Warhammer III factions es:Tzeentch Category:Races",
+      "list_items": null
+    }
+  }
+}

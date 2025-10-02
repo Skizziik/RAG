@@ -1,0 +1,13 @@
+{
+  "race_id": "slaanesh",
+  "roster_info": {
+    "Units": {
+      "description": "Slaanesh unit roster The Slaanesh army has access to units both daemonic and mortal units. All units have Physical Resistance, high Speed, and are Immune to Psychology. All mortal units (along with the Exalted Keeper of Secrets, Daemon Prince, Azazel, N'Kari, Soul Grinder, and Keeper of Secrets) have access Strider. All daemonic units (along with the Cultist of Slaanesh, Forsaken and Spawn of Slaanesh), cavalry (with exception to Hellstriders of Slaanesh), and chariots have Devastating Flanker.",
+      "unit_types": []
+    },
+    "Seduce Unit(s)": {
+      "description": "Prior to battle, Slaanesh armies can pay Divine Favor to attempt to bring one or more enemy units over to their side with their Seduce Units ability. If successful, the unit will join the Slaaneshi side for the duration of the combat and then, if not defeated in battle, disband. There does not appear to be a limitation on what kinds of units are vulnerable to Seduce Unit (unlike their campaign-based Seductive Influence ability which only works on certain races), but the cost varies by unit (in a manner analogous to their multiplayer cost) and the Slaanesh player will have both a maximum Seduce Units Budget they can spend and a maximum number of units they can affect. These numbers will improve over the course of the game with technology upgrades, character skills, and buildings, as well as a particular Unholy Manifestation.",
+      "unit_types": []
+    }
+  }
+}

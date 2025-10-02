@@ -1,0 +1,16 @@
+{
+  "race_id": "tzeentch",
+  "unique_mechanics": {
+    "Unique Campaign Mechanics": {
+      "description": "Changing of the Ways Changing of the WaysChanging of the Ways is a series of actions unique to Tzeentchian factions that allows to change or observe things on the campaign map against enemy factions. All actions have a cost of Grimoires.",
+      "features": []
+    }
+  },
+  "general_mechanics": {},
+  "magic": {
+    "Winds of magic manipulation": {
+      "description": "Another ability unique to Tzeentch is his specific control of the winds of magic. Indeed, so tied are his machinations to them that many buildings have unique effects when the winds of magic are particularly strong, increasing their capabilities. To this end, Tzeentch can reduce the winds of magic in one province where he has a settlement to increase it in another, at will. As well as providing the aforementioned buffs to his buildings, this allows for armies with multiple spellcasters – that’s going to be quite a lot of your Tzeentch armies, believe it or not – to benefit heavily in terms of the power reserves available to them. It’s also worth noting that there have been some large changes made to the nature of the Winds of Magic and power reserves in battle, which we will detail soon. The upshot is that this ability should never be discounted to ensure victory.",
+      "lores": []
+    }
+  }
+}

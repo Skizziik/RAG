@@ -1,0 +1,25 @@
+{
+  "race_id": "nurgle",
+  "unique_mechanics": {},
+  "general_mechanics": {
+    "Nurgle buildings": {
+      "description": "Nurgle does not spread akin to a normal faction. There are no labourers building great monuments to their gods, no scribes researching their latest magical obsession, not even the gruesome fighting pits of a Khornate bloodbath disguising itself as a town or city. Grandfather’s people need not gather to worship nor prove themselves with acts of devotion – he runs through their blood, after all. No, settlements infected by Nurgle are closer to growths that blight the landscape than real towns. Fields of rotting flowers, mushrooms and creeping vines – and at the center of it all, a great tree pulsing with life, death, and infection. In this manner, Nurgle buildings are not upgraded, they grow, flourish, die, and are reborn. Each building will evolve to its next phase over a number of turns, eventually withering and starting again from a base state. At each point its effects will be different, and each new evolution will add units to the recruitment pool – which we’ll come on to in a second. Say you choose a building slot to house a Rancid Aloe. After a few turns of building, it will complete and add a Forsaken of Nurgle unit to your pool, the secretions from the plant having been used to fuse metal and flesh in a manner pleasing to Grandfather. It will then begin to pollinate, and four turns later enter the germination phase. This increases the income the building generates and adds another unit of Forsaken to your pool. Another four turns, another boost in income, and this time a Spawn of Nurgle. This is true of all Nurgle buildings, be they for infrastructure or provide units. Indeed, many do both, spewing Nurglings as a byproduct even as their primary purpose is to support the region by infecting the Earth itself, increasing Control. In addition, various buildings, technologies, plagues, and so on can decrease the time between each phase, making the production of units quicker.",
+      "details": []
+    },
+    "Nurgle technology tree": {
+      "description": "Nurgle’s tech tree has similarities with Khorne, brothers in destruction as they are, with several pods of seven technologies each, requiring four to be researched to move on to the next. This gives you a lot of options on how you want to progress and what to unlock first, as well as how important moving on to the next pod is versus picking up a particularly useful tech. As well as the normal unit upgrades, diplomacy, and such forth, several Nurgle techs improve plagues in various ways, including unlocking new symptoms. Ironically similar to his major rival, Tzeentch, there are also several techs that add spells to Great Unclean Ones, making them powerful casters as well as oozing piles of rot. On the note of spells and magical abilities, Nurgle has access to various army abilities. These are unlocked through technology and are charged in-battle based on how much damage your units are taking. Each also has the Chain property, meaning that it will target a specific unit then spread to nearby units, rather than targeting an area. This can be powerful or a drawback, depending on how you use it, but certainly fits the theme of contagions spreading through both armies in real time. Also of note is the big variation between research times depending on the strength of various techs. Moving between each pod could take a significantly different amount of time depending on which techs you go for. Experiment! Such is the joy of Nurgle.",
+      "details": []
+    }
+  },
+  "magic": {
+    "Magic": {
+      "description": "Nurgle has access to two lores of magic: * Lore of Death * Lore of Nurgle In addition, The Maggot Host has access to two more lores of magic: * Lore of Shadows * Lore of the Wild",
+      "lores": [
+        "Lore of Death",
+        "Lore of Nurgle",
+        "Lore of Shadows",
+        "Lore of the Wild"
+      ]
+    }
+  }
+}

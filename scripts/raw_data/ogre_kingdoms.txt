@@ -1,0 +1,202 @@
+[[File:Wh3 main ogr ogre kingdoms large.png]]
+{{Indev}}
+{{expand}}
+{{Infobox faction
+|image      = Campaign ogre kingdoms1.png
+|type       = [[Race]]
+|category   = [[File:Ogre Kingdoms.png|30px]] Ogre Kingdoms
+|campaigns  = [[The Realm of Chaos]]<br>[[Immortal Empires]]<br>[[Darkness & Disharmony]]<br>[[Something Rotten in Kislev]] <small>(minor factions only)</small>
+|subfactions = 
+{{Goldtooth faction}}
+{{Disciples of the Maw faction}}
+{{The Maneaters faction}}
+|legendary lords=[[Greasus Goldtooth]]<br>[[Skrag the Slaughterer]]<br>[[Golgfag Maneater]]
+|climates =Suitable: <br>[[File:Frozen.png]] [[File:Mountain.png]] [[File:Wasteland.png]] [[File:Jungle.png]] [[File:Temperate.png]]  <br>
+Unpleasant: <br>[[File:Chaotic_wasteland.png]] [[File:Temperate_island.png]] [[File:Savannah.png]] <br>
+Uninhabitable:<br>[[File:Magical_forest.png]] [[File:Desert.png]] [[File:Ocean.png]] <br> 
+|corruption =[[File:Icon corruption untainted.png|24px|link=]] [[Untainted]]
+|DLC=
+*[[Ogre Kingdoms (DLC)]]
+*[[Omens of Destruction]]
+}}
+
+:''Not to be confused with [[Ogre Mercenaries]]''
+
+'''Ogre Kingdoms''' is a playable [[race]] introduced in ''[[Total War: Warhammer III]]''.
+
+Ogre Kingdoms are the ''[[Ogre Kingdoms (DLC)|Early Adopter Bonus]]'' for TWW3, meaning they will be given free to people who preorder the game, or buy in the first week after release. After this, they will be available to purchase separately as paid [[DLC]].
+
+== How They Play ==
+* '''[[Camps]]''' - special settlements which Ogres can create anywhere on the campaign map. Camps act as the major settlements, providing most of their best buildings.
+* '''[[Big Names]]''' - Ogre Lords complete missions to unlock names which provide bonuses and can be swapped after 10 turns.
+* '''[[Bounties]]''' - receive missions from other factions you are not at war with, for rewards.
+* '''[[Meat]]''' - a unique resource gained from battles, it is spent on army upkeep or sacrificed to the Great Maw for faction-wide buffs.
+* '''Units''' - Most units are monstrous infantry and large monsters, along with a few small Gnoblar units. No flying units.
+
+==Background ==
+In ancient times, the Ogres were forced to abandon their homelands in the [[Far East]], after a comet impact created the Great Maw and turned their home into a corrupted desert. After a Great Migration westwards, they destroyed the civilisation of the Sky-Titans, scattering the survivors who went on to become the Giants of today. The Ogres eventually settled in the [[Mountains of Mourn]], establishing the Ogre Kingdoms.
+
+The Kingdoms are inhabited mostly by the namesake Ogres, a race of large humanoids, and Gnoblars, a small type of [[Greenskin]]. Ogres are tall and broad, easily the size of a [https://totalwarwarhammer.fandom.com/wiki/Trolls Troll], and much larger than a man or elf. They are violent, tough, always hungry, and typically more intelligent than Greenskins (though not by much). Gnoblars are small and cowardly, being even more pathetic than their Goblin cousins, but vicious and large in number. They serve the Ogres as slaves, and often snacks.
+
+Ogre culture revolves mostly around eating and violence, and cannibalism is common and accepted. Their primary god, The Great Maw, is a cruel deity of unending hunger and is worshipped with great bloody feasts overseen by Slaughtermasters - Ogres who are part cook, part wizard, and part priest. A secondary god is the Fire Mouth, a volcano worshipped by the Firebellies.
+
+Each Ogre Kingdom is ruled by a Tyrant, whose domain extends as far as he can see in the valleys of the Mountains of Mourn. The current Overtyrant of the Ogre Kingdoms is Greasus Goldtooth, a particularly canny and obese Ogre who has managed to convince most other Ogres that gold is as valuable as food. Greasus extracts tribute from trade caravans on the Ivory Road, and has become incredibly wealthy as a result.
+
+Ogres also have a great wanderlust, and Ogre mercenaries, known as Maneaters, can be found in camps across the world. Ogres are pragmatic and unscrupulous, they will work for anyone who can pay in gold, or, preferably, in food. Should payments stop they will immediately depart or, in some cases, eat their former employers.
+
+The Ogre Kingdoms are unique in that most units in their army are [[monstrous infantry]] (such as the Ogres themselves, and Yhetees), though they are also accompanied by various beasts of the mountains such as Rhinoxen and Sabretusks, and of course Gnoblars. 
+
+== Factions ==
+Ogre Kingdoms factions are normal, non-[[horde]] factions who occupy settlements and control [[provinces]].
+
+=== Playable factions===
+In campaign there are three playable Ogre Kingdoms racial factions, each with its own starting position, and led by separate Legendary Lord. See individual pages for faction-specific info.
+
+*'''{{Goldtooth faction}}''', led by [[Greasus Goldtooth]].
+*'''{{Disciples of the Maw faction}}''', led by [[Skrag the Slaughterer]].
+*'''{{The Maneaters faction}}''', led by [[Golgfag Maneater]].
+
+===Minor factions===
+<u>Total War: Warhammer III</u>
+
+Factions introduced in [[The Realm of Chaos]] campaign:
+
+*{{Bloodmaw faction}}
+*{{Blood Guzzlers faction}}
+*{{Crossed Clubs faction}}
+*{{Eyebiter faction}}
+*{{Feastmaster faction}}
+*{{Fleshgreeders faction}}
+*{{Fulg faction}}
+*{{Lazarghs faction}}
+*{{Loose Tooth faction}}
+*{{Mountaineaters faction}}
+*{{Ogre Rebels faction}}
+*{{Rock Skulls faction}}
+*{{Sabreskin faction}}
+*{{Sons of the Mountain faction}}
+*{{Thunderguts faction}}
+*{{Treehammers faction}}
+
+Factions introduced in the [[Immortal Empires]] campaign:
+
+*{{Flamegullets faction}}
+*{{Sharktooth faction}}
+*{{Stoneshatter Tribe faction}}
+*{{The Famished faction}}
+
+==In Battle==
+===Units===
+{{Main|Ogre Kingdoms unit roster}}
+
+The majority of units in the Ogre Kingdoms unit roster are monstrous infantry, monstrous cavalry or monsters, which sets them apart from other races. All units designated as monstrous infantry (except [[Gorgers]]) get access to [[Ogre Charge]].
+
+===Magic===
+Ogre Kingdoms have access to 5 lores of magic:
+
+* [[File:Icon wh main lore beasts.png|38px]][[Lore of Beasts]]
+* [[File:Icon wh main lore fire.png|38px]][[Lore of Fire]]
+* [[File:Icon wh main lore the great maw.png|38px]][[Lore of the Great Maw]]
+* [[File:Icon wh main lore heavens.png|38px]] [[Lore of Heavens]]
+* [[File:Icon wh main lore death.png|38px]] [[Lore of Death]]
+
+==In the Campaign==
+[[File:Event Buildings Neutral.png|left|36x36px]]
+
+=== Buildings ===
+''Main article: [[Ogre Kingdoms buildings|Ogre]]'' [[Ogre Kingdoms buildings|''Kingdoms'' ''buildings'']]
+[[File:Event Technology Neutral.png|left|36x36px]]
+
+=== Technology ===
+''Main article: [[Ogre Kingdoms tech tree|Ogre Kingdoms]]'' [[Ogre Kingdoms tech tree|''tech tree'']]
+
+===Camps===
+[[Camps|Ogre Camps]] are special settlements that can be created anywhere by an Ogre Kingdoms army. These can level up to settlement level 5, and can contain the full range of Ogre Kingdoms buildings. In a similar manner to [[horde]]s, Camp buildings require [[growth|population surplus]] to construct/upgrade.
+
+In a similar manner to [[Black Arks]], Camps can hold units which can be exchanged with an Ogre Kingdoms army.
+
+Ogre Kingdoms factions can also colonise and take regular settlements on the campaign map as well, however these will only ever be minor Ogre settlements, which can only be upgraded to level 3 and have only 4 building slots - even if it's the province capital. Settlements with resources buildings provide even more bonuses such as buffing all units on a factionwide scale or increasing camp capacity.
+
+Should another faction be near an ogre camp, and not be at war with the owner, they may recruit Ogre units as mercenaries depends on how developed the said camp is.
+
+===Bounties ===
+See also: [[Bounties]]
+
+===Meat ===
+See also: [[Meat]]
+
+===Big Names===
+See also: [[Big Names]]
+
+===Names===
+See also: [[Ogre Kingdoms names]]
+
+== Downloadable content ==
+{| class="article-table width=100% mw-collapsible mw-collapsed" data-collapsetext="&#9650;" data-expandtext="&#9660;" style="width:100%"
+! colspan="4" |[[File:Event Diplomacy Neutral.png|36px]]<span style="font-size:20px;">  DLC list</span>
+|-
+| colspan="4" |The Ogre Kingdoms can be expanded upon with the following paid and free [[DLC]]:
+|-
+|Name
+|Base game
+|Paid/free
+|Type
+|-
+|[[Ogre Kingdoms (DLC)|Ogre Kingdoms]]
+|Total War: Warhammer III
+|Paid
+|Race Pack
+|-
+|[[Omens of Destruction]]
+|Total War: Warhammer III
+|Paid
+|Lord Pack
+|}
+==Trivia==
+*Before TWW3, the Ogre Kingdoms were sparsely referenced, such as with the [[Ogre Blade]].
+*There were however special recruitable Ogre units in the form of [[Ogre Mercenaries]]. These include the [[Ogre Bulls]], [[Ogre Bulls (Dual Weapons)]], [[Maneaters (Ogre Pistols)]], [[Maneaters (Great Weapons)]], and [[Mournfang Cavalry]]. This lead to correct guessing that the Ogres would be in TWW3. 
+
+==Gallery==
+===Concept art===
+<gallery>
+File:Skrag-ca.jpg
+File:Greasus-kart-ca.jpg
+File:Tyrant-ca.jpg
+File:Hunter-ca.jpg
+File:Firebelly-ca.jpg
+File:Butcher-ca.jpg
+File:Bulls-ca.jpg
+File:Irongut-ca.jpg
+File:Maneater-ca.jpg
+File:Leadbelcher-ca.jpg
+File:Gnoblar-ca.jpg
+File:Trappers-ca.jpg
+File:Gorger-ca.jpg
+File:Giant-ca.jpg
+File:Sabretusk-ca.jpg
+File:Crusher-ca.jpg
+File:Mournfang-ca.jpg
+File:Stonehorn-ca.jpg
+</gallery>
+
+===Screenshots===
+<gallery>
+File:Warhammer-3-ogre-kingdoms-legendary-lords.jpg
+File:Total-war-warhammer-3-release-date-ogre-kingdoms-reveal-3.jpg
+File:Total-war-warhammer-3-release-date-ogre-kingdoms-reveal-1.jpg
+File:Total-war-warhammer-3-release-date-ogre-kingdoms-reveal-2.jpg
+</gallery>
+
+==Videos==
+===Trailer===
+{{#ev:youtube|https://www.youtube.com/watch?v=5Bbp98oMsjA&t=8s}}
+
+==References==
+*[https://www.totalwar.com/blog/total-war-warhammer-3-ogre-kingdoms-campaign-mechanics/ Consume the world with the Ogre Kingdoms campaign mechanics] (Total War Blog)
+<references />
+
+[[es:Reinos Ogros]]
+[[Category:Ogre Kingdoms]]
+[[Category:Total War: Warhammer III]]
+[[Category:Total War: Warhammer III factions]]
+[[Category:Races]]

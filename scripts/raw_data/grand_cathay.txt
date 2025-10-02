@@ -1,0 +1,201 @@
+{{Infobox faction
+|image      = wh3_cathay.jpg
+|type       = [[Race]]
+|category   = Grand Cathay
+|legendary lords=[[Miao Ying, the Storm Dragon]]<br>[[Zhao Ming, the Iron Dragon]]<br>[[Yuan Bo, the Jade Dragon]]
+|money      = [[File:Icon income.png]] [[Money]]
+|campaigns  = [[The Realm of Chaos]]<br>[[Immortal Empires]]<br>[[Darkness & Disharmony]]
+|climates =Suitable: <br>[[File:Temperate.png]] [[File:Savannah.png]] [[File:Desert.png]] <br>
+Unpleasant: <br>[[File:Jungle.png]] [[File:Temperate_island.png]] [[File:Mountain.png]] [[File:Wasteland.png]]<br>
+Uninhabitable:<br>[[File:Magical_forest.png]] [[File:Frozen.png]] [[File:Chaotic_wasteland.png]] [[File:Ocean.png]] <br>
+|subfactions = {{The Northern Provinces faction}}<br>{{The Western Provinces faction}}<br>{{The Jade Court faction}}
+|corruption=[[File:Icon corruption untainted.png|20px|link=]][[Untainted]]
+|DLC=[[Shadows of Change]]}}
+
+'''Grand Cathay''' is a playable [[race]] introduced in ''[[Total War: Warhammer III]]''. Cathay is the largest empire in the Warhammer World, consisting mostly of humans, ruled over by immortal dragons who can take human form.  They are staunch opponents of [[Chaos]], but their location in the [[Far East]] makes them very isolated. Thousands of miles from potential allies, they have constructed a [[Great Bastion]] on their northern border to keep out marauding forces.
+
+==How They Play==
+*'''[[The Ivory Road]]:''' Cathayan factions can send trade caravans west along the Ivory Road to the [[Old World]], to gain income. Caravans will also face dilemmas that might enhance their rewards or destroy them.
+*'''[[Wu Xing Compass|Wu-Xing Compass]]:''' Use the magical Wu-Xing Compass to direct the Winds of Magic across the land, providing faction-wide benefits.
+*'''[[Harmony]]:''' Each action taken pushes the Harmony meter towards either Yin or Yang. The greatest benefits are gained from keeping the meter balanced in the center.
+*'''[[The Great Bastion]]:''' This mighty fortification will come under attack, but building it up will confer great benefits.
+*'''Battle Harmony:''' In battle, each unit is aligned with either Yin or Yang, and gain buffs when near an opposite-aligned unit.
+*'''[[Grand Cathay unit roster]]:''' Legions of weaker, cheaper human troops backed up by a diverse roster of stronger elite troops, flying cavalry, monsters, and war machines/artillery. A defensive, less mobile army vulnerable to flanking.
+
+== Background ==
+[[File:Cathay_landscape.jpg|thumb|right|400px|The landscape of Grand Cathay]]
+
+'''Grand Cathay''' is the largest empire in the [[Warhammer Fantasy]] setting. Located in the [[Far East]], Grand Cathay is bordered to the west by the [[Mountains of Mourn]], to the east by the [[Far Sea]], to the south by [[Khuresh]] and to the north by the [[Eastern Steppes]] and [[Chaos Wastes]]. Southwest, across the Mountains of Heaven, lies the land of Ind. Grand Cathay itself is a huge and diverse country, with desert in the west, mighty rivers and farmland in the center, great coastal cities in the east, and forested mountain foothills in the south.
+
+Grand Cathay is a powerful nation of order that stands against [[Chaos]]. However, they are also located far from other order-aligned nations, and tend to be somewhat isolationist. Contact and trade with the [[High Elves]] and human nations of the [[Old World]] has increased in recent times, but travel between east and west is still dangerous. Because of this isolation, Grand Cathay long ago constructed the [[Great Bastion]], a huge fortification along their northern border which guards against incursions by Hobgoblins as well as marauding bands of [[Hung Warband|Hung]], Kurgan and other forces of [[Chaos]].
+
+The rulers of Cathay are a family of immortal [[dragons]] who are powerful spellcasters, and can shapeshift into human form. In principle, Grand Cathay is ruled by the ''Celestial Dragon Emperor'' and ''Moon Empress'', who are revered by the populace. In practice, these two spend most of their time in the Imperial Court, and leave governing of the empire to their sons and daughters. The common people of Cathay are humans, with smaller populations of Monkey-Warriors. In some Cathay's trading cities, there is populations of foreigners from [[Tilea]], [[Estalia]], [[The Empire]] and even High Elves and [[Dwarfs]].
+
+The strongest of the sons and daughters of the Emperor and Empress is [[Miao Ying]], the Storm Dragon, ruler of the Northern Provinces, who is charged with defending the Great Bastion and the city of Nan-Gau. There is also [[Zhao Ming]], the Iron Dragon, ruler of the Western Provinces. He guards the city of Shang-Yang which is located in the [[Warpstone Desert]], and the dangerous [[Ivory Road]], which trade caravans travel west to reach the Old World. Their brother [[Yuan Bo, the Jade Dragon|Yuan Bo]], the Jade Dragon, rules the Central Provinces from the city of Shang Wu, and serves his father's empire as its chief bureaucrat and Administrator of the Realm. There are also Yin-Yin the Sea Dragon who rules the Eastern Provinces, and Li Dao the Fire Dragon who rules the Southern Provinces.
+
+While the Dragon Emperor and Moon Empress command their subjects to live and work in harmony for the good of all, it is not always so. For in addition to external assaults by the [[Ogre Kingdoms]], [[Greenskins]], coastal [[Dark Elves|Dark Elf]] raiders and forces of Chaos, Grand Cathay is also sometimes riven by internal rebellions, [[Cults|Chaos Cults]] and jealous competition between the dragon siblings. During one period where the Dragon Emperor and Moon Empress were mysteriously absent, the so-called "Monkey King" was for a time able to march on the capital and usurp the throne, before eventually being ousted and disappearing into the south.
+
+Despite these threats, the proud armies of Grand Cathay fight on. At their core are untold legions of soldiers, from [[Peasant Long Spearmen]] to highly-trained [[Celestial Dragon Guard]]. These are supported by [[Jade Warrior Crossbows]], [[Crane Gunners]], [[Grand Cannons]] shaped like great bronze dragons and flying [[Sky-junk]]s. Perhaps the most feared are the [[Terracotta Sentinel]]s - constructs that lie motionless for centuries as huge statues until, in times of great need, they are magically animated to fight in the defense of the Celestial Empire. In battle, these varying units work in harmony with one another, becoming a much more effective fighting force together than they would be individually.
+
+== Factions ==
+=== Playable factions===
+At the moment there are three playable Cathay factions. See individual pages for faction-specific info.
+*'''{{The Northern Provinces faction}}''', led by [[Miao Ying, the Storm Dragon]].
+*'''{{The Western Provinces faction}}''', led by [[Zhao Ming, the Iron Dragon]].
+*'''{{The Jade Court faction}}''', led by [[Yuan Bo, the Jade Dragon]].
+
+===Minor factions===
+Factions introduced in [[The Realm of Chaos]] campaign:
+
+*{{Burning Wind Nomads faction}}
+*{{Cathay Rebels faction}}
+*{{Celestial Loyalists faction}} 
+*{{Dissenter Lords of Jinshen faction}}
+*{{Imperial Wardens faction}} 
+*{{Rebel Lords of Nan-Yang faction}} 
+*{{The Jade Custodians faction}}
+
+Factions introduced in the [[Immortal Empires]] campaign:
+
+*{{Eastern River Lords faction}} 
+==In Battle==
+=== Units ===
+{{Main|Grand Cathay unit roster}}
+
+=== Harmony ===
+{{Main|Harmony}}
+Cathay's troops are divided into two categories, Yin and Yang. Yin units are typically ranged units while Yang are Melee focused. When a Yin and Yang unit are in close proximity the Yin units will get a reload buff and Yang units will get a Melee defense buff. As a result Cathay armies function best with a diverse and well supported formations that can make use of these buffs.
+
+=== Magic ===
+Grand Cathay has access to 6 Lores of Magic:
+
+*[[File:Icon wh main lore heavens.png|38px]][[Lore of Heavens]]
+*[[File:Icon wh main lore life.png|38px]][[Lore of Life]]
+*[[File:Icon wh main lore light.png|38px]][[Lore of Light]]
+*[[File:Icon wh main lore metal.png|38px]][[Lore of Metal]]
+*[[File:Icon wh main lore yang.png|38px]][[Lore of Yang]]
+*[[File:Icon wh main lore yin.png|38px]][[Lore of Yin]]
+
+=== Mastery of the Elemental winds ===
+Cathay's casters have a unique ability to boost the damage output of spells based on the number of spellcasters in the army. Each spellcaster in the army excluding the first will boost the effects of Cathayan magic by 15% up to a maximum of a 100% boost. For example if you have a caster Lord and hero in the army the boost will be at 15%, meaning damage spells will hit 15% harder and buffs with have a 15% boost as well. Adding a third caster will increase this to 30%, four will increase it to 45%, and so on and so forth. 
+
+==In campaign==
+===Unique campaign mechanics===
+*[[The Ivory Road]]
+*[[Great Bastion]]
+*[[Wu Xing Compass|Wu-Xing Compass]]
+*[[Harmony]]
+
+=== General mechanics ===
+*[[Grand Cathay tech tree]]
+*[[Grand Cathay buildings]]
+*[[Commandments#GrandCathay|Grand Cathay commandments]]
+*[[Grand Cathay post-battle options]]
+*[[Grand Cathay settlement options]]
+*[[:Category:Grand Cathay random events]]
+*[[:Category:Grand Cathay dilemmas]]
+
+=== Inventory ===
+*[[:Category:Grand Cathay items]]
+*[[Total_War:_Warhammer_III_followers#Grand_Cathay|Grand Cathay followers]]
+*[[:Category:Grand Cathay mounts]]
+*[[:Cathayan names]]
+
+==Strategy ==
+As an empire, a people, and on the battlefield, Grand Cathay is about harmony. They are a defensively focused army, long standing against the tides of darkness that crash against their Great Bastion, over and over again across the centuries. Ranged and melee units receive buffs when in close proximity, their power boosted as the Yin and Yang that runs through every inhabitant of the empire works in concert. This gives them incredible ranged firepower and a stalwart, hardy front-line. They are slow-moving and easy to flank, but their flying machines, alchemists, and dragon sorcerers do much to make the army a formidable one.
+
+On the campaign map, Grand Cathay must use the incredible wealth of the Ivory Road to fund their war effort and defense of the Grand Bastion, the invincible walled fortress that borders the Chaos Wastes to their North. Defending it and launching assaults from it is a key part of their campaign and will make or break the fates of mortals.
+
+Cathay's harmony function is somewhat similar to [[Bretonnia]]'s [[Peasant Economy]], where the player must maintain a balance between two resources to maximise production and output without penalties.
+
+== Downloadable content ==
+{| class="article-table width=100% mw-collapsible mw-collapsed" data-collapsetext="&#9650;" data-expandtext="&#9660;" style="width:100%"
+! colspan="4" |[[File:Event Diplomacy Neutral.png|36px]]<span style="font-size:20px;">  DLC list</span>
+|-
+| colspan="4" |Grand Cathay can be expanded upon with the following paid and free [[DLC]]:
+|-
+|Name
+|Base game
+|Paid/free
+|Type
+|-
+|[[Shadows of Change]]
+|Total War: Warhammer III
+|Paid
+|Lord Pack
+|}
+
+== Development ==
+*Before Total War: Warhammer III, Cathay is referenced in several items and followers, such as the Horn of Immortals, the [[Cathay Slave Dancers|Cathayan Slave Dancer]], and the background lore for [[Clan Eshin]].
+*In 2018, a group of Chinese Total War fans visited [[Creative Assembly]] in the UK, and presented them with a fan-made map of Grand Cathay, to show their desire for Cathay to become a playable faction.<ref>https://www.reddit.com/r/totalwar/comments/7soopg/translation_chinese_total_war_community_member/</ref><ref>https://forums.totalwar.com/discussion/212828/chinese-community-and-grand-cathay</ref>
+
+*In 2019, Creative Assembly released ''Total War: Three Kingdoms'', a Total War game set during the Three Kingdoms period of Chinese history (220-280 CE). The game draws heavily on ''Romance of the Three Kingdoms'', a 14th-century Chinese novel which is part history, part myth, and is set in the three kingdoms period. ''Total War: Three Kingdoms'' sold 1 million copies in less than a week.<ref>https://venturebeat.com/2019/05/29/total-war-three-kingdoms-1-million-sold/#:~:text=Total%20War%3A%20Three%20Kingdoms%20has,feat%20in%20under%20a%20week.</ref>
+
+*[[Games Workshop]] and Creative Assembly worked together to create Grand Cathay for ''Total War: Warhammer III''.<ref>https://www.youtube.com/watch?v=STAxzrnd0aA</ref> Previously, Cathay had only existed as snippets of lore in Warhammer Fantasy books.<ref>https://warhammerfantasy.fandom.com/wiki/Cathay</ref>
+
+== Trivia ==
+*Cathay is strongly based on Imperial China and Chinese fantastical elements. The Great Bastion is based on the Great Wall of China. The Ivory Road is based on the Silk Road.
+*Cathay was China's name in medieval Europe.
+*In Chinese-language [https://www.totalwar.com/blog/total-war-warhammer-iii-faq/#Simplified%20Chinese editions] of Warhammer, Cathay's name is Zhendan (震旦), which is an archaic name used for China.
+
+== Gallery ==
+=== Screenshots ===
+<gallery width="300">
+Grand_Cathay_Storm_Dragon_FINAL.png
+Total-war-warhammer-3-iron-dragon.jpg
+Total-war-warhammer-3-grandy-cathay-reveal.jpg
+Total-war-warhammer-3-grand-cathay-tabletop-rules-screenshot-terracotta-sentinel-over-man.jpg
+Cathay_landscape.jpg
+Twwh3 soc design Screenshot Yan 16x9.png
+Twwh3 soc design Cathey 16x9.png
+</gallery>
+
+=== Concept Art ===
+<gallery width="300">
+CATHAY_INTRO_Roster_2400x520.jpg
+Miao-ying-concept-art.jpg
+Zhao-ming-concept-art.jpg
+Dragon-lord-concept-art.jpg
+Magistrate-concept-art.jpg
+Alchemist-concept-art.jpg
+Astromancer-concept-art.jpg
+Celestial-guard-concept-art-1.jpg
+Celestial-dragon-guard-concept-art.jpg
+Crange-gunners-concept-art.jpg
+Peasant-concept-art-1.jpg
+Jade-warrior-concept-art.jpg
+Jade-longma-concept-art-1.jpg
+Sky-lantern-concept-art.jpg
+Sky-junk-concept-art.jpg
+Grand-cannon-concept-art.jpg
+Fire-rain-rocket-concept-art.jpg
+Compass-concept-art.jpg
+Total-war-warhammer-3-grand-cathay-tabletop-rules-screenshot-terracotta-sentinel-concept-art.jpg
+Dragon-concept-art.jpg
+tony-sart-horse.jpg
+</gallery>
+
+=== Games Workshop The Old World Art ===
+<gallery width="300">
+Cathay_strategy_piece.jpg
+Total-war-warhammer-3-grand-cathay-tabletop-rules-concept-art-light-infantry-shield.jpg
+Total-war-warhammer-3-grand-cathay-tabletop-rules-concept-art-infantry-armour-crossbowman.jpg
+Total-war-warhammer-3-grand-cathay-tabletop-rules-concept-art-infantry-armour.jpg
+Total-war-warhammer-3-grand-cathay-tabletop-rules-screenshot-terracotta-sentinel-concept-art-drawing.jpg
+Total-war-warhammer-3-grand-cathay-tabletop-rules-artwork-black-dragon.jpg
+Total-war-warhammer-3-grand-cathay-tabletop-rules-artwork-floating-cities.jpg
+Total-war-warhammer-3-grand-cathay-tabletop-rules-artwork-floating-cities-and-red-flags.jpg
+</gallery>
+
+=== Videos ===
+{{#ev:youtube|https://www.youtube.com/watch?v=qtITQM0fgmU}}
+{{#ev:youtube|https://www.youtube.com/watch?v=WrX1aGHK1lM}}
+
+==References==
+<references />
+
+[[es:Gran Catai]]
+[[Category:Grand Cathay]]
+[[Category:Total War: Warhammer III]]
+[[Category:Total War: Warhammer III factions]]
+[[Category:Races]]

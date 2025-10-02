@@ -1,0 +1,28 @@
+{
+  "race_id": "grand_cathay",
+  "unique_mechanics": {
+    "Unique campaign mechanics": {
+      "description": "*The Ivory Road *Great Bastion *Wu-Xing Compass *Harmony",
+      "features": [
+        "The Ivory Road",
+        "Great Bastion",
+        "Wu-Xing Compass",
+        "Harmony"
+      ]
+    }
+  },
+  "general_mechanics": {},
+  "magic": {
+    "Magic": {
+      "description": "Grand Cathay has access to 6 Lores of Magic: *Lore of Heavens *Lore of Life *Lore of Light *Lore of Metal *Lore of Yang *Lore of Yin",
+      "lores": [
+        "Lore of Heavens",
+        "Lore of Life",
+        "Lore of Light",
+        "Lore of Metal",
+        "Lore of Yang",
+        "Lore of Yin"
+      ]
+    }
+  }
+}

@@ -1,0 +1,226 @@
+{{Outdated}}
+{{expand}}
+{{Infobox faction
+|image      =TOTAL-WAR-WARHAMMER-III-NURGLE(1).jpg 
+|type       = [[Race]]
+|category   = Nurgle
+|campaigns  = [[The Realm of Chaos]]<br>[[Immortal Empires]]<br>[[Darkness & Disharmony]]<br>[[Something Rotten in Kislev]] <small>(minor factions only)</small>
+|subfactions = [[File:Poxmakers of Nurgle.png|20px]] [[Poxmakers of Nurgle]]<br>[[File:The Maggot Host.png|20px]] [[The Maggot Host]]<br>[[File:Tallymen of Pestilence.png|20px]] [[Tallymen of Pestilence]]
+|legendary lords= [[Ku'gath Plaguefather]]<br>[[Epidemius]]<br>[[Tamurkhan the Maggot Lord]]
+|climates =Suitable: <br>[[File:Frozen.png]] [[File:Wasteland.png]] [[File:Chaotic_wasteland.png]] [[File:Temperate.png]] [[File:Temperate_island.png]] [[File:Savannah.png]] [[File:Jungle.png]]<br>
+Unpleasant: <br>[[File:Magical_forest.png]] [[File:Mountain.png]] <br>
+Uninhabitable:<br>[[File:Ocean.png]] [[File:Desert.png]]
+|corruption =[[File:Icon corruption nur.png|20px]] [[Total_War: Warhammer III corruption#Nurgle Corruption|Nurgle Corruption]]
+|DLC = [[Champions of Chaos]]<br>[[Thrones of Decay]]
+|feature 1 title=Plagues|feature 1 description=Concoct and spread plagues across the world or afflict your own assets.|feature 2 title=Cyclical Buildings|feature 2 description=Settlements will grow over time and will then wither and die out.}}
+
+'''Nurgle''' is a playable [[race]] introduced in [[Total War: Warhammer III]]. Nurgle is the [[Chaos]] God of despair, disease, decay and accepting the inevitable end.
+
+==How They Play==
+==Background==
+''The Lord of Decay, Grandfather Nurgle, The Crow''
+
+Nurgle represents despair, resilience, resignation and acceptance ... in the face of inevitable disease, decay, death and entropy. Among mortals, Nurgle appeals to the downtrodden and hopeless. Nurgle appears to be the only Chaos God that has any sort of genuine care for his followers, offering them respite from pain and suffering caused by disease and death. His followers are often cheery and unconcerned even while visibly rotting, bloated or infested by maggots. They delight in spreading Nurgle's gifts (horrifying diseases which cause immense suffering) to others. Nurgle despises the [[undead]], who resist the inevitable end of life. Nurgle is associated with the colours green and brown, flies, maggots, slugs, snails, toads and carrion-eaters. Among the [[Norsca]]ns, he is known as ''the Crow.''
+
+== Factions ==
+Nurgle factions are normal, non-[[horde]] factions who occupy settlements and control [[provinces]].
+
+=== Playable factions===
+At the moment there are three playable Nurgle factions, each led by a Legendary Lord. See individual pages for faction-specific info.
+*'''{{Poxmakers of Nurgle faction}}''', led by [[Ku'gath Plaguefather]].
+*'''{{The Maggot Host faction}}''', led by [[Tamurkhan the Maggot Lord]].
+*'''{{Tallymen of Pestilence faction}}''', led by [[Epidemius]].
+
+===Minor factions===
+<u>Total War: Warhammer III</u>
+
+Factions introduced in [[The Realm of Chaos]] campaign:
+
+*{{Bubonic Swarm faction}}
+*{{Maggoth Kin faction}}
+*{{Nurgle Rebels faction}}
+*{{Septic Claw faction}}
+
+Factions introduced in the [[Immortal Empires]] campaign:
+
+*{{Pallid Nurslings faction}}
+==In-game description==
+Nurgle, also known as the Plague Lord, is the Chaos God of disease, decay, death, and degradation. He is perhaps the oldest of his brother Gods, for the process of decay began with life. Yet Nurgle is also the personification of rebirth. After all, atrophy is simply one part of life's cycle, without which nothing new can grow.
+
+And so those who embrace Nurgle, accept their own doom with good humour. Disfigured by disease and mutation, they are keen to spread Grandfather's blessings to the poor souls that wander through life unafflicted. As plagues spread, so to does Nurgle's power and status amongst his brothers - he waxes and wanes, weakest when bellies are full and mortals are healthy, but quickly rising to absolute ascendancy when his followers unleash the most lethal of diseases.
+
+*[[File:Bullet nur plagues.png|frameless]] Plagues: Concoct and spread plagues across the world or afflict your own assets.
+*[[File:Bullet nur cyclical buildings.png|frameless]] Cyclical Buildings: Settlements will grow over time and will then wither and die out.
+
+==In Battle==
+
+Getting damage in battle gets favour from Nurgle that can be used on the following army abilities:
+
+*[[File:Wh3_main_army_abilities_curse_of_the_slug.png|38px]] [[Curse of the Slug]]
+*[[File:Wh3_main_army_abilities_fecundity.png|38px]] [[Fecundity]]
+*[[File:Wh3_main_army_abilities_rot_glorious_rot.png|38px]] [[Rot, Glorious Rot]]
+
+===Units===
+{{Main|Nurgle unit roster}}
+The Nurgle army has access to units both [[daemonic]] and mortal units. Nurgle units have high [[Statistics|Health]] and [[Melee Defense]] at the cost of lower [[Speed]] and [[Melee Attack]] (discounting [[Chaos Furies (Nurgle)|Chaos Furies]] and [[Chaos Warhounds (Poison)|Chaos Warhounds]]). All units (except the [[Cultist of Nurgle]]) inflict [[Poison!]]. All daemonic units (along with the [[Chaos Sorcerer Lord of Nurgle]], [[Exalted Hero of Nurgle]], [[Cultist of Nurgle]], and [[Spawn of Nurgle]]) have [[Cloud of Flies]]. 
+
+===Magic===
+Nurgle has access to two lores of magic:
+* [[File:Icon wh main lore death.png|38px]][[Lore of Death]]
+* [[File:Icon wh main lore nurgle.png|38px]][[Lore of Nurgle]]
+
+In addition, {{The Maggot Host faction}} has access to two more lores of magic:
+* [[File:Icon wh main lore shadow.png|38px]][[Lore of Shadows]]
+* [[File:Icon wh main lore wild.png|38px]][[Lore of the Wild]]
+
+==In the Campaign==
+===Nurgle buildings===
+[[File:Nurgle-buildings(1).jpg|thumb|286x286px|Nurgle building mechanics]]
+Nurgle does not spread akin to a normal faction. There are no labourers building great monuments to their gods, no scribes researching their latest magical obsession, not even the gruesome fighting pits of a Khornate bloodbath disguising itself as a town or city. Grandfather’s people need not gather to worship nor prove themselves with acts of devotion – he runs through their blood, after all. 
+
+No, settlements infected by Nurgle are closer to growths that blight the landscape than real towns. Fields of rotting flowers, mushrooms and creeping vines – and at the center of it all, a great tree pulsing with life, death, and infection. 
+
+In this manner, Nurgle buildings are not upgraded, they grow, flourish, die, and are reborn. Each building will evolve to its next phase over a number of turns, eventually withering and starting again from a base state. At each point its effects will be different, and each new evolution will add units to the recruitment pool – which we’ll come on to in a second. 
+
+Say you choose a building slot to house a Rancid Aloe. After a few turns of building, it will complete and add a Forsaken of Nurgle unit to your pool, the secretions from the plant having been used to fuse metal and flesh in a manner pleasing to Grandfather. It will then begin to pollinate, and four turns later enter the germination phase. This increases the income the building generates and adds another unit of Forsaken to your pool. Another four turns, another boost in income, and this time a Spawn of Nurgle. 
+
+This is true of all Nurgle buildings, be they for infrastructure or provide units. Indeed, many do both, spewing Nurglings as a byproduct even as their primary purpose is to support the region by infecting the Earth itself, increasing Control. In addition, various buildings, technologies, plagues, and so on can decrease the time between each phase, making the production of units quicker. 
+
+===Nurgle recruitment===
+Nurgle does not recruit units in the standard way. Rather than waiting several turns for a regiment to become ready to fight, groups of daemons are summoned directly to an army, raring to go. Units hired this way do not start at full strength, replenishing over time – another thing that can be buffed by various Nurglish skills and technologies. They can also be recruited in any neutral or friendly territory from a global pool, pulled from the Chaos Realms to help in the fight. There are caps on how many of each unit can be in the global pool, but as you approach the late game you are going to be able to fill and refill armies at an alarming rate. 
+
+As you can imagine, this completely changes basically everything about how you build armies, make war, plan routes, and your priorities for settlements. You will have a lot more resources to spend, as you don’t need to regularly upgrade buildings, but each new settlement will cost more to get some basic stuff going. Once your unit stockpile is gone, refilling it takes more time, but it can happen extremely quickly once you have a large number of settlements. 
+
+===[[Plague Cauldron]]===
+See separate article for the mechanics of plagues and the Plague Cauldron. 
+
+===Infections===
+===Unholy Manifestations===
+Unholy Manifestations are special actions unlocked by having a certain level of global corruption for your Chaos God, while Cults are special building slots unlocked in other faction’s settlements by having high corruption there. 
+
+Nurgle’s Unholy Manifestations are: 
+
+*Pestilent Growth 
+**Unlocked from the start.
+** Gives a 20% replenishment rate boost to an army for two turns, while disabling their campaign movement.
+
+*Blessing of Nurgle 
+**Requires 1000 global Nurgle corruption
+**Increases the chance of plagues spreading in the local province by 30% for three turns, but disables campaign movement.
+
+*Exponential Growth 
+**Requires 2000 global Nurgle corruption
+**Increases growth in the local province by 200 and decreases recruitment costs by 20% for target army for three turns.
+
+*Nurgle’s Visitation 
+**Requires 3000 global Nurgle corruption
+**Instantly heals one army belonging to the player.
+
+Note that both growth and replenishment are particularly useful to Nurgle, as their main buildings are the only ones that require upgrades and control how far their other buildings go into their respective loops. Naturally, replenishment helps newly recruited units get up to strength quickly – this could also re-prioritise your lord skill tree choices, for example. 
+
+Also, all these Manifestations are improved if Nurgle is in Ascendancy in the Great Game. Ascendancy is weighted based on the number of settlements, armies, and amount of favour gathered by all the factions dedicated to that God. It can still switch between any of the four when it changes, but the better you and your Godly allies are doing, the more likely you are to be in Ascendancy. 
+
+===Cults===
+<small>''Main Article:'' [[Cults]]</small>
+
+For the Plague Cults the following buildings are available: 
+
+*Shelter
+**Gives 25 infections per turn.
+
+*Refuge 
+**Gives 40 infections per turn if growth in the region is at 200 or more.
+
+* Hospice 
+**Gives 40 infections per turn if any Lord is present.
+
+*Colony 
+**Gives a random plague to the settlement, but destroys the cult.
+
+===Nurgle Corruption ===
+Spreading corruption is easier and quicker for Nurgle factions over the other Chaos factions. Plagues naturally spread corruption, can be upgraded to spread more, and various characters and buildings have big boosts to spreading as well. This means quicker manifestation unlocks and more cults globally.
+
+=== Nurgle technology tree===
+Nurgle’s tech tree has similarities with Khorne, brothers in destruction as they are, with several pods of seven technologies each, requiring four to be researched to move on to the next. This gives you a lot of options on how you want to progress and what to unlock first, as well as how important moving on to the next pod is versus picking up a particularly useful tech. 
+
+As well as the normal unit upgrades, diplomacy, and such forth, several Nurgle techs improve plagues in various ways, including unlocking new symptoms. Ironically similar to his major rival, Tzeentch, there are also several techs that add spells to Great Unclean Ones, making them powerful casters as well as oozing piles of rot.  
+
+On the note of spells and magical abilities, Nurgle has access to various army abilities. These are unlocked through technology and are charged in-battle based on how much damage your units are taking. Each also has the Chain property, meaning that it will target a specific unit then spread to nearby units, rather than targeting an area. This can be powerful or a drawback, depending on how you use it, but certainly fits the theme of contagions spreading through both armies in real time. 
+
+Also of note is the big variation between research times depending on the strength of various techs. Moving between each pod could take a significantly different amount of time depending on which techs you go for. Experiment! Such is the joy of Nurgle.
+
+== Downloadable Content ==
+{| class="article-table width=100% mw-collapsible mw-collapsed" data-expandtext="&#9660;" data-collapsetext="&#9650;" style="width:100%"
+! colspan="4" |<span style="font-size:20px;">[[File:Event Commander Activity Neutral.png|36x36px|link=]] DLC list</span>
+|-
+| colspan="4" |Nurgle can be expanded upon with the following paid and free [[DLC]]:
+|-
+|Name
+|Base game
+|Paid/free
+|Type
+|-
+|[[Champions of Chaos]]
+|Total War: Warhammer III
+|Paid
+|Lord Pack
+|-
+|[[Marked Chaos Warriors]]
+|Total War: Warhammer III
+|Free
+|Unit Pack
+|-
+|[[Thrones of Decay]]
+|Total War: Warhammer III
+|Paid
+|Lord Pack
+|-
+|[[Epidemius]]
+|Total War: Warhammer III
+|Free
+|Legendary Lord and faction
+|}
+
+==Strategy==
+Nurgle serves as the king of attrition warfare. Nurgle's armies focus on stalling the battle by having their large health pools absorb enemy damage while they slowly sap them down. Most of Nurgle's units have the trait [[Cloud of Flies]] which gives them more and more melee defense as they hold against the enemy. This allows them to exhaust they enemy until they have no resistance left. With the [[Lore of Nurgle]] and [[Lore of Death]] in hand, Nurgle can soften up the enemy to allow them to further worsen their slow demise.
+
+Nurgle is by far the slowest army in game. Most of his units lack speed and can easily be picked off by missile fire.
+
+==Gallery==
+===Concept art===
+<gallery>
+File:Plaguebearer.jpg
+File:Plagueridden.jpg
+File:Herald-of-nurgle.jpg
+File:Wh3 rotfly.jpg
+File:Wh3 nurgling.jpg
+File:Spawn nurgle.jpg
+File:Cultist-of-nurgle.jpg
+File:Plague-toad.jpg
+File:Beast-of-nurgle.jpg
+File:Great-unclean-one.jpg
+File:Exalted-great-unclean-one.jpg
+File:Nurgle-soul-grinder.jpg
+File:Palanquin.jpg
+</gallery>
+
+===Screenshots===
+<gallery>
+File:Total-War-Warhammer-3-Nurgle-3.png|Realm of Nurgle
+File:Total-war-warhammer-3-nurgle-legendary-lord.jpg|Ku'gath Plaguefather
+File:Total-War-Warhammer-3-Nurgle-1.png|Nurgle army
+</gallery>
+
+==Videos==
+===Trailer===
+{{#ev:youtube|https://www.youtube.com/watch?v=oGf5q_4Jxhs}}
+
+==References==
+<references />
+
+[[Category:Nurgle]]
+[[Category:Total War: Warhammer III]]
+[[Category:Total War: Warhammer III factions]]
+
+[[es:Nurgle]]
+[[Category:Races]]

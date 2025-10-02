@@ -1,0 +1,39 @@
+{
+  "race_id": "ogre_kingdoms",
+  "other_information": {
+    "Factions": {
+      "description": "Ogre Kingdoms factions are normal, non-horde factions who occupy settlements and control provinces.",
+      "details": []
+    },
+    "Minor factions": {
+      "description": "Total War: Warhammer III Factions introduced in The Realm of Chaos campaign: * * * * * * * * * * * * * * * * Factions introduced in the Immortal Empires campaign: * * * *The Famished",
+      "details": [
+        "The Famished"
+      ]
+    },
+    "Camps": {
+      "description": "Ogre Camps are special settlements that can be created anywhere by an Ogre Kingdoms army. These can level up to settlement level 5, and can contain the full range of Ogre Kingdoms buildings. In a similar manner to hordes, Camp buildings require population surplus to construct/upgrade. In a similar manner to Black Arks, Camps can hold units which can be exchanged with an Ogre Kingdoms army. Ogre Kingdoms factions can also colonise and take regular settlements on the campaign map as well, however these will only ever be minor Ogre settlements, which can only be upgraded to level 3 and have only 4 building slots - even if it's the province capital. Settlements with resources buildings provide even more bonuses such as buffing all units on a factionwide scale or increasing camp capacity. Should another faction be near an ogre camp, and not be at war with the owner, they may recruit Ogre units as mercenaries depends on how developed the said camp is.",
+      "details": []
+    },
+    "Bounties": {
+      "description": "See also: Bounties",
+      "details": []
+    },
+    "Meat": {
+      "description": "See also: Meat",
+      "details": []
+    },
+    "Big Names": {
+      "description": "See also: Big Names",
+      "details": []
+    },
+    "Names": {
+      "description": "See also: Ogre Kingdoms names",
+      "details": []
+    },
+    "Downloadable content": {
+      "description": "colspan=\"4\" | DLC list colspan=\"4\" |The Ogre Kingdoms can be expanded upon with the following paid and free DLC: Name Base game Paid/free Type Ogre Kingdoms Total War: Warhammer III Paid Race Pack Omens of Destruction Total War: Warhammer III Paid Lord Pack",
+      "details": []
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "kislev",
+  "name": "Kislev",
+  "type": "race",
+  "description": "\"You look down on us and think we are little better than barbarians, but you should be glad we are, for without us here, the northern tribes would be dining on the flesh of your children in your burni...",
+  "faction_type": "order",
+  "playstyle": [
+    "hybrid",
+    "cavalry",
+    "magic"
+  ],
+  "difficulty": "medium",
+  "strengths": [
+    "Hybrid units",
+    "Cavalry",
+    "Ice magic",
+    "Versatile"
+  ],
+  "weaknesses": [
+    "No flying units",
+    "Resource dependent"
+  ],
+  "keywords": [
+    "bears",
+    "ice",
+    "cavalry",
+    "hybrid",
+    "russia",
+    "cold",
+    "ursun"
+  ],
+  "tags": [
+    "kislev",
+    "order",
+    "base_game",
+    "hybrid",
+    "cavalry",
+    "magic"
+  ]
+}

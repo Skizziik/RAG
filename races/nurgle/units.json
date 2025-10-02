@@ -1,0 +1,9 @@
+{
+  "race_id": "nurgle",
+  "roster_info": {
+    "Units": {
+      "description": "Nurgle unit roster The Nurgle army has access to units both daemonic and mortal units. Nurgle units have high Health and Melee Defense at the cost of lower Speed and Melee Attack (discounting Chaos Furies and Chaos Warhounds). All units (except the Cultist of Nurgle) inflict Poison!. All daemonic units (along with the Chaos Sorcerer Lord of Nurgle, Exalted Hero of Nurgle, Cultist of Nurgle, and Spawn of Nurgle) have Cloud of Flies.",
+      "unit_types": []
+    }
+  }
+}

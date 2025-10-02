@@ -1,0 +1,202 @@
+{{Indev}}
+{{expand}}
+{{Infobox faction
+|image      =wh3_kislev.png
+|type       = [[Race]]
+|category   = Kislev
+|climates =Suitable: <br>[[File:Frozen.png]] [[File:Mountain.png]] [[File:Temperate.png]]  <br>
+Unpleasant: <br>[[File:Temperate_island.png]] [[File:Jungle.png]] [[File:Savannah.png]] [[File:Wasteland.png]] <br>
+Uninhabitable:<br>[[File:Magical_forest.png]] [[File:Desert.png]] [[File:Chaotic_wasteland.png]] [[File:Ocean.png]] <br>
+Unique Faction suitable climate: <br>[[File:Wasteland.png]] ([[Ursun Revivalists]]) <br> 
+|provinces  =
+|campaigns  = [[The Realm of Chaos]]<br>[[Immortal Empires]]<br>[[Something Rotten in Kislev]]<br>[[The Lost God]]
+|subfactions = [[File:The_Ice_Court.png|25px]][[The Ice Court]]<br>[[File:The_Great_Orthodoxy.png|25px]][[The Great Orthodoxy]]<br>[[File:Ursun Revivalists.png|25px]][[Ursun Revivalists]]<br>[[File:Daughters_of_the_Forest.png|25px]][[Daughters of the Forest]]<br>[[File:Kislev Expedition.png|25px]][[Kislev Expedition]] <small>([[The Lost God]] only)</small><br>
+|ruler      = [[Tzarina Katarin]]
+|legendary lords=[[Tzarina Katarin]]<br>[[Kostaltyn]]<br>[[Boris Ursus]]<br>[[Mother Ostankya]]<br>[[Yuri Barkov]] <small>([[The Lost God]] only)</small>
+|corruption=[[File:Icon corruption untainted.png|20px]][[Untainted]]
+|DLC=[[Shadows of Change]]}}
+:''For the minor AI faction in the first two games, see [[Kislev (minor faction)]]''
+
+'''Kislev''' is a playable [[race]] introduced in ''[[Total War: Warhammer III]]'' on launch. They are a proud human nation located in the northern [[The Old World (region)|Old World]], known for harsh winters and their staunch opposition to [[Chaos]]. In battle, Kislev has many hybrid melee/ranged units, strong cavalry, and many bear units.
+
+Previously in ''[[Total War: Warhammer]]'' and ''[[Total War: Warhammer II]]'', it was a minor non-playable faction, without a unique unit roster.
+
+==How they play==
+* [[File:Devotion.png]][[Devotion]], a unique resource to Kislevite factions, is gained by winning battles against Chaos armies and constructing certain buildings. If Devotion gets too low, such as by attacking other Kislevite factions, Chaos armies will be more likely to attack you. Devotion is primarily spent on performing one of four rituals to [[the Motherland]], which provide powerful bonuses and invoke the four main Kislev dieties: Salyak, Dazh, Ursun and Tor. Devotion is also spent to construct some higher tier buildings.
+* The Ice Court and the Great Orthodoxy compete for [[File:Icon supporter.png]][[Supporters]], a second unique resource for Kislevite factions. The more Supporters your faction gains, the more likely will minor Kislevite factions want to confederate with you. Gold and Devotion can also be spent to limit the rival Kislevite faction's Supporters. For the Ursun Revivalists, Supporters can earn closer relations with the other two big factions, along with bonuses, and they add Supporters to the Ice Court.
+* [[File:Bullet ksl atamans.png|30px]][[Atamans]] are unique lords who do not earn XP, but gain traits through dilemmas that enhance the current region and/or army they are located in. Only one Ataman can be recruited for every two provinces under your control, and he can be recruited for free to lead your armies into battle. If the Ataman is killed, a new Ataman will have to be recruited.
+* [[File:Bullet ksl the ice court.png|30px]][[The Ice Court (mechanic)]] means that Ice Witches and Frost Maidens take a long time to train, but are then recruited for a discounted price, at a higher level, and already with abilities/traits.
+* Most Kislev units are hybrid units, proficient in both ranged and melee combat. Most human Kislev units have the [[By Our Blood]] ability which makes them temporarily unbreakable when their leadership is low, allowing them to fight longer.
+
+==Background==
+"''You look down on us and think we are little better than barbarians, but you should be glad we are, for without us here, the [[Norsca|northern tribes]] would be dining on the flesh of your children in your burning homes. But for the courage that flows in our veins would your lands be theirs. Look down on us? You should get on your knees and thank us every day!''"
+
+: —Vitalia Kovash, Kislevite Winged Lancer<ref name="fandom">https://warhammerfantasy.fandom.com/wiki/Kislev</ref>
+
+'''The Kingdom of Kislev''', sometimes known as the '''Realm of the Ice Queen,''' is the most northerly [[Human]] civilization within the [[The Old World|Old World]], a powerful and war-driven nation that is known far and wide for having some of the greatest horsemen to ever roam the plains of the southern realms. From the [[World's Edge Mountains|Worlds Edge Mountains]] to the East and the Sea of Claws in the West, Kislev stands at the very frontiers of Human civilization. Lonely villages stand isolated in the empty wilderness, while 3 mighty cities (Kislev, Erengrad, and Praag) rise from the landscape like great islands of stone.
+
+Kislev is a land covered in wide-open steppes, deep taiga forest, and thundering icy rivers. In the south, the climate is somewhat milder, allowing wide-scale farming, although winters are still bitterly cold. Heading north, Kislev becomes increasingly cold and barren, before ending somewhere in the marshy tundra of Troll Country. Overall, the climate is harsh and unforgiving, winters are long and dark. Only the strongest, most determined people can survive here. 
+
+The inhabitants of Kislev are these very same people, a race of wolf-tough and self-reliant warriors, valiant and determined in the defense of their homeland against the hated marauders of the uppermost North. Ruled by a mighty Tzar, Kislev is a nation born from the saddle, the ancestry of the the country's two main ethnic groups (Gospodars, who are more common in the south and in cities, and Ungols who are more common on the frontiers) can both be traced to the mighty horse-warriors of the Eastern Steppes many millennia ago.
+
+Since the founding of this mighty kingdom, Kislev has been under siege by the murderous Hordes of Chaos. It is a kingdom that sits forever at the brink of total annihilation. Countless generations of Kislevites have fought, bled, and died in the snowy tundra of those harsh northern lands, and it is thanks to these brave Kislevite warriors that the Kingdoms of Men have managed to flourish in the south, huddled together in their warm and safe homes, whilst the Sons of Kislev fight till they draw their last dying breath.<ref name="fandom" />
+
+The land of Kislev bears a unique magic not found anywhere else in the world: Ice Magic, also known as the [[Lore of Ice]]. This incredibly dangerous and deadly magic flows throughout the entire region, and its power is at its strongest inside its borders and in cold weather.
+
+The Kislevites are a superstitious and deeply religious folk. Above all, they revere the bear-god Ursun (lord of winter, courage and strength, guardian of Kislev) and seem to have a special affinity with bears. Other important gods include Dazh (god of the sun, fire, summer, family and hospitality), Salyak (goddess of healing and comfort), and Tor (warrior-god of storms and vengeance). They also respect Ulric (god of wolves, winter and battle, primarily worshipped in the Empire) as kin to Ursun. Kislevites generally view southerners (eg: people of the Empire, Bretonnians) as soft and lazy, while southerners in turn view Kislevites as uncivilised and stern. Despite this, Kislev retains friendly relations with The Empire and Dwarfs: allies in the eternal fight against Chaos.
+
+== Factions ==
+===Playable factions===
+There are four playable Kislev factions, each with its own starting position, and led by separate Legendary Lords. See individual pages for faction-specific info.
+
+*'''{{The Ice Court faction}}''', led by [[Tzarina Katarin]].
+*'''{{The Great Orthodoxy faction}}''', led by [[Kostaltyn]].
+*'''{{Ursun Revivalists faction}}''', led by [[Boris Ursus]].
+*'''{{Daughters of the Forest faction}}''', led by [[Mother Ostankya]].
+*'''{{Kislev Expedition faction}}''', led by [[Yuri Barkov]] <small>([[The Lost God]] campaign only).</small>
+
+=== Minor factions ===
+<u>Total War: Warhammer III</u>
+
+Factions exclusive to [[The Lost God]] campaign:
+
+*{{Dervingard Garrison faction}}
+
+Factions introduced in [[The Realm of Chaos]] campaign:
+
+*{{Brotherhood of the Bear faction}}
+*{{Druzhina Enclave faction}}
+*{{Kislev Rebels faction}}
+*{{Ropsmenn Clan faction}}
+*{{Ungol Kindred faction}} 
+
+<u>Total War: Warhammer & Total War: Warhammer II</u>
+
+*{{Kislev faction}} 
+==In battle ==
+===Units ===
+{{Main|Kislev unit roster}}
+The Kislev roster are generally typical of [[human]] factions, with a solid core of infantry, a variety of good cavalry, but no fliers. Uniquely, many Kislev units are hybrid units, proficient both at range and in melee. For instance the [[Streltsi]] carry handguns with a large axe blade replacing the buttstock. Additionally, all units (except the [[Snow Leopard]] and [[Elemental Bear]]) have the [[By Our Blood]] ability, making them temporarily unbreakable when their leadership is wavering for the first time.
+
+===Magic===
+Kislev [[spellcasters]] have access to 6 lores of magic:
+
+*<small>[[File:Icon wh main lore beasts.png|38px]]</small>[[Lore of Beasts]]
+*<small>[[File:Icon wh main lore death.png|38px]]</small>[[Lore of Death]]
+*[[File:Icon wh main lore ice.png|38px]][[Lore of Ice]]
+*[[File:Icon wh main lore shadow.png|38px]][[Lore of Shadows]]
+*[[File:Icon wh main lore tempest.png|38px]][[Lore of Tempest]]
+*[[File:Icon wh main lore hag.png|38px]][[Lore of the Hag]]
+
+==In the Campaign==
+See also: [[Kislev (region)]]
+
+===Unique campaign mechanics===
+* [[The Motherland]]
+*[[Atamans]]
+*[[The Ice Court (mechanic)|The Ice Court]]
+
+===General mechanics===
+*[[Kislev tech tree]]
+*[[Kislev buildings]]
+*[[Commandments|Kislev commandments]]
+* [[Kislev post-battle options]]
+*[[Kislev settlement options]]
+*[[:Category:Kislev random events]]
+*[[:Category:Kislev dilemmas]]
+
+===Inventory===
+*[[:Category:Kislev items]]
+* [[Total_War:_Warhammer_III_followers#Kislev|Kislev followers]]
+*[[:Category:Kislev mounts]]
+*[[:Kislevite names]]
+
+==Campaign Guide==
+{{#ev:youtube|RjEx7rXMQUI}}
+
+==Strategy==
+Kislev are renown as having potent mid-range firepower on flexible infantry capable of exceeding expectation in melee. Their gameplan revolves around using Ice and Tempest Magic to slow and punish enemies while their monstrous bear cavalry forcibly control the enemy's placement, allowing arrows, guns and charging units to execute. 
+
+Kislev have excellent mid-tier infantry, the Tzar Guard with shields being an excellent defense for your ranged unit and anvil for your cavalry. Streltsi are expensive, are a staple against armoured enemies but will see less return against unarmoured factions, so consider your matchups before over-investing here. Power War Bear Cavalry cover most of the faction's weaknesses, can plow through infantry and tear apart enemy monsters with anti-large AP attacks. Patriachs are exellent for leading units of War Bears thanks to Ursun's Roar and Salyak's Lullaby to heal their high HP models.
+
+The Little Grom is effective, but Kislev may come against enemies with superior artillery and will have to close the range. The Kislev army has great synergy and can use it's robust infantry, plentiful firepower, frost magic and bear cavalry as components that support each other and increase their potential.
+
+==Downloadable content==
+{| class="article-table width=100% mw-collapsible mw-collapsed" data-collapsetext="&#9650;" data-expandtext="&#9660;" style="width:100%"
+! colspan="4" |[[File:Event Diplomacy Neutral.png|36px]]<span style="font-size:20px;">  DLC list</span>
+|-
+| colspan="4" |Kislev can be expanded upon with the following paid and free [[DLC]]:
+|-
+|Name
+|Base game
+|Paid/free
+|Type
+|-
+|[[Ulrika Magdova]]
+|Total War: Warhammer III
+| Free
+|Legendary Hero
+|-
+|[[Shadows of Change]]
+|Total War: Warhammer III
+| Paid
+|Lord Pack
+|}
+
+==Trivia==
+*Kislev was influenced by pop-culture stereotypes about Slavic nations, mostly Russia (bears, ice, and strong men), but also Poland, Ukraine, and other nations. Much of Kislevite culture was also based on medieval Russia.
+*The adjective for Kislev is variously shown as "Kislevite" (for a person) or "Kislevian" (for the country).
+*Kislev is played the most in Africa, Oceania, Europe, North and South America according to the Total War 2023 Year in Review.
+
+==Gallery==
+===Art===
+<gallery>
+wh3_kislev.png
+TWW3 art no furies no logo.jpg
+</gallery>
+
+=== Screenshots===
+<gallery>
+Total-war-warhammer-3-announcement.jpg
+Total-War-Warhammer-III-Warhammer-3-Kislev-full-roster-reveal-Kislev-units.jpg
+Kostaltyntrailer.jpg
+Bearjuggertrailer.jpg
+Survivalpressscreen1.jpg
+Survivalpressscreen2.jpg
+Twwh3 soc design Screenshot Mother Ostankya 16x9 copy.png
+Twwh3 soc design Screenshot kislev 16x9.png
+</gallery>
+
+===Concept Art===
+<gallery>
+kislev-roster-reveal-boyar-improved.jpg
+kislev-roster-reveal-patriarch-improved.jpg
+kislev-roster-reveal-ice-guard-2.jpg
+kislev-roster-reveal-streltsi-2.jpg
+kislev-roster-reveal-elemental-bear-improved.jpg
+kislev-roster-reveal-light-war-sleds-improved.jpg
+kislev-roster-reveal-snow-leopards.jpg
+kislev-roster-reveal-gryphon-legion-ca.jpg
+kislev-roster-reveal-winged-lancer-ca.jpg
+kislev-roster-reveal-armoured-kossars-ca.jpg
+kislev-roster-reveal-frost-maiden-ca.jpg
+kislev-roster-reveal-ice-witch-ca.jpg
+evgeniya-egorova-kislev-horse.jpg
+</gallery>
+
+===Videos===
+{{#ev:youtube|Bxe4C2kX_mU}}
+
+==In previous games==
+{{Main|Kislev (minor faction)}}
+
+In Total War: Warhammer and Total War: Warhammer II, Kislev is a minor AI sub-faction that uses units of [[The Empire]], but has some special distinctions in the game files.
+
+==References==
+<references />
+
+[[es:{{PAGENAME}}]]
+[[Category:Kislev]]
+[[Category:Total War: Warhammer III]]
+[[Category:Total War: Warhammer III factions]]
+[[Category:Races]]

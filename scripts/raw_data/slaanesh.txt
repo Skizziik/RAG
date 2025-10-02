@@ -1,0 +1,188 @@
+[[File:Wh3 main sla slaanesh large.png]]
+{{expand}}
+{{Infobox faction
+|image      =campaign_slaanesh1.png
+|type       = [[Race]]
+|category   = Slaanesh
+|campaigns  = [[The Realm of Chaos]]<br>[[Immortal Empires]]<br>[[Darkness & Disharmony]]<br>[[Something Rotten in Kislev]] <small>(minor factions only)</small>
+|subfactions = {{Seducers of Slaanesh faction}}<br>{{Tormentors faction}}
+|legendary lords= 
+*[[N'Kari]]
+*[[Dechala the Denied One]]
+*TBA
+|climates =Suitable: <br>[[File:Chaotic_wasteland.png]] [[File:Frozen.png]] [[File:Wasteland.png]] [[File:Savannah.png]] [[File:Temperate.png]] [[File:Temperate_island.png]] <br>
+Unpleasant: <br>[[File:Mountain.png]] [[File:Magical_forest.png]] [[File:Jungle.png]] <br>
+Uninhabitable:<br>[[File:Desert.png]] [[File:Ocean.png]]
+|DLC = 
+*[[Champions of Chaos]]
+*[[Tides of Torment]]
+|corruption =[[File:Icon corruption sla.png|20px]] [[Total_War: Warhammer III corruption#Slaanesh Corruption|Slaanesh Corruption]]}}
+'''Slaanesh''' is a playable [[race]] introduced in [[Total War: Warhammer III]]. Slaanesh is the [[Chaos]] God of excess, hedonism and obsession.
+
+==How They Play ==
+* The fastest, the deadliest - the most naked. Slaanesh is the fastest army in the game and does stunning amounts of damage in close quarters, to make up for the fact they have almost no ranged units and very little armor.
+*Slaanesh is the only Chaos daemonic faction that does not have a major diplomatic aversion penalty with other non-Chaos races.
+*Use [[Seductive Influence]] to turn non-Chaos races into your submissive vassals.
+*Draw Devotees to you with your hedonistic exploits and then commit them to spreading cults or Pleasurable Acts.
+*Spread Slaanesh Corruption. Summon disciple armies to fight for you in areas high in it.
+*Spend Divine Favour to seduce enemy units to fight for you instead.
+
+==Background==
+''The Dark Prince, the Prince of Excess/Pleasure, She-Who-Thirsts, The Serpent''
+
+Slaanesh is the youngest of the Chaos Gods, and generally considered the weakest. He represents desire, pleasure, pain and excess and is associated with the colours pink, purple, gold, pale white and black. Slaanesh breaks minds and inflicts untold incredible suffering but also instills joy, creativity and extreme pleasure. Among mortals, Slaanesh appeals to the egotistical, the obsessive, addicts, artists, hedonists and other sensation-seekers. His followers are graceful, beautiful, cruel, sometimes with both masculine and feminine features. Slaanesh is said to desire [[Elves|Elven]] souls above all others, and devours them hungrily.
+
+== Factions ==
+Slaanesh factions are normal, non-[[horde]] factions who occupy settlements and control [[provinces]].
+
+===Playable factions===
+At the moment there is only one playable Slaanesh faction, with two new upcoming factions that will be added into the game at a later date. See individual pages for faction-specific info:
+*'''{{Seducers of Slaanesh faction}}''', led by [[N'Kari]].
+*'''{{Tormentors faction}}''', led by [[Dechala the Denied One]].
+*'''TBA faction''', led by TBA.
+
+===Minor factions===
+<u>Total War: Warhammer III</u>
+
+Factions introduced in [[The Realm of Chaos]] campaign:
+
+*{{Exquisite Pain faction}}
+*{{Rapturous Excess faction}}
+*{{Slaanesh Rebels faction}}
+*{{Subtle Torture faction}}
+
+Factions introduced in [[Immortal Empires]] campaign:
+
+*{{Keepers of Bliss faction}}
+
+==In-game description==
+Slaanesh is dedicated to the pursuit of excess, gratification, hedonism, pain and amoral pleasure at the expense of any soul. He is the youngest of the Chaos Gods, for the complex emotions of erotic desire and decadence only exist within the minds of intelligent races. From within the Realm of Chaos, the Dark Prince revels in each new sensation discovered. He guides the mortal inhabitants laden with desire to go ever futher in their pursuit of stimulation.
+
+Those who serve Slaanesh are consumed by their own dark passions, driven by the need for their mistress-master's approval to commit more sordid atrocities. And so Slaanesh's followers practice war upon the nations of the south, seducing their foes into service of their Dark God and inflicting symphonies of misery upon those who resist his call.
+
+*[[File:Bullet sla devotees.png]] Devotees: Amass followers by raiding, sacking and looting settlements.
+*[[File:Bullet sla summon disciple armies.png]] Summon Disciple Armies: Use Devotees to summon armies in corrupted areas.
+*[[File:Bullet sla promise of perfection.png]] Seduction: Compel enemy units to join your army during battles, and force whole factions into vassalage via your Seductive Influence.
+
+==In Battle==
+===Units===
+{{Main|Slaanesh unit roster}}
+The Slaanesh army has access to units both daemonic and mortal units. All units have [[Combat|Physical Resistance]], high [[Speed]], and are [[Immune to Psychology]]. All mortal units (along with the [[Exalted Keeper of Secrets]], [[Daemon Prince of Slaanesh|Daemon Prince]], [[Azazel]], [[N'Kari]], [[Soul Grinder (Slaanesh)|Soul Grinder]], and [[Keeper of Secrets]]) have access [[Strider]]. All daemonic units (along with the [[Cultist of Slaanesh]], [[Forsaken of Slaanesh|Forsaken]] and [[Spawn of Slaanesh]]), cavalry (with exception to [[Hellstriders of Slaanesh]]), and chariots have Devastating Flanker.
+
+=== Magic===
+Slaanesh has access to 2 lores of magic:
+
+*[[File:Icon wh main lore shadow.png|38px]][[Lore of Shadows]]
+*[[File:Icon wh main lore slaanesh.png|38px]][[Lore of Slaanesh]]
+
+==In the Campaign==
+===Battle mechanics===
+Killing enemies in negative morale states provides the Slaanesh army with battle currency, which can be spent on the following Army Abilities:
+
+#[[File:Wh3 main army abilities fascination.png|38x38px]] [[Fascination]]: Direct Damage, damage per second 63-125, causes Rampage.  Range: infinite, Duration: 23 seconds, Cooldown: 90 seconds.
+#[[File:Wh3 main army abilities narcissism.png|38x38px]] [[Narcissism]]: Hex, target cannot move.  Range: infinite, Duration: 13 seconds, Cooldown: 60 seconds.
+# [[File:Wh3 main army abilities sweet sorrow.png|38x38px]] [[Sweet Sorrow]]: Augment (Area), Speed +25%, Vigor -3%.  Range and Effect Range: Infinite, Duration: 20 seconds, Cooldown: 120 seconds.
+
+===Seduce Unit(s)===
+Prior to battle, Slaanesh armies can pay Divine Favor to attempt to bring one or more enemy units over to their side with their Seduce Units ability.  If successful, the unit will join the Slaaneshi side for the duration of the combat and then, if not defeated in battle, disband.  There does not appear to be a limitation on what kinds of units are vulnerable to Seduce Unit (unlike their campaign-based Seductive Influence ability which only works on certain races), but the cost varies by unit (in a manner analogous to their multiplayer cost) and the Slaanesh player will have both a maximum Seduce Units Budget they can spend and a maximum number of units they can affect.  These numbers will improve over the course of the game with technology upgrades, character skills, and buildings, as well as a particular [[Unholy Manifestations|Unholy Manifestation]].  
+
+===Gifts of Slaanesh===
+When you defeat an enemy Lord in battle, they also gain a Gift of Slaanesh.  This is a trait that provides benefits to the Slaanesh faction that granted the trait (which is listed on the trait itself).  This trait can be removed by defeating a Slaanesh army in battle with the affected character.
+
+Gifts of Slaanesh trait details: 
+
+*Seduce Units cost -10% (local enemy armies)
+*Devotees +5 per turn to the faction that provided the Gift
+*Slaanesh corruption +5 (local province)
+*Seductive influence with gifted character's faction +3 per turn
+
+=== Post-Battle Options===
+Slaaneshi factions have a unique post-battle option, '''Create Vassal'''.  Due to the importance of vassals for Slaaneshi factions, as well as the limitations of their Seductive Influence (see below), this would ordinarily make it quite difficult to continue making vassals after the midgame, as all the minor factions have already been gobbled up by majors.  However, Create Vassal allows you to recreate a defeated minor faction as a Vassal when capturing a settlement that was previously their capital.  It appears that this will also work on minor Chaos factions as well as Human and Elven factions, it is currently unknown whether it will work on other races (Ogres, Skaven, Dwarves, Lizardmen).  Otherwise this ability yields the same rewards as the Subjugate post battle option, which is used to forcibly vassalize when defeating the last remaining settlement of a faction - notably, for Slaaneshi factions this provides a +500 Devotee boost as well as a small amount of replenishment.
+
+===Seductive Influence===
+* [[Seductive Influence]]
+
+=== Disciple Armies===
+Slaaneshi armies of at least 10 units have the ability to Summon Disciple armies in any province where Slaanesh corruption is >25, at the cost of 300 Devotees with a 5 turn cooldown.  The size of the summoned army is equal to that of the summoning army plus 0-3 additional units (higher when the summoning army is smaller, lower as the summoning army approaches 20), the quality of the summoned army units is better in provinces with higher Slaanesh corruption (and appears to have no relationship to the tech levels present in the summoning army), and the level of the Herald leading the Disciple army matches that of the Lord of the summoning army.  Disciple armies cannot replenish or have units transferred into them or out of them, cost their owner a small amount of Devotees per turn in upkeep (but no Divine Favor), and they take ongoing attrition inversely proportional to the amount of Slaanesh corruption in the province they occupy (with very high attrition in provinces with no Slaanesh corruption and no attrition in provinces with 100 Slaanesh corruption).  This makes them somewhat analogous to Khornate Bloodhosts, but with higher defensive utility and lower offensive utility.
+
+===Pleasurable Acts===
+Each Slaanesh-controlled province gains the ability to activate the 3 Pleasurable Acts.  Each act affects only the province it is activated in, has a duration of 5 turns, and an individual cooldown of 10 turns.  You cannot activate another Pleasurable Act while a different one is currently active in that province.  The three acts are Pleasure Arena, Pleasure Hunt, and Pleasure Party:
+
+*Pleasure Arena: costs 100 Devotees and 50 Control. Income from all local buildings +20%.
+*Pleasure Hunt: costs 200 Devotees.  Control +20, Recruitment cost -25%, Recruit rank +2.
+*Pleasure Party: costs 2000 Divine Favor and 100 Devotees. Growth +50, Control +5.
+
+=== Proliferate Cults===
+Sends your followers out into the world to establish cults on a ten turn cooldown.  For a cost of 1000 Devotees (can be reduced by research, buildings, or commandments), establish cults in up to 3 random Human or Elven settlements anywhere on the map.
+
+== Downloadable Content ==
+{| class="article-table width=100% mw-collapsible mw-collapsed" data-expandtext="&#9660;" data-collapsetext="&#9650;" style="width:100%"
+! colspan="4" |<span style="font-size:20px;">[[File:Event Commander Activity Neutral.png|36x36px|link=]] DLC list</span>
+|-
+| colspan="4" |Slaanesh can be expanded upon with the following paid and free [[DLC]]:
+|-
+|Name
+|Base game
+|Paid/free
+|Type
+|-
+|[[Champions of Chaos]]
+|Total War: Warhammer III
+|Paid
+|Lord Pack
+|-
+|[[Marked Chaos Warriors]]
+|Total War: Warhammer III
+|Free
+|Unit Pack
+|-
+|[[Tides of Torment]]
+|Total War: Warhammer III
+|Paid
+|Lord Pack
+|-
+|
+|Total War: Warhammer III
+|Free
+|Legendary Lord and faction
+|}
+
+==Gallery==
+===Concept art===
+<gallery>
+File:Keeper of secrets exalted concept.jpg
+Twwh3_concept_art_herald_of_slaanesh.jpg
+Twwh3_concept_art_alluress.jpg
+File:Cultist of slaanesh concept.jpg
+Twwh3_concept_art_exalted_daemonette.jpg
+File:Wh3 daemonette.jpg
+File:Steed of slaanesh concept.jpg
+File:Fiend concept.jpg
+File:Soul grinder slaanesh concept.jpg
+File:Keeper of secrets concept.jpg
+File:Wh3 exalted chariot.jpg
+File:Seeker chariot hellflayer concept.jpg
+File:Seeker chariot concept.jpg
+File:Seeker chariot exalted concept.jpg
+</gallery>
+
+===Screenshots===
+<gallery>
+File:Slaanesh promo.jpg|N'Kari
+File:Slaanesh screenshot 2.jpg|Slaanesh army
+File:Slaanesh screenshots asset 03 final.jpg|Realm of Slaanesh
+</gallery>
+
+==Videos==
+===Trailer===
+*[https://www.youtube.com/watch?v=XqjZzwAg3dU Enter the World of Slaanesh]
+
+==References==
+<references />
+
+[[Category:Slaanesh]]
+[[Category:Total War: Warhammer III]]
+[[Category:Total War: Warhammer III factions]]
+
+[[es:Slaanesh]]
+[[Category:Races]]

@@ -1,0 +1,9 @@
+{
+  "race_id": "ogre_kingdoms",
+  "roster_info": {
+    "Units": {
+      "description": "Ogre Kingdoms unit roster The majority of units in the Ogre Kingdoms unit roster are monstrous infantry, monstrous cavalry or monsters, which sets them apart from other races. All units designated as monstrous infantry (except Gorgers) get access to Ogre Charge.",
+      "unit_types": []
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "race_id": "slaanesh",
+  "other_information": {
+    "Factions": {
+      "description": "Slaanesh factions are normal, non-horde factions who occupy settlements and control provinces.",
+      "details": []
+    },
+    "Minor factions": {
+      "description": "Total War: Warhammer III Factions introduced in The Realm of Chaos campaign: * * * * Factions introduced in Immortal Empires campaign: *",
+      "details": []
+    },
+    "In-game description": {
+      "description": "Slaanesh is dedicated to the pursuit of excess, gratification, hedonism, pain and amoral pleasure at the expense of any soul. He is the youngest of the Chaos Gods, for the complex emotions of erotic desire and decadence only exist within the minds of intelligent races. From within the Realm of Chaos, the Dark Prince revels in each new sensation discovered. He guides the mortal inhabitants laden with desire to go ever futher in their pursuit of stimulation. Those who serve Slaanesh are consumed by their own dark passions, driven by the need for their mistress-master's approval to commit more sordid atrocities. And so Slaanesh's followers practice war upon the nations of the south, seducing their foes into service of their Dark God and inflicting symphonies of misery upon those who resist his call. * Devotees: Amass followers by raiding, sacking and looting settlements. * Summon Disciple Armies: Use Devotees to summon armies in corrupted areas. * Seduction: Compel enemy units to join your army during battles, and force whole factions into vassalage via your Seductive Influence.",
+      "details": [
+        "Devotees: Amass followers by raiding, sacking and looting settlements.",
+        "Summon Disciple Armies: Use Devotees to summon armies in corrupted areas.",
+        "Seduction: Compel enemy units to join your army during battles, and force whole factions into vassalage via your Seductive Influence."
+      ]
+    },
+    "Battle mechanics": {
+      "description": "Killing enemies in negative morale states provides the Slaanesh army with battle currency, which can be spent on the following Army Abilities: # Fascination: Direct Damage, damage per second 63-125, causes Rampage. Range: infinite, Duration: 23 seconds, Cooldown: 90 seconds. # Narcissism: Hex, target cannot move. Range: infinite, Duration: 13 seconds, Cooldown: 60 seconds. # Sweet Sorrow: Augment (Area), Speed +25%, Vigor -3%. Range and Effect Range: Infinite, Duration: 20 seconds, Cooldown: 120 seconds.",
+      "details": []
+    },
+    "Gifts of Slaanesh": {
+      "description": "When you defeat an enemy Lord in battle, they also gain a Gift of Slaanesh. This is a trait that provides benefits to the Slaanesh faction that granted the trait (which is listed on the trait itself). This trait can be removed by defeating a Slaanesh army in battle with the affected character. Gifts of Slaanesh trait details: *Seduce Units cost -10% (local enemy armies) *Devotees +5 per turn to the faction that provided the Gift *Slaanesh corruption +5 (local province) *Seductive influence with gifted character's faction +3 per turn",
+      "details": [
+        "Seduce Units cost -10% (local enemy armies)",
+        "Devotees +5 per turn to the faction that provided the Gift",
+        "Slaanesh corruption +5 (local province)",
+        "Seductive influence with gifted character's faction +3 per turn"
+      ]
+    },
+    "Post-Battle Options": {
+      "description": "Slaaneshi factions have a unique post-battle option, Create Vassal. Due to the importance of vassals for Slaaneshi factions, as well as the limitations of their Seductive Influence (see below), this would ordinarily make it quite difficult to continue making vassals after the midgame, as all the minor factions have already been gobbled up by majors. However, Create Vassal allows you to recreate a defeated minor faction as a Vassal when capturing a settlement that was previously their capital. It appears that this will also work on minor Chaos factions as well as Human and Elven factions, it is currently unknown whether it will work on other races (Ogres, Skaven, Dwarves, Lizardmen). Otherwise this ability yields the same rewards as the Subjugate post battle option, which is used to forcibly vassalize when defeating the last remaining settlement of a faction - notably, for Slaaneshi factions this provides a +500 Devotee boost as well as a small amount of replenishment.",
+      "details": []
+    },
+    "Seductive Influence": {
+      "description": "* Seductive Influence",
+      "details": [
+        "Seductive Influence"
+      ]
+    },
+    "Disciple Armies": {
+      "description": "Slaaneshi armies of at least 10 units have the ability to Summon Disciple armies in any province where Slaanesh corruption is >25, at the cost of 300 Devotees with a 5 turn cooldown. The size of the summoned army is equal to that of the summoning army plus 0-3 additional units (higher when the summoning army is smaller, lower as the summoning army approaches 20), the quality of the summoned army units is better in provinces with higher Slaanesh corruption (and appears to have no relationship to the tech levels present in the summoning army), and the level of the Herald leading the Disciple army matches that of the Lord of the summoning army. Disciple armies cannot replenish or have units transferred into them or out of them, cost their owner a small amount of Devotees per turn in upkeep (but no Divine Favor), and they take ongoing attrition inversely proportional to the amount of Slaanesh corruption in the province they occupy (with very high attrition in provinces with no Slaanesh corruption and no attrition in provinces with 100 Slaanesh corruption). This makes them somewhat analogous to Khornate Bloodhosts, but with higher defensive utility and lower offensive utility.",
+      "details": []
+    },
+    "Pleasurable Acts": {
+      "description": "Each Slaanesh-controlled province gains the ability to activate the 3 Pleasurable Acts. Each act affects only the province it is activated in, has a duration of 5 turns, and an individual cooldown of 10 turns. You cannot activate another Pleasurable Act while a different one is currently active in that province. The three acts are Pleasure Arena, Pleasure Hunt, and Pleasure Party: *Pleasure Arena: costs 100 Devotees and 50 Control. Income from all local buildings +20%. *Pleasure Hunt: costs 200 Devotees. Control +20, Recruitment cost -25%, Recruit rank +2. *Pleasure Party: costs 2000 Divine Favor and 100 Devotees. Growth +50, Control +5.",
+      "details": [
+        "Pleasure Arena: costs 100 Devotees and 50 Control. Income from all local buildings +20%.",
+        "Pleasure Hunt: costs 200 Devotees. Control +20, Recruitment cost -25%, Recruit rank +2.",
+        "Pleasure Party: costs 2000 Divine Favor and 100 Devotees. Growth +50, Control +5."
+      ]
+    },
+    "Proliferate Cults": {
+      "description": "Sends your followers out into the world to establish cults on a ten turn cooldown. For a cost of 1000 Devotees (can be reduced by research, buildings, or commandments), establish cults in up to 3 random Human or Elven settlements anywhere on the map.",
+      "details": []
+    },
+    "Downloadable Content": {
+      "description": "colspan=\"4\" | DLC list colspan=\"4\" |Slaanesh can be expanded upon with the following paid and free DLC: Name Base game Paid/free Type Champions of Chaos Total War: Warhammer III Paid Lord Pack Marked Chaos Warriors Total War: Warhammer III Free Unit Pack Tides of Torment Total War: Warhammer III Paid Lord Pack Total War: Warhammer III Free Legendary Lord and faction",
+      "details": []
+    }
+  }
+}

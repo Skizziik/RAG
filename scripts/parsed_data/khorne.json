@@ -1,0 +1,83 @@
+{
+  "race_id": "khorne",
+  "name": "Khorne",
+  "infobox": {},
+  "sections": {
+    "How they play": {
+      "content": "Khorne factions gain a unique resource, Skulls, through campaign events and fighting other armies in battle, regardless or victory or defeat. Skulls can be used on the Skull Throne to gain various buffs. Skulls are also spent to acquire tech and occupy settlements. Although Khorne's factions must spend skulls to occupy a settlement, any ruined region in a province where Khorne has an established settlement will eventually be automatically colonized at no cost, slowly increasing the chance after every turns. Khorne has two options when razing a settlement: Skulls for the Skull Throne and Blood for the Blood God. Skulls for the Skull Throne provides Skulls. Blood for the Blood God replenishes the army and spawns a Blood Host army in the region. Blood Host armies cannot recruit or replenish (except from devoured captives), but are otherwise normal armies for the faction. After several turns, they begin to experience attrition and will eventually die, though winning battles with them will prolong this. They have no upkeep and do not count toward the faction's supply lines penalty. Each Khorne army has Bloodletting, a gauge the increases as the armies win battles and decreases when they are idle. Bloodletting provides faction wide growth bonuses and replenishment bonuses, local corruption bonuses, and reduces the army's global recruitment and upkeep. Some of Khorne's technologies within the tech tree debuffs diplomatic relations, since the Blood God is not interested in peace treaties and more interested in craniums. Like all daemonic factions, Khorne has Unholy Manifestations and Cults.",
+      "list_items": null
+    },
+    "Background": {
+      "content": "Khorne, the Blood God, rages upon his brass throne, resting atop a mountain of skulls, built from the countless heads of the great champions his followers have slain over an immeasurable number of aeons. He cares not from where blood flows so long as it is done in his name. It is not uncommon to see the warriors of Khorne fighting amongst themselves, battling to prove their skill in combat and rise higher in the eyes of their wrathful master. To follow Khorne is to embrace violence and destruction, and to pledge utter subservience to his cause. Khorne's most favoured servants are gifted with immense powers. Some may even ascend to Daemonhood, and it is these chosen few who are tasked with bringing his wrath down upon the world. Blood for the Blood God!",
+      "list_items": null
+    },
+    "Factions": {
+      "content": "Khorne factions are normal, non-horde factions who occupy settlements and control provinces.",
+      "list_items": null
+    },
+    "Playable factions": {
+      "content": "At the moment there are three playable Khorne factions, each led by a Legendary Lord. See individual pages for faction-specific info. *, led by Skarbrand the Exiled. *, led by Skulltaker. *, led by Arbaal the Undefeated.",
+      "list_items": [
+        ", led by Skarbrand the Exiled.",
+        ", led by Skulltaker.",
+        ", led by Arbaal the Undefeated."
+      ]
+    },
+    "Minor factions": {
+      "content": "Total War: Warhammer III Factions introduced in The Lost God campaign: * * Factions introduced in The Realm of Chaos campaign: * * * * *",
+      "list_items": null
+    },
+    "In battle": {
+      "content": "",
+      "list_items": null
+    },
+    "General": {
+      "content": "Khorne is a melee-focused race that excels at charging. They have no spellcasters, but Khornate Daemons are resistant to spells. Killing the enemy grants the Blood God’s favour, which can be used on the following army abilities: * Horn of Khorne * Relentless Rage * Blade of Khorne",
+      "list_items": [
+        "Horn of Khorne",
+        "Relentless Rage",
+        "Blade of Khorne"
+      ]
+    },
+    "Units": {
+      "content": "Khorne unit roster In the Khorne army, there is access to both daemonic and mortal units. Khorne units are melee focused with high damage, with all mortal units (plus the Chaos Furies and Daemon Prince) having Frenzy, but reduced Melee Defense (not counting Chaos Furies). They have only three ranged units, the Soul Grinder, Marauder Horsemen, and Skullcannon. All units (except The Bloodbrute Behemoth and Chaos Warhounds) have Spell Resistance. Some Khorne units (such as Skarbrand) have passive abilities that are activated based on the number of kills the unit gets.",
+      "list_items": null
+    },
+    "In campaign": {
+      "content": "",
+      "list_items": null
+    },
+    "Corruption": {
+      "content": "Khorne spreads Khorne corruption.",
+      "list_items": null
+    },
+    "Building": {
+      "content": "Khorne buildings|l1=Khorne Buildings",
+      "list_items": null
+    },
+    "Downloadable Content": {
+      "content": "colspan=\"4\" | DLC list colspan=\"4\" |Khorne can be expanded upon with the following paid and free DLC: Name Base game Paid/free Type Champions of Chaos Total War: Warhammer III Paid Lord Pack Karanak Total War: Warhammer III Free Legendary Hero Omens of Destruction Total War: Warhammer III Paid Lord Pack Arbaal the Undefeated Total War: Warhammer III Free Legendary Lord and faction",
+      "list_items": null
+    },
+    "Gallery": {
+      "content": "",
+      "list_items": null
+    },
+    "Concept art": {
+      "content": "Khorne-roster-reveal-flesh-hounds-of-khorne.jpg Khorne-roster-reveal-herald-of-khorne.jpg Khorne-roster-reveal-minotaurs-of-khorne.jpg Khorne-roster-reveal-skull-cannon.jpg Khorne-roster-reveal-gorebeast-chariot-2.jpg Khorne-roster-reveal-skullcrusher.jpg Twwh3_concept_art_skullcrasher.jpg Khorne-roster-reveal-soul-grinder-of-khorne.jpg Khorne-roster-reveal-exalted-bloodthirster.jpg",
+      "list_items": null
+    },
+    "Screenshots": {
+      "content": "BrassCitadelBattleMap.jpg|Realm of Khorne & Brass Citadel Khornescreen1.jpg|Skarbrand the Exiled Khornescreen2.jpg|Khorne army Khornescreen3.jpg|Khorne army #2",
+      "list_items": null
+    },
+    "Videos": {
+      "content": "",
+      "list_items": null
+    },
+    "References": {
+      "content": "es: Category:Khorne Category:Total War: Warhammer III Category:Total War: Warhammer III factions Category:Races",
+      "list_items": null
+    }
+  }
+}

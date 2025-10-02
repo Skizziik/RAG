@@ -1,0 +1,14 @@
+{
+  "race_id": "slaanesh",
+  "unique_mechanics": {},
+  "general_mechanics": {},
+  "magic": {
+    "Magic": {
+      "description": "Slaanesh has access to 2 lores of magic: *Lore of Shadows *Lore of Slaanesh",
+      "lores": [
+        "Lore of Shadows",
+        "Lore of Slaanesh"
+      ]
+    }
+  }
+}

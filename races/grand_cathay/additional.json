@@ -1,0 +1,57 @@
+{
+  "race_id": "grand_cathay",
+  "other_information": {
+    "Minor factions": {
+      "description": "Factions introduced in The Realm of Chaos campaign: * * * * * * *The Jade Custodians Factions introduced in the Immortal Empires campaign: *",
+      "details": [
+        "The Jade Custodians"
+      ]
+    },
+    "Harmony": {
+      "description": "Harmony Cathay's troops are divided into two categories, Yin and Yang. Yin units are typically ranged units while Yang are Melee focused. When a Yin and Yang unit are in close proximity the Yin units will get a reload buff and Yang units will get a Melee defense buff. As a result Cathay armies function best with a diverse and well supported formations that can make use of these buffs.",
+      "details": []
+    },
+    "Mastery of the Elemental winds": {
+      "description": "Cathay's casters have a unique ability to boost the damage output of spells based on the number of spellcasters in the army. Each spellcaster in the army excluding the first will boost the effects of Cathayan magic by 15% up to a maximum of a 100% boost. For example if you have a caster Lord and hero in the army the boost will be at 15%, meaning damage spells will hit 15% harder and buffs with have a 15% boost as well. Adding a third caster will increase this to 30%, four will increase it to 45%, and so on and so forth.",
+      "details": []
+    },
+    "General mechanics": {
+      "description": "*Grand Cathay tech tree *Grand Cathay buildings *Grand Cathay commandments *Grand Cathay post-battle options *Grand Cathay settlement options *:Category:Grand Cathay random events *:Category:Grand Cathay dilemmas",
+      "details": [
+        "Grand Cathay tech tree",
+        "Grand Cathay buildings",
+        "Grand Cathay commandments",
+        "Grand Cathay post-battle options",
+        "Grand Cathay settlement options",
+        ":Category:Grand Cathay random events",
+        ":Category:Grand Cathay dilemmas"
+      ]
+    },
+    "Inventory": {
+      "description": "*:Category:Grand Cathay items *Grand Cathay followers *:Category:Grand Cathay mounts *:Cathayan names",
+      "details": [
+        ":Category:Grand Cathay items",
+        "Grand Cathay followers",
+        ":Category:Grand Cathay mounts",
+        ":Cathayan names"
+      ]
+    },
+    "Strategy": {
+      "description": "As an empire, a people, and on the battlefield, Grand Cathay is about harmony. They are a defensively focused army, long standing against the tides of darkness that crash against their Great Bastion, over and over again across the centuries. Ranged and melee units receive buffs when in close proximity, their power boosted as the Yin and Yang that runs through every inhabitant of the empire works in concert. This gives them incredible ranged firepower and a stalwart, hardy front-line. They are slow-moving and easy to flank, but their flying machines, alchemists, and dragon sorcerers do much to make the army a formidable one. On the campaign map, Grand Cathay must use the incredible wealth of the Ivory Road to fund their war effort and defense of the Grand Bastion, the invincible walled fortress that borders the Chaos Wastes to their North. Defending it and launching assaults from it is a key part of their campaign and will make or break the fates of mortals. Cathay's harmony function is somewhat similar to Bretonnia's Peasant Economy, where the player must maintain a balance between two resources to maximise production and output without penalties.",
+      "details": []
+    },
+    "Downloadable content": {
+      "description": "colspan=\"4\" | DLC list colspan=\"4\" |Grand Cathay can be expanded upon with the following paid and free DLC: Name Base game Paid/free Type Shadows of Change Total War: Warhammer III Paid Lord Pack",
+      "details": []
+    },
+    "Development": {
+      "description": "*Before Total War: Warhammer III, Cathay is referenced in several items and followers, such as the Horn of Immortals, the Cathayan Slave Dancer, and the background lore for Clan Eshin. *In 2018, a group of Chinese Total War fans visited Creative Assembly in the UK, and presented them with a fan-made map of Grand Cathay, to show their desire for Cathay to become a playable faction.https://www.reddit.com/r/totalwar/comments/7soopg/translation_chinese_total_war_community_member/https://forums.totalwar.com/discussion/212828/chinese-community-and-grand-cathay *In 2019, Creative Assembly released Total War: Three Kingdoms, a Total War game set during the Three Kingdoms period of Chinese history (220-280 CE). The game draws heavily on Romance of the Three Kingdoms, a 14th-century Chinese novel which is part history, part myth, and is set in the three kingdoms period. Total War: Three Kingdoms sold 1 million copies in less than a week.https://venturebeat.com/2019/05/29/total-war-three-kingdoms-1-million-sold/#:~:text=Total%20War%3A%20Three%20Kingdoms%20has,feat%20in%20under%20a%20week. *Games Workshop and Creative Assembly worked together to create Grand Cathay for Total War: Warhammer III.https://www.youtube.com/watch?v=STAxzrnd0aA Previously, Cathay had only existed as snippets of lore in Warhammer Fantasy books.https://warhammerfantasy.fandom.com/wiki/Cathay",
+      "details": [
+        "Before Total War: Warhammer III, Cathay is referenced in several items and followers, such as the Horn of Immortals, the Cathayan Slave Dancer, and the background lore for Clan Eshin.",
+        "In 2018, a group of Chinese Total War fans visited Creative Assembly in the UK, and presented them with a fan-made map of Grand Cathay, to show their desire for Cathay to become a playable faction.https://www.reddit.com/r/totalwar/comments/7soopg/translation_chinese_total_war_community_member/https://forums.totalwar.com/discussion/212828/chinese-community-and-grand-cathay",
+        "In 2019, Creative Assembly released Total War: Three Kingdoms, a Total War game set during the Three Kingdoms period of Chinese history (220-280 CE). The game draws heavily on Romance of the Three Kingdoms, a 14th-century Chinese novel which is part history, part myth, and is set in the three kingdoms period. Total War: Three Kingdoms sold 1 million copies in less than a week.https://venturebeat.com/2019/05/29/total-war-three-kingdoms-1-million-sold/#:~:text=Total%20War%3A%20Three%20Kingdoms%20has,feat%20in%20under%20a%20week.",
+        "Games Workshop and Creative Assembly worked together to create Grand Cathay for Total War: Warhammer III.https://www.youtube.com/watch?v=STAxzrnd0aA Previously, Cathay had only existed as snippets of lore in Warhammer Fantasy books.https://warhammerfantasy.fandom.com/wiki/Cathay"
+      ]
+    }
+  }
+}
