@@ -2,6 +2,7 @@
   "race_id": "daemons_of_chaos",
   "name": "Daemons Of Chaos",
   "infobox": {
+    "subfactions": "Legion of Chaos",
     "climates": "Suitable: Unpleasant:",
     "corruption": "Chaos Undivided Corruption Khorne Corruption Nurgle Corruption Slaanesh Corruption Tzeentch Corruption",
     "provinces": "The Forest of Decay (Immortal Empires)",
@@ -25,14 +26,16 @@
       "list_items": null
     },
     "Playable factions": {
-      "content": "*, led by The Daemon Prince.",
+      "content": "*Legion of Chaos, led by The Daemon Prince.",
       "list_items": [
-        ", led by The Daemon Prince."
+        "Legion of Chaos, led by The Daemon Prince."
       ]
     },
     "Minor factions": {
-      "content": "Factions introduced in The Realm of Chaos campaign: *",
-      "list_items": null
+      "content": "Factions introduced in The Realm of Chaos campaign: *Shadow Legion DoC",
+      "list_items": [
+        "Shadow Legion DoC"
+      ]
     },
     "In Battle": {
       "content": "",

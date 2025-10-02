@@ -22,18 +22,26 @@
       "list_items": null
     },
     "Playable factions": {
-      "content": "There are four playable Kislev factions, each with its own starting position, and led by separate Legendary Lords. See individual pages for faction-specific info. *The Ice Court, led by Tzarina Katarin. *The Great Orthodoxy, led by Kostaltyn. *, led by Boris Ursus. *, led by Mother Ostankya. *, led by Yuri Barkov (The Lost God campaign only).",
+      "content": "There are four playable Kislev factions, each with its own starting position, and led by separate Legendary Lords. See individual pages for faction-specific info. *The Ice Court, led by Tzarina Katarin. *The Great Orthodoxy, led by Kostaltyn. *Ursun Revivalists, led by Boris Ursus. *Daughters of the Forest, led by Mother Ostankya. *Kislev Expedition, led by Yuri Barkov (The Lost God campaign only).",
       "list_items": [
         "The Ice Court, led by Tzarina Katarin.",
         "The Great Orthodoxy, led by Kostaltyn.",
-        ", led by Boris Ursus.",
-        ", led by Mother Ostankya.",
-        ", led by Yuri Barkov (The Lost God campaign only)."
+        "Ursun Revivalists, led by Boris Ursus.",
+        "Daughters of the Forest, led by Mother Ostankya.",
+        "Kislev Expedition, led by Yuri Barkov (The Lost God campaign only)."
       ]
     },
     "Minor factions": {
-      "content": "Total War: Warhammer III Factions exclusive to The Lost God campaign: * Factions introduced in The Realm of Chaos campaign: * * * * * Total War: Warhammer & Total War: Warhammer II *",
-      "list_items": null
+      "content": "Total War: Warhammer III Factions exclusive to The Lost God campaign: *Dervingard Garrison Factions introduced in The Realm of Chaos campaign: *Brotherhood of the Bear *Druzhina Enclave *Kislev Rebels *Ropsmenn Clan *Ungol Kindred Total War: Warhammer & Total War: Warhammer II *Kislev",
+      "list_items": [
+        "Dervingard Garrison",
+        "Brotherhood of the Bear",
+        "Druzhina Enclave",
+        "Kislev Rebels",
+        "Ropsmenn Clan",
+        "Ungol Kindred",
+        "Kislev"
+      ]
     },
     "In battle": {
       "content": "",

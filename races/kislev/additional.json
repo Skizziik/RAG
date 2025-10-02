@@ -12,8 +12,16 @@
       ]
     },
     "Minor factions": {
-      "description": "Total War: Warhammer III Factions exclusive to The Lost God campaign: * Factions introduced in The Realm of Chaos campaign: * * * * * Total War: Warhammer & Total War: Warhammer II *",
-      "details": []
+      "description": "Total War: Warhammer III Factions exclusive to The Lost God campaign: *Dervingard Garrison Factions introduced in The Realm of Chaos campaign: *Brotherhood of the Bear *Druzhina Enclave *Kislev Rebels *Ropsmenn Clan *Ungol Kindred Total War: Warhammer & Total War: Warhammer II *Kislev",
+      "details": [
+        "Dervingard Garrison",
+        "Brotherhood of the Bear",
+        "Druzhina Enclave",
+        "Kislev Rebels",
+        "Ropsmenn Clan",
+        "Ungol Kindred",
+        "Kislev"
+      ]
     },
     "In the Campaign": {
       "description": "See also: Kislev (region)",

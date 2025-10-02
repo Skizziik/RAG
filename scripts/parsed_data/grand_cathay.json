@@ -31,9 +31,16 @@
       ]
     },
     "Minor factions": {
-      "content": "Factions introduced in The Realm of Chaos campaign: * * * * * * *The Jade Custodians Factions introduced in the Immortal Empires campaign: *",
+      "content": "Factions introduced in The Realm of Chaos campaign: *Burning Wind Nomads *Cathay Rebels *Celestial Loyalists *Dissenter Lords of Jinshen *Imperial Wardens *Rebel Lords of Nan-Yang *The Jade Custodians Factions introduced in the Immortal Empires campaign: *Eastern River Lords",
       "list_items": [
-        "The Jade Custodians"
+        "Burning Wind Nomads",
+        "Cathay Rebels",
+        "Celestial Loyalists",
+        "Dissenter Lords of Jinshen",
+        "Imperial Wardens",
+        "Rebel Lords of Nan-Yang",
+        "The Jade Custodians",
+        "Eastern River Lords"
       ]
     },
     "In Battle": {

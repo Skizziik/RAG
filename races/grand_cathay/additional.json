@@ -2,9 +2,16 @@
   "race_id": "grand_cathay",
   "other_information": {
     "Minor factions": {
-      "description": "Factions introduced in The Realm of Chaos campaign: * * * * * * *The Jade Custodians Factions introduced in the Immortal Empires campaign: *",
+      "description": "Factions introduced in The Realm of Chaos campaign: *Burning Wind Nomads *Cathay Rebels *Celestial Loyalists *Dissenter Lords of Jinshen *Imperial Wardens *Rebel Lords of Nan-Yang *The Jade Custodians Factions introduced in the Immortal Empires campaign: *Eastern River Lords",
       "details": [
-        "The Jade Custodians"
+        "Burning Wind Nomads",
+        "Cathay Rebels",
+        "Celestial Loyalists",
+        "Dissenter Lords of Jinshen",
+        "Imperial Wardens",
+        "Rebel Lords of Nan-Yang",
+        "The Jade Custodians",
+        "Eastern River Lords"
       ]
     },
     "Harmony": {

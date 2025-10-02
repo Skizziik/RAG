@@ -16,16 +16,24 @@
       "list_items": null
     },
     "Playable factions": {
-      "content": "At the moment there are three playable Khorne factions, each led by a Legendary Lord. See individual pages for faction-specific info. *, led by Skarbrand the Exiled. *, led by Skulltaker. *, led by Arbaal the Undefeated.",
+      "content": "At the moment there are three playable Khorne factions, each led by a Legendary Lord. See individual pages for faction-specific info. *Exiles of Khorne, led by Skarbrand the Exiled. *Blooded Wanderers, led by Skulltaker. *Challengers of Khorne, led by Arbaal the Undefeated.",
       "list_items": [
-        ", led by Skarbrand the Exiled.",
-        ", led by Skulltaker.",
-        ", led by Arbaal the Undefeated."
+        "Exiles of Khorne, led by Skarbrand the Exiled.",
+        "Blooded Wanderers, led by Skulltaker.",
+        "Challengers of Khorne, led by Arbaal the Undefeated."
       ]
     },
     "Minor factions": {
-      "content": "Total War: Warhammer III Factions introduced in The Lost God campaign: * * Factions introduced in The Realm of Chaos campaign: * * * * *",
-      "list_items": null
+      "content": "Total War: Warhammer III Factions introduced in The Lost God campaign: *Blood-Sayters *Blood Keepers Factions introduced in The Realm of Chaos campaign: *Bloody Sword *Brazen Throne *Crimson Skull *Kharneth's Sons *Khorne Rebels",
+      "list_items": [
+        "Blood-Sayters",
+        "Blood Keepers",
+        "Bloody Sword",
+        "Brazen Throne",
+        "Crimson Skull",
+        "Kharneth's Sons",
+        "Khorne Rebels"
+      ]
     },
     "In battle": {
       "content": "",

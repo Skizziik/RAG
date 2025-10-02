@@ -2,7 +2,7 @@
   "race_id": "tzeentch",
   "name": "Tzeentch",
   "infobox": {
-    "subfactions": "The Deceivers",
+    "subfactions": "Oracles of Tzeentch The Deceivers",
     "money": "Favour",
     "climates": "Suitable:",
     "corruption": "Tzeentch Corruption",
@@ -30,18 +30,23 @@
       "list_items": null
     },
     "Playable factions": {
-      "content": "At the moment there are two playable Tzeentch factions, each led by a Legendary Lord. See individual pages for faction-specific info: *, led by Kairos Fateweaver. *The Deceivers, led by The Changeling.",
+      "content": "At the moment there are two playable Tzeentch factions, each led by a Legendary Lord. See individual pages for faction-specific info: *Oracles of Tzeentch, led by Kairos Fateweaver. *The Deceivers, led by The Changeling.",
       "list_items": [
-        ", led by Kairos Fateweaver.",
+        "Oracles of Tzeentch, led by Kairos Fateweaver.",
         "The Deceivers, led by The Changeling."
       ]
     },
     "Minor factions": {
-      "content": "Total War: Warhammer III Factions introduced in The Lost God campaign: * *, led by Sarthorael the Everwatcher. *The Sightless Factions introduced in The Realm of Chaos campaign: * * * * Factions introduced in the Immortal Empires campaign: * (only appear in a Wood Elves campaign)",
+      "content": "Total War: Warhammer III Factions introduced in The Lost God campaign: *Apostles of Change *Sarthorael's Watchers, led by Sarthorael the Everwatcher. *The Sightless Factions introduced in The Realm of Chaos campaign: *All-Seeing Eye *Broken Wheel *Flaming Scribes *Tzeentch Rebels Factions introduced in the Immortal Empires campaign: *Tzeentchian Cult (only appear in a Wood Elves campaign)",
       "list_items": [
-        ", led by Sarthorael the Everwatcher.",
+        "Apostles of Change",
+        "Sarthorael's Watchers, led by Sarthorael the Everwatcher.",
         "The Sightless",
-        "(only appear in a Wood Elves campaign)"
+        "All-Seeing Eye",
+        "Broken Wheel",
+        "Flaming Scribes",
+        "Tzeentch Rebels",
+        "Tzeentchian Cult (only appear in a Wood Elves campaign)"
       ]
     },
     "In Battle": {

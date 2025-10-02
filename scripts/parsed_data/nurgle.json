@@ -16,16 +16,22 @@
       "list_items": null
     },
     "Playable factions": {
-      "content": "At the moment there are three playable Nurgle factions, each led by a Legendary Lord. See individual pages for faction-specific info. *, led by Ku'gath Plaguefather. *The Maggot Host, led by Tamurkhan the Maggot Lord. *, led by Epidemius.",
+      "content": "At the moment there are three playable Nurgle factions, each led by a Legendary Lord. See individual pages for faction-specific info. *Poxmakers of Nurgle, led by Ku'gath Plaguefather. *The Maggot Host, led by Tamurkhan the Maggot Lord. *Tallymen of Pestilence, led by Epidemius.",
       "list_items": [
-        ", led by Ku'gath Plaguefather.",
+        "Poxmakers of Nurgle, led by Ku'gath Plaguefather.",
         "The Maggot Host, led by Tamurkhan the Maggot Lord.",
-        ", led by Epidemius."
+        "Tallymen of Pestilence, led by Epidemius."
       ]
     },
     "Minor factions": {
-      "content": "Total War: Warhammer III Factions introduced in The Realm of Chaos campaign: * * * * Factions introduced in the Immortal Empires campaign: *",
-      "list_items": null
+      "content": "Total War: Warhammer III Factions introduced in The Realm of Chaos campaign: *Bubonic Swarm *Maggoth Kin *Nurgle Rebels *Septic Claw Factions introduced in the Immortal Empires campaign: *Pallid Nurslings",
+      "list_items": [
+        "Bubonic Swarm",
+        "Maggoth Kin",
+        "Nurgle Rebels",
+        "Septic Claw",
+        "Pallid Nurslings"
+      ]
     },
     "In-game description": {
       "content": "Nurgle, also known as the Plague Lord, is the Chaos God of disease, decay, death, and degradation. He is perhaps the oldest of his brother Gods, for the process of decay began with life. Yet Nurgle is also the personification of rebirth. After all, atrophy is simply one part of life's cycle, without which nothing new can grow. And so those who embrace Nurgle, accept their own doom with good humour. Disfigured by disease and mutation, they are keen to spread Grandfather's blessings to the poor souls that wander through life unafflicted. As plagues spread, so to does Nurgle's power and status amongst his brothers - he waxes and wanes, weakest when bellies are full and mortals are healthy, but quickly rising to absolute ascendancy when his followers unleash the most lethal of diseases. * Plagues: Concoct and spread plagues across the world or afflict your own assets. * Cyclical Buildings: Settlements will grow over time and will then wither and die out.",

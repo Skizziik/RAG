@@ -23,16 +23,22 @@
       "list_items": null
     },
     "Playable factions": {
-      "content": "At the moment there is only one playable Slaanesh faction, with two new upcoming factions that will be added into the game at a later date. See individual pages for faction-specific info: *, led by N'Kari. *, led by Dechala the Denied One. *TBA faction, led by TBA.",
+      "content": "At the moment there is only one playable Slaanesh faction, with two new upcoming factions that will be added into the game at a later date. See individual pages for faction-specific info: *Seducers of Slaanesh, led by N'Kari. *Tormentors, led by Dechala the Denied One. *TBA faction, led by TBA.",
       "list_items": [
-        ", led by N'Kari.",
-        ", led by Dechala the Denied One.",
+        "Seducers of Slaanesh, led by N'Kari.",
+        "Tormentors, led by Dechala the Denied One.",
         "TBA faction, led by TBA."
       ]
     },
     "Minor factions": {
-      "content": "Total War: Warhammer III Factions introduced in The Realm of Chaos campaign: * * * * Factions introduced in Immortal Empires campaign: *",
-      "list_items": null
+      "content": "Total War: Warhammer III Factions introduced in The Realm of Chaos campaign: *Exquisite Pain *Rapturous Excess *Slaanesh Rebels *Subtle Torture Factions introduced in Immortal Empires campaign: *Keepers of Bliss",
+      "list_items": [
+        "Exquisite Pain",
+        "Rapturous Excess",
+        "Slaanesh Rebels",
+        "Subtle Torture",
+        "Keepers of Bliss"
+      ]
     },
     "In-game description": {
       "content": "Slaanesh is dedicated to the pursuit of excess, gratification, hedonism, pain and amoral pleasure at the expense of any soul. He is the youngest of the Chaos Gods, for the complex emotions of erotic desire and decadence only exist within the minds of intelligent races. From within the Realm of Chaos, the Dark Prince revels in each new sensation discovered. He guides the mortal inhabitants laden with desire to go ever futher in their pursuit of stimulation. Those who serve Slaanesh are consumed by their own dark passions, driven by the need for their mistress-master's approval to commit more sordid atrocities. And so Slaanesh's followers practice war upon the nations of the south, seducing their foes into service of their Dark God and inflicting symphonies of misery upon those who resist his call. * Devotees: Amass followers by raiding, sacking and looting settlements. * Summon Disciple Armies: Use Devotees to summon armies in corrupted areas. * Seduction: Compel enemy units to join your army during battles, and force whole factions into vassalage via your Seductive Influence.",

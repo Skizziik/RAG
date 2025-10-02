@@ -70,9 +70,11 @@ def clean_wiki_markup(text):
     # Remove {{template}} but keep {{Main|text}} content
     text = re.sub(r'\{\{Main\|([^\}]+)\}\}', r'\1', text)
 
-    # Extract faction names from {{The X faction}} templates
+    # Extract faction names from various templates:
     # {{The Northern Provinces faction}} -> "The Northern Provinces"
     text = re.sub(r'\{\{The ([^\}]+?) faction\}\}', r'The \1', text)
+    # {{faction_name faction}} -> "faction_name" (for other patterns)
+    text = re.sub(r'\{\{([A-Z][^\}]+?) faction\}\}', r'\1', text)
 
     # Remove remaining templates
     text = re.sub(r'\{\{[^\}]+\}\}', '', text)

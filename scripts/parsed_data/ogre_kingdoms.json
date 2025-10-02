@@ -25,16 +25,35 @@
       "list_items": null
     },
     "Playable factions": {
-      "content": "In campaign there are three playable Ogre Kingdoms racial factions, each with its own starting position, and led by separate Legendary Lord. See individual pages for faction-specific info. *, led by Greasus Goldtooth. *, led by Skrag the Slaughterer. *The Maneaters, led by Golgfag Maneater.",
+      "content": "In campaign there are three playable Ogre Kingdoms racial factions, each with its own starting position, and led by separate Legendary Lord. See individual pages for faction-specific info. *Goldtooth, led by Greasus Goldtooth. *Disciples of the Maw, led by Skrag the Slaughterer. *The Maneaters, led by Golgfag Maneater.",
       "list_items": [
-        ", led by Greasus Goldtooth.",
-        ", led by Skrag the Slaughterer.",
+        "Goldtooth, led by Greasus Goldtooth.",
+        "Disciples of the Maw, led by Skrag the Slaughterer.",
         "The Maneaters, led by Golgfag Maneater."
       ]
     },
     "Minor factions": {
-      "content": "Total War: Warhammer III Factions introduced in The Realm of Chaos campaign: * * * * * * * * * * * * * * * * Factions introduced in the Immortal Empires campaign: * * * *The Famished",
+      "content": "Total War: Warhammer III Factions introduced in The Realm of Chaos campaign: *Bloodmaw *Blood Guzzlers *Crossed Clubs *Eyebiter *Feastmaster *Fleshgreeders *Fulg *Lazarghs *Loose Tooth *Mountaineaters *Ogre Rebels *Rock Skulls *Sabreskin *Sons of the Mountain *Thunderguts *Treehammers Factions introduced in the Immortal Empires campaign: *Flamegullets *Sharktooth *Stoneshatter Tribe *The Famished",
       "list_items": [
+        "Bloodmaw",
+        "Blood Guzzlers",
+        "Crossed Clubs",
+        "Eyebiter",
+        "Feastmaster",
+        "Fleshgreeders",
+        "Fulg",
+        "Lazarghs",
+        "Loose Tooth",
+        "Mountaineaters",
+        "Ogre Rebels",
+        "Rock Skulls",
+        "Sabreskin",
+        "Sons of the Mountain",
+        "Thunderguts",
+        "Treehammers",
+        "Flamegullets",
+        "Sharktooth",
+        "Stoneshatter Tribe",
         "The Famished"
       ]
     },

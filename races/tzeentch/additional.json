@@ -6,11 +6,16 @@
       "details": []
     },
     "Minor factions": {
-      "description": "Total War: Warhammer III Factions introduced in The Lost God campaign: * *, led by Sarthorael the Everwatcher. *The Sightless Factions introduced in The Realm of Chaos campaign: * * * * Factions introduced in the Immortal Empires campaign: * (only appear in a Wood Elves campaign)",
+      "description": "Total War: Warhammer III Factions introduced in The Lost God campaign: *Apostles of Change *Sarthorael's Watchers, led by Sarthorael the Everwatcher. *The Sightless Factions introduced in The Realm of Chaos campaign: *All-Seeing Eye *Broken Wheel *Flaming Scribes *Tzeentch Rebels Factions introduced in the Immortal Empires campaign: *Tzeentchian Cult (only appear in a Wood Elves campaign)",
       "details": [
-        ", led by Sarthorael the Everwatcher.",
+        "Apostles of Change",
+        "Sarthorael's Watchers, led by Sarthorael the Everwatcher.",
         "The Sightless",
-        "(only appear in a Wood Elves campaign)"
+        "All-Seeing Eye",
+        "Broken Wheel",
+        "Flaming Scribes",
+        "Tzeentch Rebels",
+        "Tzeentchian Cult (only appear in a Wood Elves campaign)"
       ]
     },
     "General": {

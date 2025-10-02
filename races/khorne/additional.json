@@ -10,8 +10,16 @@
       "details": []
     },
     "Minor factions": {
-      "description": "Total War: Warhammer III Factions introduced in The Lost God campaign: * * Factions introduced in The Realm of Chaos campaign: * * * * *",
-      "details": []
+      "description": "Total War: Warhammer III Factions introduced in The Lost God campaign: *Blood-Sayters *Blood Keepers Factions introduced in The Realm of Chaos campaign: *Bloody Sword *Brazen Throne *Crimson Skull *Kharneth's Sons *Khorne Rebels",
+      "details": [
+        "Blood-Sayters",
+        "Blood Keepers",
+        "Bloody Sword",
+        "Brazen Throne",
+        "Crimson Skull",
+        "Kharneth's Sons",
+        "Khorne Rebels"
+      ]
     },
     "General": {
       "description": "Khorne is a melee-focused race that excels at charging. They have no spellcasters, but Khornate Daemons are resistant to spells. Killing the enemy grants the Blood God’s favour, which can be used on the following army abilities: * Horn of Khorne * Relentless Rage * Blade of Khorne",
