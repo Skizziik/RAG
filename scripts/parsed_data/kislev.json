@@ -1,7 +1,9 @@
 {
   "race_id": "kislev",
   "name": "Kislev",
-  "infobox": {},
+  "infobox": {
+    "DLC": "Shadows of Change"
+  },
   "sections": {
     "How they play": {
       "content": "* Devotion, a unique resource to Kislevite factions, is gained by winning battles against Chaos armies and constructing certain buildings. If Devotion gets too low, such as by attacking other Kislevite factions, Chaos armies will be more likely to attack you. Devotion is primarily spent on performing one of four rituals to the Motherland, which provide powerful bonuses and invoke the four main Kislev dieties: Salyak, Dazh, Ursun and Tor. Devotion is also spent to construct some higher tier buildings. * The Ice Court and the Great Orthodoxy compete for Supporters, a second unique resource for Kislevite factions. The more Supporters your faction gains, the more likely will minor Kislevite factions want to confederate with you. Gold and Devotion can also be spent to limit the rival Kislevite faction's Supporters. For the Ursun Revivalists, Supporters can earn closer relations with the other two big factions, along with bonuses, and they add Supporters to the Ice Court. * Atamans are unique lords who do not earn XP, but gain traits through dilemmas that enhance the current region and/or army they are located in. Only one Ataman can be recruited for every two provinces under your control, and he can be recruited for free to lead your armies into battle. If the Ataman is killed, a new Ataman will have to be recruited. * The Ice Court (mechanic) means that Ice Witches and Frost Maidens take a long time to train, but are then recruited for a discounted price, at a higher level, and already with abilities/traits. * Most Kislev units are hybrid units, proficient in both ranged and melee combat. Most human Kislev units have the By Our Blood ability which makes them temporarily unbreakable when their leadership is low, allowing them to fight longer.",

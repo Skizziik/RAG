@@ -87,8 +87,10 @@ def clean_wiki_markup(text):
 def extract_infobox(content):
     """
     Extract data from {{Infobox}} template
+    Handles both multi-line and single-line parameter formats
     """
-    infobox_match = re.search(r'\{\{Infobox[^}]*\n(.*?)\n\}\}', content, re.DOTALL)
+    # Match infobox with optional newline before closing }}
+    infobox_match = re.search(r'\{\{Infobox[^}]*\n(.*?)\n?\}\}', content, re.DOTALL)
 
     if not infobox_match:
         return {}
@@ -96,14 +98,28 @@ def extract_infobox(content):
     infobox_content = infobox_match.group(1)
     data = {}
 
-    # Extract key-value pairs
-    for line in infobox_content.split('\n'):
-        match = re.match(r'\|(\w+)\s*=\s*(.+)', line)
+    # Split by | but only if followed by word= pattern (positive lookahead)
+    # This handles both single-line (|key=val|key2=val2) and multi-line formats
+    params = re.split(r'\|(?=[\w\s]+\s*=)', infobox_content)
+
+    for param in params:
+        param = param.strip()
+        if not param:
+            continue
+
+        # Match key=value pattern (supporting keys with numbers and spaces)
+        match = re.match(r'([\w\s]+?)\s*=\s*(.+)', param, re.DOTALL)
         if match:
             key = match.group(1).strip()
-            value = clean_wiki_markup(match.group(2).strip())
-            if value:
-                data[key] = value
+            value = match.group(2).strip()
+
+            # Remove trailing }} if present (end of infobox)
+            value = re.sub(r'\}\}$', '', value)
+
+            # Clean wiki markup
+            cleaned_value = clean_wiki_markup(value)
+            if cleaned_value:
+                data[key] = cleaned_value
 
     return data
 

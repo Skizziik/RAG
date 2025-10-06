@@ -1,7 +1,12 @@
 {
   "race_id": "nurgle",
   "name": "Nurgle",
-  "infobox": {},
+  "infobox": {
+    "feature 1 title": "Plagues",
+    "feature 1 description": "Concoct and spread plagues across the world or afflict your own assets.",
+    "feature 2 title": "Cyclical Buildings",
+    "feature 2 description": "Settlements will grow over time and will then wither and die out."
+  },
   "sections": {
     "How They Play": {
       "content": "",

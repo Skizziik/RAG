@@ -1,7 +1,9 @@
 {
   "race_id": "grand_cathay",
   "name": "Grand Cathay",
-  "infobox": {},
+  "infobox": {
+    "subfactions": "{{The Northern Provinces faction"
+  },
   "sections": {
     "How They Play": {
       "content": "*The Ivory Road: Cathayan factions can send trade caravans west along the Ivory Road to the Old World, to gain income. Caravans will also face dilemmas that might enhance their rewards or destroy them. *Wu-Xing Compass: Use the magical Wu-Xing Compass to direct the Winds of Magic across the land, providing faction-wide benefits. *Harmony: Each action taken pushes the Harmony meter towards either Yin or Yang. The greatest benefits are gained from keeping the meter balanced in the center. *The Great Bastion: This mighty fortification will come under attack, but building it up will confer great benefits. *Battle Harmony: In battle, each unit is aligned with either Yin or Yang, and gain buffs when near an opposite-aligned unit. *Grand Cathay unit roster: Legions of weaker, cheaper human troops backed up by a diverse roster of stronger elite troops, flying cavalry, monsters, and war machines/artillery. A defensive, less mobile army vulnerable to flanking.",

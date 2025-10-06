@@ -165,12 +165,32 @@ def extract_game_data(parsed_data, race_id):
                    sections.get("How they play", {}) or
                    {})
 
+    # If "How They Play" is empty, try to extract from infobox features
+    infobox = parsed_data.get("infobox", {})
+    how_to_play_content = clean_wiki_markup(how_to_play.get("content", ""))
+    key_features = how_to_play.get("list_items", []) or []
+
+    # Extract feature descriptions from infobox if section is empty
+    if not how_to_play_content and not key_features:
+        feature_items = []
+        i = 1
+        while f"feature {i} title" in infobox or f"feature {i} description" in infobox:
+            title = infobox.get(f"feature {i} title", "")
+            desc = infobox.get(f"feature {i} description", "")
+            if title or desc:
+                feature_text = f"{title}: {desc}" if title and desc else (title or desc)
+                feature_items.append(feature_text)
+            i += 1
+
+        if feature_items:
+            key_features = feature_items
+
     overview = {
         "race_id": race_id,
         "name": parsed_data.get("name", ""),
         "background": clean_wiki_markup(background),
-        "how_to_play": clean_wiki_markup(how_to_play.get("content", "")),
-        "key_features": how_to_play.get("list_items", []) or []
+        "how_to_play": how_to_play_content,
+        "key_features": key_features
     }
 
     # MECHANICS

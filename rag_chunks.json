@@ -53,19 +53,6 @@
     }
   },
   {
-    "id": "daemons_of_chaos_factions",
-    "text": "Playable Factions for Daemons Of Chaos:\n\n- , led by The Daemon Prince.",
-    "metadata": {
-      "race": "daemons_of_chaos",
-      "race_name": "Daemons Of Chaos",
-      "faction_type": "chaos",
-      "difficulty": "hard",
-      "playstyle": "versatile,adaptive",
-      "keywords": "undivided,versatile,daemon prince,all gods,chaos,mixed",
-      "category": "factions"
-    }
-  },
-  {
     "id": "grand_cathay_background_part1",
     "text": "Background - Part 1:\n\nGrand Cathay is the largest empire in the Warhammer Fantasy setting. Located in the Far East, Grand Cathay is bordered to the west by the Mountains of Mourn, to the east by the Far Sea, to the south by Khuresh and to the north by the Eastern Steppes and Chaos Wastes. Southwest, across the Mountains of Heaven, lies the land of Ind. Grand Cathay itself is a huge and diverse country, with desert in the west, mighty rivers and farmland in the center, great coastal cities in the east, and forested mountain foothills in the south. Grand Cathay is a powerful nation of order that stands against Chaos. However, they are also located far from other order-aligned nations, and tend to be somewhat isolationist. Contact and trade with the High Elves and human nations of the Old World has increased in recent times, but travel between east and west is still dangerous. Because of this isolation, Grand Cathay long ago constructed the Great Bastion, a huge fortification along their northern border which guards against incursions by Hobgoblins as well as marauding bands of Hung, Kurgan and other forces of Chaos. The rulers of Cathay are a family of immortal dragons who are powerful spellcasters, and can shapeshift into human form. In principle, Grand Cathay is ruled by the Celestial Dragon Emperor and Moon Empress, who are revered by the populace. In practice, these two spend most of their time in the Imperial Court, and leave governing of the empire to their sons and daughters. The common people of Cathay are humans, with smaller populations of Monkey-Warriors. In some Cathay's trading cities, there is populations of foreigners from Tilea, Estalia, The Empire and even High Elves and Dwarfs.",
     "metadata": {
@@ -132,20 +119,7 @@
     }
   },
   {
-    "id": "grand_cathay_battle_5",
-    "text": "Battle Info: Harmony\n\nHarmony Cathay's troops are divided into two categories, Yin and Yang. Yin units are typically ranged units while Yang are Melee focused. When a Yin and Yang unit are in close proximity the Yin units will get a reload buff and Yang units will get a Melee defense buff. As a result Cathay armies function best with a diverse and well supported formations that can make use of these buffs.",
-    "metadata": {
-      "race": "grand_cathay",
-      "race_name": "Grand Cathay",
-      "faction_type": "order",
-      "difficulty": "medium",
-      "playstyle": "defensive,balanced,ranged",
-      "keywords": "dragons,harmony,yin,yang,cathay,empire,defensive",
-      "category": "battle"
-    }
-  },
-  {
-    "id": "grand_cathay_units_6",
+    "id": "grand_cathay_units_5",
     "text": "Unit Roster: Units\n\nGrand Cathay unit roster",
     "metadata": {
       "race": "grand_cathay",
@@ -155,19 +129,6 @@
       "playstyle": "defensive,balanced,ranged",
       "keywords": "dragons,harmony,yin,yang,cathay,empire,defensive",
       "category": "units"
-    }
-  },
-  {
-    "id": "grand_cathay_factions",
-    "text": "Playable Factions for Grand Cathay:\n\n- The Northern Provinces, led by Miao Ying, the Storm Dragon.\n- The Western Provinces, led by Zhao Ming, the Iron Dragon.",
-    "metadata": {
-      "race": "grand_cathay",
-      "race_name": "Grand Cathay",
-      "faction_type": "order",
-      "difficulty": "medium",
-      "playstyle": "defensive,balanced,ranged",
-      "keywords": "dragons,harmony,yin,yang,cathay,empire,defensive",
-      "category": "factions"
     }
   },
   {
@@ -221,19 +182,6 @@
       "playstyle": "aggressive,melee",
       "keywords": "blood,melee,skulls,aggressive,khorne,chaos,blood god",
       "category": "units"
-    }
-  },
-  {
-    "id": "khorne_factions",
-    "text": "Playable Factions for Khorne:\n\n- , led by Skarbrand the Exiled.\n- , led by Skulltaker.\n- , led by Arbaal the Undefeated.",
-    "metadata": {
-      "race": "khorne",
-      "race_name": "Khorne",
-      "faction_type": "chaos",
-      "difficulty": "easy",
-      "playstyle": "aggressive,melee",
-      "keywords": "blood,melee,skulls,aggressive,khorne,chaos,blood god",
-      "category": "factions"
     }
   },
   {
@@ -316,19 +264,6 @@
     }
   },
   {
-    "id": "kislev_factions",
-    "text": "Playable Factions for Kislev:\n\n- The Ice Court, led by Tzarina Katarin.\n- The Great Orthodoxy, led by Kostaltyn.\n- , led by Boris Ursus.\n- , led by Yuri Barkov (The Lost God campaign only).",
-    "metadata": {
-      "race": "kislev",
-      "race_name": "Kislev",
-      "faction_type": "order",
-      "difficulty": "medium",
-      "playstyle": "hybrid,cavalry,magic",
-      "keywords": "bears,ice,cavalry,hybrid,russia,cold,ursun",
-      "category": "factions"
-    }
-  },
-  {
     "id": "nurgle_background",
     "text": "Background:\n\nThe Lord of Decay, Grandfather Nurgle, The Crow Nurgle represents despair, resilience, resignation and acceptance ... in the face of inevitable disease, decay, death and entropy. Among mortals, Nurgle appeals to the downtrodden and hopeless. Nurgle appears to be the only Chaos God that has any sort of genuine care for his followers, offering them respite from pain and suffering caused by disease and death. His followers are often cheery and unconcerned even while visibly rotting, bloated or infested by maggots. They delight in spreading Nurgle's gifts (horrifying diseases which cause immense suffering) to others. Nurgle despises the undead, who resist the inevitable end of life. Nurgle is associated with the colours green and brown, flies, maggots, slugs, snails, toads and carrion-eaters. Among the Norscans, he is known as the Crow.",
     "metadata": {
@@ -342,7 +277,20 @@
     }
   },
   {
-    "id": "nurgle_mechanic_1",
+    "id": "nurgle_gameplay",
+    "text": "Key Features:\n- Plagues: Concoct and spread plagues across the world or afflict your own assets.\n- Cyclical Buildings: Settlements will grow over time and will then wither and die out.",
+    "metadata": {
+      "race": "nurgle",
+      "race_name": "Nurgle",
+      "faction_type": "chaos",
+      "difficulty": "medium",
+      "playstyle": "defensive,attrition",
+      "keywords": "plague,slow,durable,attrition,nurgle,chaos,decay",
+      "category": "gameplay"
+    }
+  },
+  {
+    "id": "nurgle_mechanic_2",
     "text": "General Mechanic: Nurgle buildings\n\nNurgle does not spread akin to a normal faction. There are no labourers building great monuments to their gods, no scribes researching their latest magical obsession, not even the gruesome fighting pits of a Khornate bloodbath disguising itself as a town or city. Grandfather’s people need not gather to worship nor prove themselves with acts of devotion – he runs through their blood, after all. No, settlements infected by Nurgle are closer to growths that blight the landscape than real towns. Fields of rotting flowers, mushrooms and creeping vines – and at the center of it all, a great tree pulsing with life, death, and infection. In this manner, Nurgle buildings are not upgraded, they grow, flourish, die, and are reborn. Each building will evolve to its next phase over a number of turns, eventually withering and starting again from a base state. At each point its effects will be different, and each new evolution will add units to the recruitment pool – which we’ll come on to in a second. Say you choose a building slot to house a Rancid Aloe. After a few turns of building, it will complete and add a Forsaken of Nurgle unit to your pool, the secretions from the plant having been used to fuse metal and flesh in a manner pleasing to Grandfather. It will then begin to pollinate, and four turns later enter the germination phase. This increases the income the building generates and adds another unit of Forsaken to your pool. Another four turns, another boost in income, and this time a Spawn of Nurgle. This is true of all Nurgle buildings, be they for infrastructure or provide units. Indeed, many do both, spewing Nurglings as a byproduct even as their primary purpose is to support the region by infecting the Earth itself, increasing Control. In addition, various buildings, technologies, plagues, and so on can decrease the time between each phase, making the production of units quicker.",
     "metadata": {
       "race": "nurgle",
@@ -356,7 +304,7 @@
     }
   },
   {
-    "id": "nurgle_mechanic_2",
+    "id": "nurgle_mechanic_3",
     "text": "General Mechanic: Nurgle technology tree\n\nNurgle’s tech tree has similarities with Khorne, brothers in destruction as they are, with several pods of seven technologies each, requiring four to be researched to move on to the next. This gives you a lot of options on how you want to progress and what to unlock first, as well as how important moving on to the next pod is versus picking up a particularly useful tech. As well as the normal unit upgrades, diplomacy, and such forth, several Nurgle techs improve plagues in various ways, including unlocking new symptoms. Ironically similar to his major rival, Tzeentch, there are also several techs that add spells to Great Unclean Ones, making them powerful casters as well as oozing piles of rot. On the note of spells and magical abilities, Nurgle has access to various army abilities. These are unlocked through technology and are charged in-battle based on how much damage your units are taking. Each also has the Chain property, meaning that it will target a specific unit then spread to nearby units, rather than targeting an area. This can be powerful or a drawback, depending on how you use it, but certainly fits the theme of contagions spreading through both armies in real time. Also of note is the big variation between research times depending on the strength of various techs. Moving between each pod could take a significantly different amount of time depending on which techs you go for. Experiment! Such is the joy of Nurgle.",
     "metadata": {
       "race": "nurgle",
@@ -370,7 +318,7 @@
     }
   },
   {
-    "id": "nurgle_magic_3",
+    "id": "nurgle_magic_4",
     "text": "Magic: Magic\n\nNurgle has access to two lores of magic: * Lore of Death * Lore of Nurgle In addition, The Maggot Host has access to two more lores of magic: * Lore of Shadows * Lore of the Wild\n\nLores of Magic:\n- Lore of Death\n- Lore of Nurgle\n- Lore of Shadows\n- Lore of the Wild",
     "metadata": {
       "race": "nurgle",
@@ -380,19 +328,6 @@
       "playstyle": "defensive,attrition",
       "keywords": "plague,slow,durable,attrition,nurgle,chaos,decay",
       "category": "magic"
-    }
-  },
-  {
-    "id": "nurgle_battle_4",
-    "text": "Battle Info: In Battle\n\nGetting damage in battle gets favour from Nurgle that can be used on the following army abilities: * Curse of the Slug * Fecundity * Rot, Glorious Rot\n\nDetails:\n- Curse of the Slug\n- Fecundity\n- Rot, Glorious Rot",
-    "metadata": {
-      "race": "nurgle",
-      "race_name": "Nurgle",
-      "faction_type": "chaos",
-      "difficulty": "medium",
-      "playstyle": "defensive,attrition",
-      "keywords": "plague,slow,durable,attrition,nurgle,chaos,decay",
-      "category": "battle"
     }
   },
   {
@@ -406,19 +341,6 @@
       "playstyle": "defensive,attrition",
       "keywords": "plague,slow,durable,attrition,nurgle,chaos,decay",
       "category": "units"
-    }
-  },
-  {
-    "id": "nurgle_factions",
-    "text": "Playable Factions for Nurgle:\n\n- , led by Ku'gath Plaguefather.\n- The Maggot Host, led by Tamurkhan the Maggot Lord.\n- , led by Epidemius.",
-    "metadata": {
-      "race": "nurgle",
-      "race_name": "Nurgle",
-      "faction_type": "chaos",
-      "difficulty": "medium",
-      "playstyle": "defensive,attrition",
-      "keywords": "plague,slow,durable,attrition,nurgle,chaos,decay",
-      "category": "factions"
     }
   },
   {
@@ -502,19 +424,6 @@
     }
   },
   {
-    "id": "ogre_kingdoms_factions",
-    "text": "Playable Factions for Ogre Kingdoms:\n\n- , led by Greasus Goldtooth.\n- , led by Skrag the Slaughterer.\n- The Maneaters, led by Golgfag Maneater.",
-    "metadata": {
-      "race": "ogre_kingdoms",
-      "race_name": "Ogre Kingdoms",
-      "faction_type": "neutral",
-      "difficulty": "easy",
-      "playstyle": "monstrous,mercenary",
-      "keywords": "ogres,monstrous,camps,meat,mercenary,big,hungry",
-      "category": "factions"
-    }
-  },
-  {
     "id": "slaanesh_background",
     "text": "Background:\n\nThe Dark Prince, the Prince of Excess/Pleasure, She-Who-Thirsts, The Serpent Slaanesh is the youngest of the Chaos Gods, and generally considered the weakest. He represents desire, pleasure, pain and excess and is associated with the colours pink, purple, gold, pale white and black. Slaanesh breaks minds and inflicts untold incredible suffering but also instills joy, creativity and extreme pleasure. Among mortals, Slaanesh appeals to the egotistical, the obsessive, addicts, artists, hedonists and other sensation-seekers. His followers are graceful, beautiful, cruel, sometimes with both masculine and feminine features. Slaanesh is said to desire Elven souls above all others, and devours them hungrily.",
     "metadata": {
@@ -554,33 +463,7 @@
     }
   },
   {
-    "id": "slaanesh_battle_3",
-    "text": "Battle Info: Battle mechanics\n\nKilling enemies in negative morale states provides the Slaanesh army with battle currency, which can be spent on the following Army Abilities: # Fascination: Direct Damage, damage per second 63-125, causes Rampage. Range: infinite, Duration: 23 seconds, Cooldown: 90 seconds. # Narcissism: Hex, target cannot move. Range: infinite, Duration: 13 seconds, Cooldown: 60 seconds. # Sweet Sorrow: Augment (Area), Speed +25%, Vigor -3%. Range and Effect Range: Infinite, Duration: 20 seconds, Cooldown: 120 seconds.",
-    "metadata": {
-      "race": "slaanesh",
-      "race_name": "Slaanesh",
-      "faction_type": "chaos",
-      "difficulty": "medium",
-      "playstyle": "fast,aggressive,melee",
-      "keywords": "fast,seduction,pleasure,speed,slaanesh,chaos,excess",
-      "category": "battle"
-    }
-  },
-  {
-    "id": "slaanesh_battle_4",
-    "text": "Battle Info: Post-Battle Options\n\nSlaaneshi factions have a unique post-battle option, Create Vassal. Due to the importance of vassals for Slaaneshi factions, as well as the limitations of their Seductive Influence (see below), this would ordinarily make it quite difficult to continue making vassals after the midgame, as all the minor factions have already been gobbled up by majors. However, Create Vassal allows you to recreate a defeated minor faction as a Vassal when capturing a settlement that was previously their capital. It appears that this will also work on minor Chaos factions as well as Human and Elven factions, it is currently unknown whether it will work on other races (Ogres, Skaven, Dwarves, Lizardmen). Otherwise this ability yields the same rewards as the Subjugate post battle option, which is used to forcibly vassalize when defeating the last remaining settlement of a faction - notably, for Slaaneshi factions this provides a +500 Devotee boost as well as a small amount of replenishment.",
-    "metadata": {
-      "race": "slaanesh",
-      "race_name": "Slaanesh",
-      "faction_type": "chaos",
-      "difficulty": "medium",
-      "playstyle": "fast,aggressive,melee",
-      "keywords": "fast,seduction,pleasure,speed,slaanesh,chaos,excess",
-      "category": "battle"
-    }
-  },
-  {
-    "id": "slaanesh_units_5",
+    "id": "slaanesh_units_3",
     "text": "Unit Roster: Units\n\nSlaanesh unit roster The Slaanesh army has access to units both daemonic and mortal units. All units have Physical Resistance, high Speed, and are Immune to Psychology. All mortal units (along with the Exalted Keeper of Secrets, Daemon Prince, Azazel, N'Kari, Soul Grinder, and Keeper of Secrets) have access Strider. All daemonic units (along with the Cultist of Slaanesh, Forsaken and Spawn of Slaanesh), cavalry (with exception to Hellstriders of Slaanesh), and chariots have Devastating Flanker.",
     "metadata": {
       "race": "slaanesh",
@@ -593,7 +476,7 @@
     }
   },
   {
-    "id": "slaanesh_units_6",
+    "id": "slaanesh_units_4",
     "text": "Unit Roster: Seduce Unit(s)\n\nPrior to battle, Slaanesh armies can pay Divine Favor to attempt to bring one or more enemy units over to their side with their Seduce Units ability. If successful, the unit will join the Slaaneshi side for the duration of the combat and then, if not defeated in battle, disband. There does not appear to be a limitation on what kinds of units are vulnerable to Seduce Unit (unlike their campaign-based Seductive Influence ability which only works on certain races), but the cost varies by unit (in a manner analogous to their multiplayer cost) and the Slaanesh player will have both a maximum Seduce Units Budget they can spend and a maximum number of units they can affect. These numbers will improve over the course of the game with technology upgrades, character skills, and buildings, as well as a particular Unholy Manifestation.",
     "metadata": {
       "race": "slaanesh",
@@ -603,19 +486,6 @@
       "playstyle": "fast,aggressive,melee",
       "keywords": "fast,seduction,pleasure,speed,slaanesh,chaos,excess",
       "category": "units"
-    }
-  },
-  {
-    "id": "slaanesh_factions",
-    "text": "Playable Factions for Slaanesh:\n\n- , led by N'Kari.\n- TBA faction, led by TBA.",
-    "metadata": {
-      "race": "slaanesh",
-      "race_name": "Slaanesh",
-      "faction_type": "chaos",
-      "difficulty": "medium",
-      "playstyle": "fast,aggressive,melee",
-      "keywords": "fast,seduction,pleasure,speed,slaanesh,chaos,excess",
-      "category": "factions"
     }
   },
   {
@@ -682,19 +552,6 @@
       "playstyle": "magic,ranged,mobile",
       "keywords": "magic,scheming,barriers,flying,tzeentch,chaos,change",
       "category": "units"
-    }
-  },
-  {
-    "id": "tzeentch_factions",
-    "text": "Playable Factions for Tzeentch:\n\n- , led by Kairos Fateweaver.",
-    "metadata": {
-      "race": "tzeentch",
-      "race_name": "Tzeentch",
-      "faction_type": "chaos",
-      "difficulty": "hard",
-      "playstyle": "magic,ranged,mobile",
-      "keywords": "magic,scheming,barriers,flying,tzeentch,chaos,change",
-      "category": "factions"
     }
   }
 ]

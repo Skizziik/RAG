@@ -2,11 +2,7 @@
   "race_id": "tzeentch",
   "name": "Tzeentch",
   "infobox": {
-    "subfactions": "Oracles of Tzeentch The Deceivers",
-    "money": "Favour",
-    "climates": "Suitable:",
-    "corruption": "Tzeentch Corruption",
-    "DLC": "Champions of Chaos Shadows of Change"
+    "subfactions": "{{Oracles of Tzeentch faction"
   },
   "sections": {
     "How They Play": {

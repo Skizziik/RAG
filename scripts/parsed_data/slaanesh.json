@@ -1,7 +1,9 @@
 {
   "race_id": "slaanesh",
   "name": "Slaanesh",
-  "infobox": {},
+  "infobox": {
+    "subfactions": "{{Seducers of Slaanesh faction"
+  },
   "sections": {
     "How They Play": {
       "content": "* The fastest, the deadliest - the most naked. Slaanesh is the fastest army in the game and does stunning amounts of damage in close quarters, to make up for the fact they have almost no ranged units and very little armor. *Slaanesh is the only Chaos daemonic faction that does not have a major diplomatic aversion penalty with other non-Chaos races. *Use Seductive Influence to turn non-Chaos races into your submissive vassals. *Draw Devotees to you with your hedonistic exploits and then commit them to spreading cults or Pleasurable Acts. *Spread Slaanesh Corruption. Summon disciple armies to fight for you in areas high in it. *Spend Divine Favour to seduce enemy units to fight for you instead.",

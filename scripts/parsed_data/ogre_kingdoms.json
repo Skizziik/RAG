@@ -1,10 +1,7 @@
 {
   "race_id": "ogre_kingdoms",
   "name": "Ogre Kingdoms",
-  "infobox": {
-    "climates": "Suitable:",
-    "corruption": "Untainted"
-  },
+  "infobox": {},
   "sections": {
     "How They Play": {
       "content": "* Camps - special settlements which Ogres can create anywhere on the campaign map. Camps act as the major settlements, providing most of their best buildings. * Big Names - Ogre Lords complete missions to unlock names which provide bonuses and can be swapped after 10 turns. * Bounties - receive missions from other factions you are not at war with, for rewards. * Meat - a unique resource gained from battles, it is spent on army upkeep or sacrificed to the Great Maw for faction-wide buffs. * Units - Most units are monstrous infantry and large monsters, along with a few small Gnoblar units. No flying units.",

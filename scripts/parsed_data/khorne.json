@@ -1,7 +1,9 @@
 {
   "race_id": "khorne",
   "name": "Khorne",
-  "infobox": {},
+  "infobox": {
+    "subfactions": "{{Exiles of Khorne faction"
+  },
   "sections": {
     "How they play": {
       "content": "Khorne factions gain a unique resource, Skulls, through campaign events and fighting other armies in battle, regardless or victory or defeat. Skulls can be used on the Skull Throne to gain various buffs. Skulls are also spent to acquire tech and occupy settlements. Although Khorne's factions must spend skulls to occupy a settlement, any ruined region in a province where Khorne has an established settlement will eventually be automatically colonized at no cost, slowly increasing the chance after every turns. Khorne has two options when razing a settlement: Skulls for the Skull Throne and Blood for the Blood God. Skulls for the Skull Throne provides Skulls. Blood for the Blood God replenishes the army and spawns a Blood Host army in the region. Blood Host armies cannot recruit or replenish (except from devoured captives), but are otherwise normal armies for the faction. After several turns, they begin to experience attrition and will eventually die, though winning battles with them will prolong this. They have no upkeep and do not count toward the faction's supply lines penalty. Each Khorne army has Bloodletting, a gauge the increases as the armies win battles and decreases when they are idle. Bloodletting provides faction wide growth bonuses and replenishment bonuses, local corruption bonuses, and reduces the army's global recruitment and upkeep. Some of Khorne's technologies within the tech tree debuffs diplomatic relations, since the Blood God is not interested in peace treaties and more interested in craniums. Like all daemonic factions, Khorne has Unholy Manifestations and Cults.",

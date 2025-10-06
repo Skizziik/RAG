@@ -2,11 +2,7 @@
   "race_id": "daemons_of_chaos",
   "name": "Daemons Of Chaos",
   "infobox": {
-    "subfactions": "Legion of Chaos",
-    "climates": "Suitable: Unpleasant:",
-    "corruption": "Chaos Undivided Corruption Khorne Corruption Nurgle Corruption Slaanesh Corruption Tzeentch Corruption",
-    "provinces": "The Forest of Decay (Immortal Empires)",
-    "DLC": "Champions of Chaos Shadows of Change Thrones of Decay"
+    "subfactions": "{{Legion of Chaos faction"
   },
   "sections": {
     "How to play": {
